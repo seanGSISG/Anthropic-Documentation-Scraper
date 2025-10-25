@@ -1,0 +1,69 @@
+name: Daily Anthropic Docs Scraper
+
+on:
+  schedule:
+    # 6:00 AM MST (13:00 UTC during standard time, Nov-Mar)
+    - cron: '0 13 * * *'
+    # 6:00 AM MDT (12:00 UTC during daylight time, Mar-Nov)
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  scrape-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for proper git operations
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python3 scraper.py --once
+        continue-on-error: false
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet anthropic_docs/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add anthropic_docs/
+          git commit -m "🤖 Auto-update: Anthropic docs $(date +'%Y-%m-%d %H:%M:%S MST')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload scraper log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-log-${{ github.run_number }}
+          path: scraper.log
+          retention-days: 30
+
+      - name: Generate update summary
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          echo "## Documentation Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Files Changed:**" >> $GITHUB_STEP_SUMMARY
+          git diff --name-only HEAD~1 anthropic_docs/ | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Stats:**" >> $GITHUB_STEP_SUMMARY
+          git diff --stat HEAD~1 anthropic_docs/ >> $GITHUB_STEP_SUMMARY
