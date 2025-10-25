@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview
-Last fetched: 2025-10-25T12:49:34.456125
+Last fetched: 2025-10-25T19:27:24.011249
 
 ---
 

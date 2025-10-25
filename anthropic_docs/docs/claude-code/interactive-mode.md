@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/interactive-mode
-Last fetched: 2025-10-25T12:49:06.486742
+Last fetched: 2025-10-25T19:27:11.958439
 
 ---
 

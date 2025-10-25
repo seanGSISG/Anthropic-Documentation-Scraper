@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought
-Last fetched: 2025-10-25T12:48:18.150527
+Last fetched: 2025-10-25T19:27:07.759906
 
 ---
 

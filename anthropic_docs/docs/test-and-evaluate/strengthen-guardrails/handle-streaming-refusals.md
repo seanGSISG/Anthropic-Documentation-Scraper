@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals
-Last fetched: 2025-10-25T12:48:36.395507
+Last fetched: 2025-10-25T19:26:55.192189
 
 ---
 

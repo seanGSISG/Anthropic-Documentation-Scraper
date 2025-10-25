@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool
-Last fetched: 2025-10-25T12:48:45.808783
+Last fetched: 2025-10-25T19:27:55.726977
 
 ---
 

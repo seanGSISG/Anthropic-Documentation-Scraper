@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/terminal-config
-Last fetched: 2025-10-25T12:49:39.533550
+Last fetched: 2025-10-25T19:26:31.755935
 
 ---
 
