@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 143 |
 | **Total Size** | 2.42 MB |
-| **Last Updated** | 2025-10-25 12:49:43 UTC |
+| **Last Updated** | 2025-10-25 19:28:03 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
+- **[docs/agents-and-tools/tool-use/implement-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/implement-tool-use)** - 2025-10-25
+- **[docs/build-with-claude/prompt-engineering/be-clear-and-direct.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct)** - 2025-10-25
+- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-10-25
+- **[docs/agents-and-tools/mcp-connector.md](https://docs.claude.com/en/docs/agents-and-tools/mcp-connector)** - 2025-10-25
+- **[docs/claude-code/setup.md](https://docs.claude.com/en/docs/claude-code/setup)** - 2025-10-25
+- **[docs/claude-code/jetbrains.md](https://docs.claude.com/en/docs/claude-code/jetbrains)** - 2025-10-25
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-10-25
 - **[docs/build-with-claude/prompt-engineering/claude-4-best-practices.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)** - 2025-10-25
-- **[docs/build-with-claude/context-windows.md](https://docs.claude.com/en/docs/build-with-claude/context-windows)** - 2025-10-25
-- **[docs/test-and-evaluate/eval-tool.md](https://docs.claude.com/en/docs/test-and-evaluate/eval-tool)** - 2025-10-25
-- **[docs/claude-code/hooks-guide.md](https://docs.claude.com/en/docs/claude-code/hooks-guide)** - 2025-10-25
-- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-10-25
-- **[docs/claude-code/data-usage.md](https://docs.claude.com/en/docs/claude-code/data-usage)** - 2025-10-25
-- **[docs/claude-code/statusline.md](https://docs.claude.com/en/docs/claude-code/statusline)** - 2025-10-25
-- **[docs/claude-code/terminal-config.md](https://docs.claude.com/en/docs/claude-code/terminal-config)** - 2025-10-25
-- **[docs/legacy-model-guide.md](https://docs.claude.com/en/docs/legacy-model-guide)** - 2025-10-25
-- **[docs/claude-code/sdk.md](https://docs.claude.com/en/docs/claude-code/sdk)** - 2025-10-25
+- **[docs/claude-code/costs.md](https://docs.claude.com/en/docs/claude-code/costs)** - 2025-10-25
+- **[docs/claude-code/common-workflows.md](https://docs.claude.com/en/docs/claude-code/common-workflows)** - 2025-10-25
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}
+**Last Generated**: 2025-10-25 13:35:52 UTC

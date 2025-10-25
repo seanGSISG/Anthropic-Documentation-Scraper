@@ -98,6 +98,9 @@ def generate_readme(metadata: Dict) -> str:
     else:
         last_update_str = "Never"
 
+    # Get current timestamp for generation
+    generated_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
+
     # Build README content
     readme = f"""# Anthropic Documentation Mirror
 
@@ -159,7 +162,7 @@ def generate_readme(metadata: Dict) -> str:
         readme += "\n---\n\n"
 
     # About section
-    readme += """## 📖 About
+    readme += f"""## 📖 About
 
 This repository contains an automated mirror of Anthropic's official documentation from [docs.claude.com](https://docs.claude.com).
 
@@ -248,7 +251,7 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}
+**Last Generated**: {generated_time}
 """
 
     return readme
