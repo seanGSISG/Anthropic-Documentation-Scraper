@@ -20,3 +20,7 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Claude
+.ai-docs/
+CLAUDE.md

@@ -1,75 +1,144 @@
-# Anthropic Documentation Scraper
+# Anthropic Documentation Mirror
 
-Automatically downloads and monitors [Anthropic's documentation](https://docs.claude.com) for changes. Downloads pre-generated markdown files directly from the docs site and maintains a local mirror.
+> Automatically updated mirror of [docs.claude.com](https://docs.claude.com) documentation
 
-## Features
+[![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
+![Total Docs](https://img.shields.io/badge/total_docs-143-blue)
+![Last Update](https://img.shields.io/badge/last_update-2025--10--25-green)
 
-- **Direct .md downloads** - Fetches pre-generated markdown files for better quality
-- **Change detection** - MD5 hashing tracks updates and only downloads changed files
-- **Auto fallback** - Falls back to HTML parsing for pages without .md endpoints
-- **Monitoring mode** - Continuous monitoring with configurable check intervals
-- **Local mirror** - Maintains the same directory structure as the website
+---
 
-## Quick Start
+## 📊 Repository Stats
+
+| Metric | Value |
+|--------|-------|
+| **Total Documents** | 143 |
+| **Total Size** | 2.42 MB |
+| **Last Updated** | 2025-10-25 12:49:43 UTC |
+| **New This Week** | 143 |
+| **Updated This Week** | 0 |
+
+---
+
+## 📂 Documentation Categories
+
+- **Claude Code**: 50 documents (35.0%)
+- **Build with Claude**: 36 documents (25.2%)
+- **Agents & Tools**: 20 documents (14.0%)
+- **About Claude**: 16 documents (11.2%)
+- **Test & Evaluate**: 11 documents (7.7%)
+- **Other**: 7 documents (4.9%)
+- **Release Notes**: 3 documents (2.1%)
+
+---
+
+## 🆕 Recent Updates (Last 7 Days)
+
+### New Documents
+
+- **[docs/build-with-claude/prompt-engineering/claude-4-best-practices.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)** - 2025-10-25
+- **[docs/build-with-claude/context-windows.md](https://docs.claude.com/en/docs/build-with-claude/context-windows)** - 2025-10-25
+- **[docs/test-and-evaluate/eval-tool.md](https://docs.claude.com/en/docs/test-and-evaluate/eval-tool)** - 2025-10-25
+- **[docs/claude-code/hooks-guide.md](https://docs.claude.com/en/docs/claude-code/hooks-guide)** - 2025-10-25
+- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-10-25
+- **[docs/claude-code/data-usage.md](https://docs.claude.com/en/docs/claude-code/data-usage)** - 2025-10-25
+- **[docs/claude-code/statusline.md](https://docs.claude.com/en/docs/claude-code/statusline)** - 2025-10-25
+- **[docs/claude-code/terminal-config.md](https://docs.claude.com/en/docs/claude-code/terminal-config)** - 2025-10-25
+- **[docs/legacy-model-guide.md](https://docs.claude.com/en/docs/legacy-model-guide)** - 2025-10-25
+- **[docs/claude-code/sdk.md](https://docs.claude.com/en/docs/claude-code/sdk)** - 2025-10-25
+
+_...and 133 more new documents_
+
+
+---
+
+## 📖 About
+
+This repository contains an automated mirror of Anthropic's official documentation from [docs.claude.com](https://docs.claude.com).
+
+### Features
+
+- 🤖 **Automated Updates** - Runs daily at 6:00 AM MST/MDT
+- 📝 **Direct Markdown** - Downloads pre-generated `.md` files for better quality
+- 🔍 **Change Detection** - MD5 hashing tracks updates efficiently
+- 📊 **Statistics** - Automatic README updates with latest stats
+- 🔄 **Full Mirror** - Maintains complete directory structure
+
+### How It Works
+
+1. GitHub Actions workflow runs daily
+2. Scraper fetches all documentation pages
+3. Downloads pre-generated markdown files (with HTML fallback)
+4. Detects changes via MD5 hash comparison
+5. Commits updates and regenerates this README
+
+---
+
+## 🗂️ Repository Structure
+
+```
+claude_docs_scraper/
+├── anthropic_docs/           # Downloaded documentation
+│   ├── docs/                 # Main documentation
+│   ├── release-notes/        # Release notes
+│   └── metadata.json         # Change tracking
+├── scraper.py                # Main scraper script
+├── generate_readme_stats.py  # README generator
+└── .github/workflows/        # Automation workflows
+```
+
+---
+
+## 🚀 Usage
+
+### Browse Documentation
+
+Navigate through `anthropic_docs/docs/` to read the documentation in markdown format.
+
+### Run Scraper Locally
 
 ```bash
-# Create and activate virtual environment
+# Setup
 python3 -m venv venv
 source venv/bin/activate
-
-# Install dependencies
 pip install -r requirements.txt
 
-# Run once (download all docs and exit)
+# Run once
 python3 scraper.py --once
 
-# Continuous monitoring (default: checks every 60 minutes)
+# Continuous monitoring (checks every 60 minutes)
 python3 scraper.py
 ```
 
-## Configuration
+### Generate Stats
 
-Edit `config.json`:
-
-```json
-{
-  "output_directory": "./anthropic_docs",
-  "check_interval_minutes": 60,
-  "starting_urls": ["https://docs.claude.com/en/docs/welcome"],
-  "max_depth": 5,
-  "delay_seconds": 0.5
-}
+```bash
+python3 generate_readme_stats.py
 ```
 
-## Output
+---
 
-Downloaded docs are saved to `anthropic_docs/` with metadata tracking in `metadata.json`:
+## 📅 Update Schedule
 
-```
-anthropic_docs/
-├── metadata.json          # Change tracking (hashes, timestamps)
-└── docs/
-    ├── welcome.md
-    ├── intro.md
-    └── [mirrors website structure]
-```
+- **Automated**: Daily at 6:00 AM MST/MDT
+- **Manual**: Can be triggered via [Actions tab](https://github.com/seanGSISG/claude_docs_scraper/actions)
 
-## How It Works
+---
 
-1. Crawls docs.claude.com starting from configured URLs
-2. Attempts to fetch `.md` file for each page (e.g., `/docs/quickstart.md`)
-3. Falls back to HTML parsing if no `.md` endpoint exists
-4. Compares MD5 hash to detect changes before writing
-5. Updates metadata with timestamps and file info
+## 📜 License
 
-## Requirements
+MIT License - See [LICENSE](LICENSE) for details
 
-- Python 3.7+
-- requests
-- beautifulsoup4
-- lxml
-- schedule
+Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
-## License
+---
 
-MIT
+## 🔗 Links
+
+- **Official Docs**: [docs.claude.com](https://docs.claude.com)
+- **Anthropic**: [anthropic.com](https://www.anthropic.com)
+- **Claude**: [claude.ai](https://claude.ai)
+
+---
+
+**Last Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}

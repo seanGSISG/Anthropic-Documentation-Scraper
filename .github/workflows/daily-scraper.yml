@@ -33,17 +33,21 @@ jobs:
           python3 scraper.py --once
         continue-on-error: false
 
+      - name: Generate README stats
+        run: |
+          python3 generate_readme_stats.py
+
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet anthropic_docs/ || echo "changes=true" >> $GITHUB_OUTPUT
+          git diff --quiet anthropic_docs/ README.md || echo "changes=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add anthropic_docs/
+          git add anthropic_docs/ README.md
           git commit -m "🤖 Auto-update: Anthropic docs $(date +'%Y-%m-%d %H:%M:%S MST')"
           git push
         env:
@@ -63,7 +67,7 @@ jobs:
           echo "## Documentation Update Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Files Changed:**" >> $GITHUB_STEP_SUMMARY
-          git diff --name-only HEAD~1 anthropic_docs/ | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
+          git diff --name-only HEAD~1 anthropic_docs/ README.md | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Stats:**" >> $GITHUB_STEP_SUMMARY
-          git diff --stat HEAD~1 anthropic_docs/ >> $GITHUB_STEP_SUMMARY
+          git diff --stat HEAD~1 anthropic_docs/ README.md >> $GITHUB_STEP_SUMMARY
