@@ -1,0 +1,14 @@
+{
+  "output_directory": "./anthropic_docs",
+  "check_interval_minutes": 60,
+  "starting_urls": [
+    "https://docs.claude.com/en/docs/intro",
+    "https://docs.claude.com/en/docs/build-with-claude/overview",
+    "https://docs.claude.com/en/docs/claude-code/overview",
+    "https://docs.claude.com/en/docs/about-claude/overview",
+    "https://docs.claude.com/en/release-notes/overview",
+    "https://docs.claude.com/en/docs/test-and-evaluate/overview"
+  ],
+  "max_depth": 5,
+  "delay_seconds": 0.5
+}
