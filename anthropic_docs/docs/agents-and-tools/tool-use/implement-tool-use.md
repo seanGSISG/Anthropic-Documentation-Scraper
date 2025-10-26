@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/implement-tool-use
-Last fetched: 2025-10-25T19:28:03.762264
+Last fetched: 2025-10-26T12:05:16.442628
 
 ---
 

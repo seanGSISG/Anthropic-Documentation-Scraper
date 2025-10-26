@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/migrating-to-claude-4
-Last fetched: 2025-10-25T19:26:54.670725
+Last fetched: 2025-10-26T12:05:20.012821
 
 ---
 

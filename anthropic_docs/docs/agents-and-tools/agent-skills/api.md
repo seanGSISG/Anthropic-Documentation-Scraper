@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/api
-Last fetched: 2025-10-25T19:27:45.159837
+Last fetched: 2025-10-26T12:05:07.676648
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

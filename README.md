@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-143-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--10--25-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--10--26-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 143 |
 | **Total Size** | 2.42 MB |
-| **Last Updated** | 2025-10-25 19:28:03 UTC |
+| **Last Updated** | 2025-10-26 12:05:45 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agents-and-tools/tool-use/implement-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/implement-tool-use)** - 2025-10-25
-- **[docs/build-with-claude/prompt-engineering/be-clear-and-direct.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct)** - 2025-10-25
-- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-10-25
-- **[docs/agents-and-tools/mcp-connector.md](https://docs.claude.com/en/docs/agents-and-tools/mcp-connector)** - 2025-10-25
-- **[docs/claude-code/setup.md](https://docs.claude.com/en/docs/claude-code/setup)** - 2025-10-25
-- **[docs/claude-code/jetbrains.md](https://docs.claude.com/en/docs/claude-code/jetbrains)** - 2025-10-25
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-10-25
-- **[docs/build-with-claude/prompt-engineering/claude-4-best-practices.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)** - 2025-10-25
-- **[docs/claude-code/costs.md](https://docs.claude.com/en/docs/claude-code/costs)** - 2025-10-25
-- **[docs/claude-code/common-workflows.md](https://docs.claude.com/en/docs/claude-code/common-workflows)** - 2025-10-25
+- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-10-26
+- **[docs/claude-code/gitlab-ci-cd.md](https://docs.claude.com/en/docs/claude-code/gitlab-ci-cd)** - 2025-10-26
+- **[docs/claude-code/hooks.md](https://docs.claude.com/en/docs/claude-code/hooks)** - 2025-10-26
+- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-10-26
+- **[docs/claude-code/settings.md](https://docs.claude.com/en/docs/claude-code/settings)** - 2025-10-26
+- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-10-26
+- **[docs/build-with-claude/context-windows.md](https://docs.claude.com/en/docs/build-with-claude/context-windows)** - 2025-10-26
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-10-26
+- **[docs/claude-code/plugins-reference.md](https://docs.claude.com/en/docs/claude-code/plugins-reference)** - 2025-10-26
+- **[docs/build-with-claude/tool-use.md](https://docs.claude.com/en/docs/build-with-claude/tool-use)** - 2025-10-26
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-25 13:35:52 UTC
+**Last Generated**: 2025-10-26 12:05:46 UTC

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/github-actions
-Last fetched: 2025-10-25T19:27:50.654639
+Last fetched: 2025-10-26T12:04:23.633989
 
 ---
 

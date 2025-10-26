@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/headless
-Last fetched: 2025-10-25T19:27:00.050213
+Last fetched: 2025-10-26T12:05:24.708082
 
 ---
 
