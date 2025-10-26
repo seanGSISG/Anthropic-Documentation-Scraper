@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/get-started
-Last fetched: 2025-10-26T12:04:29.057187
+Last fetched: 2025-10-26T13:09:43.490836
 
 ---
 

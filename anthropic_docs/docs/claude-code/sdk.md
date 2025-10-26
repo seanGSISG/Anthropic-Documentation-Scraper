@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/sdk
-Last fetched: 2025-10-26T12:04:26.474944
+Last fetched: 2025-10-26T13:10:02.154677
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

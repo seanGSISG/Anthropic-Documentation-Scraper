@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/legal-and-compliance
-Last fetched: 2025-10-26T12:05:03.669482
+Last fetched: 2025-10-26T13:09:32.994732
 
 ---
 

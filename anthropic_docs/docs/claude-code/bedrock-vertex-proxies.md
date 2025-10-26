@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/bedrock-vertex-proxies
-Last fetched: 2025-10-26T12:04:42.244733
+Last fetched: 2025-10-26T13:09:37.482480
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

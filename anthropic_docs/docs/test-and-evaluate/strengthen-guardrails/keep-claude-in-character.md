@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character
-Last fetched: 2025-10-26T12:04:40.505176
+Last fetched: 2025-10-26T13:09:31.447187
 
 ---
 

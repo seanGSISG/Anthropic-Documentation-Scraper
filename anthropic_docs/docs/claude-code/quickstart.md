@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/quickstart
-Last fetched: 2025-10-26T12:05:30.692219
+Last fetched: 2025-10-26T13:10:11.881566
 
 ---
 

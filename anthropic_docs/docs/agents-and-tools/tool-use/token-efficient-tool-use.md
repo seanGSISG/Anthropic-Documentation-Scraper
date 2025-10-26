@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/token-efficient-tool-use
-Last fetched: 2025-10-26T12:05:27.253987
+Last fetched: 2025-10-26T13:10:33.038297
 
 ---
 

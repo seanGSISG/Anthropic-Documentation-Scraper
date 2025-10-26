@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 143 |
 | **Total Size** | 2.42 MB |
-| **Last Updated** | 2025-10-26 12:05:45 UTC |
+| **Last Updated** | 2025-10-26 13:10:50 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
+- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-10-26
+- **[docs/about-claude/models/overview.md](https://docs.claude.com/en/docs/about-claude/models/overview)** - 2025-10-26
+- **[docs/agents-and-tools/tool-use/implement-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/implement-tool-use)** - 2025-10-26
+- **[docs/about-claude/pricing.md](https://docs.claude.com/en/docs/about-claude/pricing)** - 2025-10-26
+- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-10-26
+- **[docs/build-with-claude/prompt-engineering/prefill-claudes-response.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response)** - 2025-10-26
+- **[docs/build-with-claude/prompt-engineering/system-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts)** - 2025-10-26
 - **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-10-26
-- **[docs/claude-code/gitlab-ci-cd.md](https://docs.claude.com/en/docs/claude-code/gitlab-ci-cd)** - 2025-10-26
-- **[docs/claude-code/hooks.md](https://docs.claude.com/en/docs/claude-code/hooks)** - 2025-10-26
-- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-10-26
-- **[docs/claude-code/settings.md](https://docs.claude.com/en/docs/claude-code/settings)** - 2025-10-26
-- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-10-26
-- **[docs/build-with-claude/context-windows.md](https://docs.claude.com/en/docs/build-with-claude/context-windows)** - 2025-10-26
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-10-26
-- **[docs/claude-code/plugins-reference.md](https://docs.claude.com/en/docs/claude-code/plugins-reference)** - 2025-10-26
-- **[docs/build-with-claude/tool-use.md](https://docs.claude.com/en/docs/build-with-claude/tool-use)** - 2025-10-26
+- **[docs/claude-code/sdk/migration-guide.md](https://docs.claude.com/en/docs/claude-code/sdk/migration-guide)** - 2025-10-26
+- **[docs/build-with-claude/prompt-engineering/use-xml-tags.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags)** - 2025-10-26
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-26 12:05:46 UTC
+**Last Generated**: 2025-10-26 13:10:51 UTC
