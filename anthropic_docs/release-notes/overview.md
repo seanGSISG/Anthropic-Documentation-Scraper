@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/overview
-Last fetched: 2025-10-26T13:10:42.271843
+Last fetched: 2025-10-27T12:04:56.617527
 
 ---
 

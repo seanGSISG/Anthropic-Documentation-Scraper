@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-143-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--10--26-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--10--27-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 143 |
 | **Total Size** | 2.42 MB |
-| **Last Updated** | 2025-10-26 13:10:50 UTC |
+| **Last Updated** | 2025-10-27 12:06:00 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-10-26
-- **[docs/about-claude/models/overview.md](https://docs.claude.com/en/docs/about-claude/models/overview)** - 2025-10-26
-- **[docs/agents-and-tools/tool-use/implement-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/implement-tool-use)** - 2025-10-26
-- **[docs/about-claude/pricing.md](https://docs.claude.com/en/docs/about-claude/pricing)** - 2025-10-26
-- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-10-26
-- **[docs/build-with-claude/prompt-engineering/prefill-claudes-response.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response)** - 2025-10-26
-- **[docs/build-with-claude/prompt-engineering/system-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts)** - 2025-10-26
-- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-10-26
-- **[docs/claude-code/sdk/migration-guide.md](https://docs.claude.com/en/docs/claude-code/sdk/migration-guide)** - 2025-10-26
-- **[docs/build-with-claude/prompt-engineering/use-xml-tags.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags)** - 2025-10-26
+- **[docs/claude-code/analytics.md](https://docs.claude.com/en/docs/claude-code/analytics)** - 2025-10-27
+- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-10-27
+- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-10-27
+- **[docs/about-claude/models/choosing-a-model.md](https://docs.claude.com/en/docs/about-claude/models/choosing-a-model)** - 2025-10-27
+- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-10-27
+- **[docs/about-claude/model-deprecations.md](https://docs.claude.com/en/docs/about-claude/model-deprecations)** - 2025-10-27
+- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-10-27
+- **[docs/claude-code/sdk.md](https://docs.claude.com/en/docs/claude-code/sdk)** - 2025-10-27
+- **[docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character)** - 2025-10-27
+- **[docs/claude-code/hooks-guide.md](https://docs.claude.com/en/docs/claude-code/hooks-guide)** - 2025-10-27
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-26 13:10:51 UTC
+**Last Generated**: 2025-10-27 12:06:00 UTC

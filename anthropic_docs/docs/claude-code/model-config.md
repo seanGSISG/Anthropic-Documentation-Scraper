@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/model-config
-Last fetched: 2025-10-26T13:10:22.359039
+Last fetched: 2025-10-27T12:05:07.856882
 
 ---
 
