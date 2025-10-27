@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/embeddings
-Last fetched: 2025-10-27T12:04:42.987894
+Last fetched: 2025-10-27T13:15:24.638438
 
 ---
 

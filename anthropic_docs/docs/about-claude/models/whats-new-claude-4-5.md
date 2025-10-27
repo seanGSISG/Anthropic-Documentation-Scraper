@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/whats-new-claude-4-5
-Last fetched: 2025-10-27T12:05:10.004593
+Last fetched: 2025-10-27T13:15:28.960616
 
 ---
 

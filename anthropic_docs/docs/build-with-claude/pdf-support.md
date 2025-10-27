@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/pdf-support
-Last fetched: 2025-10-27T12:04:30.852564
+Last fetched: 2025-10-27T13:15:59.510788
 
 ---
 

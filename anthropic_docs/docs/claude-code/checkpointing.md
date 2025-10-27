@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/checkpointing
-Last fetched: 2025-10-27T12:05:47.591641
+Last fetched: 2025-10-27T13:16:19.445238
 
 ---
 
