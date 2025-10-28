@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct
-Last fetched: 2025-10-28T12:05:46.924783
+Last fetched: 2025-10-28T13:14:12.070939
 
 ---
 

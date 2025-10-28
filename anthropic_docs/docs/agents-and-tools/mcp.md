@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/mcp
-Last fetched: 2025-10-28T12:05:03.915462
+Last fetched: 2025-10-28T13:14:32.319933
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
