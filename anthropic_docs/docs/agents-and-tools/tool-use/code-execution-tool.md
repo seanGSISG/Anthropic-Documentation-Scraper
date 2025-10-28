@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/code-execution-tool
-Last fetched: 2025-10-27T13:16:00.588724
+Last fetched: 2025-10-28T12:05:17.287549
 
 ---
 

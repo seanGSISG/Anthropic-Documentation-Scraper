@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/gitlab-ci-cd
-Last fetched: 2025-10-27T13:15:23.056099
+Last fetched: 2025-10-28T12:04:54.480094
 
 ---
 

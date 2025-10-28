@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-prompts
-Last fetched: 2025-10-27T13:15:34.704923
+Last fetched: 2025-10-28T12:04:52.362674
 
 ---
 

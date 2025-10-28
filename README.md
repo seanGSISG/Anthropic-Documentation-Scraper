@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-143-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--10--27-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--10--28-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 143 |
 | **Total Size** | 2.42 MB |
-| **Last Updated** | 2025-10-27 13:17:00 UTC |
+| **Last Updated** | 2025-10-28 12:06:00 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-10-27
-- **[docs/claude-code/interactive-mode.md](https://docs.claude.com/en/docs/claude-code/interactive-mode)** - 2025-10-27
-- **[docs/claude-code/amazon-bedrock.md](https://docs.claude.com/en/docs/claude-code/amazon-bedrock)** - 2025-10-27
-- **[docs/claude-code/skills.md](https://docs.claude.com/en/docs/claude-code/skills)** - 2025-10-27
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak)** - 2025-10-27
-- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-10-27
-- **[docs/agents-and-tools/mcp.md](https://docs.claude.com/en/docs/agents-and-tools/mcp)** - 2025-10-27
-- **[docs/build-with-claude/prompt-engineering/overview%E2%80%99.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99)** - 2025-10-27
-- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-10-27
-- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-10-27
+- **[docs/test-and-evaluate/eval-tool.md](https://docs.claude.com/en/docs/test-and-evaluate/eval-tool)** - 2025-10-28
+- **[docs/build-with-claude/prompt-engineering/overview.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview)** - 2025-10-28
+- **[docs/claude-code/model-config.md](https://docs.claude.com/en/docs/claude-code/model-config)** - 2025-10-28
+- **[docs/agents-and-tools/tool-use/computer-use-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool)** - 2025-10-28
+- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-10-28
+- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-10-28
+- **[docs/claude-code/checkpointing.md](https://docs.claude.com/en/docs/claude-code/checkpointing)** - 2025-10-28
+- **[docs/build-with-claude/overview.md](https://docs.claude.com/en/docs/build-with-claude/overview)** - 2025-10-28
+- **[docs/agents-and-tools/tool-use/fine-grained-tool-streaming.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/fine-grained-tool-streaming)** - 2025-10-28
+- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-10-28
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-27 13:17:00 UTC
+**Last Generated**: 2025-10-28 12:06:01 UTC

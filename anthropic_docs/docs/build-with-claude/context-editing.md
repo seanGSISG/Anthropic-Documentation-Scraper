@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/context-editing
-Last fetched: 2025-10-27T13:16:32.987739
+Last fetched: 2025-10-28T12:05:48.489061
 
 ---
 

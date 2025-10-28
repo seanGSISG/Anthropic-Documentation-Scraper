@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/files
-Last fetched: 2025-10-27T13:15:44.594149
+Last fetched: 2025-10-28T12:04:34.695368
 
 ---
 
