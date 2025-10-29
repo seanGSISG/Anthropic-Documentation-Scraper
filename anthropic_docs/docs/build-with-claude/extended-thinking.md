@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/extended-thinking
-Last fetched: 2025-10-29T12:05:56.791630
+Last fetched: 2025-10-29T13:15:49.867023
 
 ---
 

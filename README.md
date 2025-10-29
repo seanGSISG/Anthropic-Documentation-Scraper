@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 143 |
 | **Total Size** | 2.45 MB |
-| **Last Updated** | 2025-10-29 12:06:11 UTC |
+| **Last Updated** | 2025-10-29 13:16:45 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/claude-code/statusline.md](https://docs.claude.com/en/docs/claude-code/statusline)** - 2025-10-29
-- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-10-29
-- **[docs/%E2%80%99.md](https://docs.claude.com/en/docs/%E2%80%99)** - 2025-10-29
+- **[docs/build-with-claude/develop-tests.md](https://docs.claude.com/en/docs/build-with-claude/develop-tests)** - 2025-10-29
+- **[docs/claude-code/common-workflows.md](https://docs.claude.com/en/docs/claude-code/common-workflows)** - 2025-10-29
+- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-10-29
+- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-10-29
+- **[docs/build-with-claude/computer-use.md](https://docs.claude.com/en/docs/build-with-claude/computer-use)** - 2025-10-29
 - **[docs/about-claude/models/choosing-a-model.md](https://docs.claude.com/en/docs/about-claude/models/choosing-a-model)** - 2025-10-29
-- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-10-29
-- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-10-29
-- **[docs/build-with-claude/prompt-engineering/overview%E2%80%99.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99)** - 2025-10-29
-- **[docs/build-with-claude/context-editing.md](https://docs.claude.com/en/docs/build-with-claude/context-editing)** - 2025-10-29
-- **[docs/agents-and-tools/agent-skills/api.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/api)** - 2025-10-29
-- **[docs/test-and-evaluate/eval-tool.md](https://docs.claude.com/en/docs/test-and-evaluate/eval-tool)** - 2025-10-29
+- **[docs/claude-code/plugins.md](https://docs.claude.com/en/docs/claude-code/plugins)** - 2025-10-29
+- **[docs/claude-code/hooks.md](https://docs.claude.com/en/docs/claude-code/hooks)** - 2025-10-29
+- **[docs/claude-code/llm-gateway.md](https://docs.claude.com/en/docs/claude-code/llm-gateway)** - 2025-10-29
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-10-29
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-29 12:06:11 UTC
+**Last Generated**: 2025-10-29 13:16:45 UTC

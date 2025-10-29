@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/claude-for-sheets
-Last fetched: 2025-10-29T12:05:55.717310
+Last fetched: 2025-10-29T13:16:12.108835
 
 ---
 
