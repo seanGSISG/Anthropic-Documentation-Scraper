@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx
-Last fetched: 2025-10-28T13:13:31.636737
+Last fetched: 2025-10-29T12:05:35.315836
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -22,7 +22,6 @@ API Reference
 Claude Code
 Model Context Protocol (MCP)
 Resources
-Release Notes
 Release Notes
 Claude Developer Platform
 404

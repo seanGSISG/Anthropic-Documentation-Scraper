@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/mcp
-Last fetched: 2025-10-28T13:13:33.918618
+Last fetched: 2025-10-29T12:05:58.424704
 
 ---
 
@@ -437,7 +437,7 @@ export const MCPServersTable = ({platform = "all"}) => {
     description: "Manage monday.com boards by creating items, updating columns, assigning owners, setting timelines, adding CRM activities, and writing summaries",
     documentation: "https://developer.monday.com/apps/docs/mondaycom-mcp-integration",
     urls: {
-      sse: "https://mcp.monday.com/sse"
+      http: "https://mcp.monday.com/mcp"
     },
     authentication: {
       type: "oauth"

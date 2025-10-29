@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/remote-mcp-servers
-Last fetched: 2025-10-28T13:14:01.430989
+Last fetched: 2025-10-29T12:05:51.423024
 
 ---
 
@@ -435,7 +435,7 @@ export const MCPServersTable = ({platform = "all"}) => {
     description: "Manage monday.com boards by creating items, updating columns, assigning owners, setting timelines, adding CRM activities, and writing summaries",
     documentation: "https://developer.monday.com/apps/docs/mondaycom-mcp-integration",
     urls: {
-      sse: "https://mcp.monday.com/sse"
+      http: "https://mcp.monday.com/mcp"
     },
     authentication: {
       type: "oauth"

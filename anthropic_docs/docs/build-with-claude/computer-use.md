@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/computer-use
-Last fetched: 2025-10-28T13:14:37.313640
+Last fetched: 2025-10-29T12:04:52.375759
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -27,7 +27,6 @@ Release Notes
 First steps
 Intro to Claude
 Quickstart
-Features overview
 Models & pricing
 Models overview
 Choosing a model
@@ -35,8 +34,11 @@ What's new in Claude 4.5
 Migrating to Claude 4.5
 Model deprecations
 Pricing
-Capabilities
+Build with Claude
+Features overview
 Context windows
+Prompting best practices
+Capabilities
 Prompt caching
 Context editing
 Extended thinking
@@ -81,7 +83,6 @@ Amazon Bedrock
 Vertex AI
 Prompt engineering
 Overview
-Claude 4 best practices
 Prompt generator
 Use prompt templates
 Prompt improver
@@ -134,9 +135,7 @@ Computer use is currently in beta and requires a
 beta header
 :
 "computer-use-2025-01-24"
-(Claude 4 models and Claude Sonnet 3.7)
-"computer-use-2024-10-22"
-(Claude Sonnet 3.5 (
+(Claude 4 models and Claude Sonnet 3.7 (
 deprecated
 ))
 ​
@@ -160,15 +159,14 @@ Beta Flag
 Claude 4 models
 computer_20250124
 computer-use-2025-01-24
-Claude Sonnet 3.7
-computer_20250124
-computer-use-2025-01-24
-Claude Sonnet 3.5 v2 (
+Claude Sonnet 3.7 (
 deprecated
 )
-computer_20241022
-computer-use-2024-10-22
-Claude 4 models use updated tool versions optimized for the new architecture. Claude Sonnet 3.7 introduces additional capabilities including the thinking feature for more insight into the model’s reasoning process.
+computer_20250124
+computer-use-2025-01-24
+Claude 4 models use updated tool versions optimized for the new architecture. Claude Sonnet 3.7 (
+deprecated
+) introduces additional capabilities including the thinking feature for more insight into the model’s reasoning process.
 Older tool versions are not guaranteed to be backwards-compatible with newer models. Always use the tool version that corresponds to your model version.
 ​
 Security considerations
@@ -278,14 +276,8 @@ betas
 )
 print
 (response)
-Beta header requirements:
-Claude 4 models and Claude Sonnet 3.7
-: Beta header only required for the computer use tool
-Claude Sonnet 3.5 (
-deprecated
-)
-: Beta header required for computer, bash, and text editor tools
-The example above shows all three tools being used together, which requires the beta header for any Claude model since it includes the computer use tool.
+A beta header is only required for the computer use tool.
+The example above shows all three tools being used together, which requires the beta header because it includes the computer use tool.
 ​
 How computer use works
 1. Provide Claude with the computer use tool and a user prompt
@@ -600,15 +592,6 @@ computer_20250124
 , include this beta flag:
 Copy
 "betas": ["computer-use-2025-01-24"]
-Claude Sonnet 3.5 v2 (deprecated)
-When using
-computer_20241022
-, include this beta flag:
-Copy
-"betas": ["computer-use-2024-10-22"]
-Note: For Claude 4 models and Claude Sonnet 3.7, the beta flag is only required for the computer use tool. For Claude Sonnet 3.5 (
-deprecated
-), the beta flag is required for computer, bash, and text editor tools.
 We recommend trying the reference implementation out before reading the rest of this documentation.
 ​
 Optimize model performance with prompting
@@ -1197,9 +1180,7 @@ Computer vision accuracy and reliability
 Tool selection accuracy and reliability
 : Claude may make mistakes or hallucinate when selecting tools while generating actions or take unexpected actions to solve problems. Additionally, reliability may be lower when interacting with niche applications or multiple applications at once. We recommend that users prompt the model carefully when requesting complex tasks.
 Scrolling reliability
-: While Claude Sonnet 3.5 v2 (
-deprecated
-) had limitations with scrolling, Claude Sonnet 3.7 introduces dedicated scroll actions with direction control that improves reliability. The model can now explicitly scroll in any direction (up/down/left/right) by a specified amount.
+: Claude Sonnet 3.7 introduced dedicated scroll actions with direction control that improves reliability. The model can now explicitly scroll in any direction (up/down/left/right) by a specified amount.
 Spreadsheet interaction
 : Mouse clicks for spreadsheet interaction have improved in Claude Sonnet 3.7 with the addition of more precise mouse control actions like
 left_mouse_down
@@ -1229,7 +1210,9 @@ Model
 Input tokens per tool definition
 Claude 4.x models
 735 tokens
-Claude Sonnet 3.7
+Claude Sonnet 3.7 (
+deprecated
+)
 735 tokens
 Additional token consumption
 :

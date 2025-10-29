@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts
-Last fetched: 2025-10-28T13:13:30.980301
+Last fetched: 2025-10-29T12:05:48.164166
 
 ---
 
@@ -33,7 +33,7 @@ import anthropic
 client = anthropic.Anthropic()
 
 response = client.messages.create(
-    model="claude-3-7-sonnet-20250219",
+    model="claude-sonnet-4-5-20250929",
     max_tokens=2048,
     system="You are a seasoned data scientist at a Fortune 500 company.", # <-- role prompt
     messages=[

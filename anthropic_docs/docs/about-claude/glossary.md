@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/glossary
-Last fetched: 2025-10-28T13:14:30.299658
+Last fetched: 2025-10-29T12:05:24.608130
 
 ---
 

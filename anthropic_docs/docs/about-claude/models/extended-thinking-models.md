@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models
-Last fetched: 2025-10-28T13:14:25.152384
+Last fetched: 2025-10-29T12:05:20.777927
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -27,7 +27,6 @@ Release Notes
 First steps
 Intro to Claude
 Quickstart
-Features overview
 Models & pricing
 Models overview
 Choosing a model
@@ -35,8 +34,11 @@ What's new in Claude 4.5
 Migrating to Claude 4.5
 Model deprecations
 Pricing
-Capabilities
+Build with Claude
+Features overview
 Context windows
+Prompting best practices
+Capabilities
 Prompt caching
 Context editing
 Extended thinking
@@ -81,7 +83,6 @@ Amazon Bedrock
 Vertex AI
 Prompt engineering
 Overview
-Claude 4 best practices
 Prompt generator
 Use prompt templates
 Prompt improver
@@ -113,6 +114,9 @@ How to use extended thinking
 Summarized thinking
 Streaming thinking
 Extended thinking with tool use
+Toggling thinking modes in conversations
+Common error scenarios
+Practical guidance
 Preserving thinking blocks
 Interleaved thinking
 Extended thinking with prompt caching
@@ -143,6 +147,8 @@ claude-sonnet-4-20250514
 )
 Claude Sonnet 3.7 (
 claude-3-7-sonnet-20250219
+) (
+deprecated
 )
 Claude Haiku 4.5 (
 claude-haiku-4-5-20251001
@@ -548,6 +554,60 @@ Preserving thinking blocks
 : During tool use, you must pass
 thinking
 blocks back to the API for the last assistant message. Include the complete unmodified block back to the API to maintain reasoning continuity.
+​
+Toggling thinking modes in conversations
+You cannot toggle thinking in the middle of an assistant turn, including during tool use loops. The entire assistant turn must operate in a single thinking mode:
+If thinking is enabled
+, the final assistant turn must start with a thinking block.
+If thinking is disabled
+, the final assistant turn must not contain any thinking blocks
+From the model’s perspective,
+tool use loops are part of the assistant turn
+. An assistant turn doesn’t complete until Claude finishes its full response, which may include multiple tool calls and results.
+For example, this sequence is all part of a
+single assistant turn
+:
+Copy
+User: "What's the weather in Paris?"
+Assistant: [thinking] + [tool_use: get_weather]
+User: [tool_result: "20°C, sunny"]
+Assistant: [text: "The weather in Paris is 20°C and sunny"]
+Even though there are multiple API messages, the tool use loop is conceptually part of one continuous assistant response.
+​
+Common error scenarios
+You might encounter this error:
+Copy
+Expected `thinking` or `redacted_thinking`, but found `tool_use`.
+When `thinking` is enabled, a final `assistant` message must start
+with a thinking block (preceding the lastmost set of `tool_use` and
+`tool_result` blocks).
+This typically occurs when:
+You had thinking
+disabled
+during a tool use sequence
+You want to enable thinking again
+Your last assistant message contains tool use blocks but no thinking block
+​
+Practical guidance
+✗ Invalid: Toggling thinking immediately after tool use
+Copy
+User: "What's the weather?"
+Assistant: [tool_use] (thinking disabled)
+User: [tool_result]
+// Cannot enable thinking here - still in the same assistant turn
+✓ Valid: Complete the assistant turn first
+Copy
+User: "What's the weather?"
+Assistant: [tool_use] (thinking disabled)
+User: [tool_result]
+Assistant: [text: "It's sunny"]
+User: "What about tomorrow?" (thinking disabled)
+Assistant: [thinking] + [text: "..."] (thinking enabled - new turn)
+Best practice
+: Plan your thinking strategy at the start of each turn rather than trying to toggle mid-turn.
+Toggling thinking modes also invalidates prompt caching for message history. For more details, see the
+Extended thinking with prompt caching
+section.
 Example: Passing thinking blocks with tool results
 Here’s a practical example showing how to preserve thinking blocks when providing tool results:
 Python
@@ -816,7 +876,7 @@ Copy
 Preserving thinking blocks
 During tool use, you must pass
 thinking
-blocks back to the API, and you must include the complete unmodified block back to the API.  This is critical for maintaining the model’s reasoning flow and conversation integrity.
+blocks back to the API, and you must include the complete unmodified block back to the API. This is critical for maintaining the model’s reasoning flow and conversation integrity.
 While you can omit
 thinking
 blocks from prior
@@ -825,6 +885,9 @@ role turns, we suggest always passing back all thinking blocks to the API for an
 Automatically filter the provided thinking blocks
 Use the relevant thinking blocks necessary to preserve the model’s reasoning
 Only bill for the input tokens for the blocks shown to Claude
+When toggling thinking modes during a conversation, remember that the entire assistant turn (including tool use loops) must operate in a single thinking mode. For more details, see
+Toggling thinking modes in conversations
+.
 When Claude invokes tools, it is pausing its construction of a response to await external information. When tool results are returned, Claude will continue building that existing response. This necessitates preserving thinking blocks during tool use, for a couple of reasons:
 Reasoning continuity
 : The thinking blocks capture Claude’s step-by-step reasoning that led to tool requests. When you post tool results, including the original thinking ensures Claude can continue its reasoning from where it left off.
@@ -2372,7 +2435,7 @@ response
 client.messages.create(
 model
 =
-"claude-3-7-sonnet-20250219"
+"claude-sonnet-4-5-20250929"
 ,
 max_tokens
 =

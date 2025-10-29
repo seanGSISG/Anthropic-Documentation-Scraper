@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides/legal-summarization
-Last fetched: 2025-10-28T13:13:52.996424
+Last fetched: 2025-10-29T12:05:50.874795
 
 ---
 
@@ -61,7 +61,7 @@ See our guide on [establishing success criteria](/en/docs/test-and-evaluate/defi
 
 ### Select the right Claude model
 
-Model accuracy is extremely important when summarizing legal documents. Claude Sonnet 3.5 ([deprecated](/en/docs/about-claude/model-deprecations)) is an excellent choice for use cases such as this where high accuracy is required. If the size and quantity of your documents is large such that costs start to become a concern, you can also try using a smaller model like Claude Haiku 3.
+Model accuracy is extremely important when summarizing legal documents. Claude Sonnet 4.5 is an excellent choice for use cases such as this where high accuracy is required. If the size and quantity of your documents is large such that costs start to become a concern, you can also try using a smaller model like Claude Haiku 4.5.
 
 To help estimate these costs, below is a comparison of the cost to summarize 1,000 sublease agreements using both Sonnet and Haiku:
 

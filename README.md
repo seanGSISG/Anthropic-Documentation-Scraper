@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-143-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--10--28-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--10--29-green)
 
 ---
 
@@ -13,8 +13,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total Documents** | 143 |
-| **Total Size** | 2.42 MB |
-| **Last Updated** | 2025-10-28 13:14:47 UTC |
+| **Total Size** | 2.45 MB |
+| **Last Updated** | 2025-10-29 12:06:11 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-10-28
-- **[docs/claude-code/claude-code-on-the-web.md](https://docs.claude.com/en/docs/claude-code/claude-code-on-the-web)** - 2025-10-28
-- **[docs/build-with-claude/files.md](https://docs.claude.com/en/docs/build-with-claude/files)** - 2025-10-28
-- **[docs/claude-code/bedrock-vertex-proxies.md](https://docs.claude.com/en/docs/claude-code/bedrock-vertex-proxies)** - 2025-10-28
-- **[docs/claude-code/devcontainer.md](https://docs.claude.com/en/docs/claude-code/devcontainer)** - 2025-10-28
-- **[docs/claude-code/plugins.md](https://docs.claude.com/en/docs/claude-code/plugins)** - 2025-10-28
-- **[docs/build-with-claude/context-windows.md](https://docs.claude.com/en/docs/build-with-claude/context-windows)** - 2025-10-28
-- **[docs/agents-and-tools/claude-for-sheets.md](https://docs.claude.com/en/docs/agents-and-tools/claude-for-sheets)** - 2025-10-28
-- **[docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks)** - 2025-10-28
-- **[docs/claude-code/analytics.md](https://docs.claude.com/en/docs/claude-code/analytics)** - 2025-10-28
+- **[docs/claude-code/statusline.md](https://docs.claude.com/en/docs/claude-code/statusline)** - 2025-10-29
+- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-10-29
+- **[docs/%E2%80%99.md](https://docs.claude.com/en/docs/%E2%80%99)** - 2025-10-29
+- **[docs/about-claude/models/choosing-a-model.md](https://docs.claude.com/en/docs/about-claude/models/choosing-a-model)** - 2025-10-29
+- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-10-29
+- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-10-29
+- **[docs/build-with-claude/prompt-engineering/overview%E2%80%99.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99)** - 2025-10-29
+- **[docs/build-with-claude/context-editing.md](https://docs.claude.com/en/docs/build-with-claude/context-editing)** - 2025-10-29
+- **[docs/agents-and-tools/agent-skills/api.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/api)** - 2025-10-29
+- **[docs/test-and-evaluate/eval-tool.md](https://docs.claude.com/en/docs/test-and-evaluate/eval-tool)** - 2025-10-29
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-28 13:14:47 UTC
+**Last Generated**: 2025-10-29 12:06:11 UTC

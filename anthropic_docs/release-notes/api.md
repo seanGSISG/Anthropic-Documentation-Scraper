@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/api
-Last fetched: 2025-10-28T13:13:32.432711
+Last fetched: 2025-10-29T12:04:33.000693
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -15,7 +15,6 @@ Search...
 K
 Search...
 Navigation
-Release Notes
 Claude Developer Platform
 Home
 Developer Guide
@@ -23,7 +22,6 @@ API Reference
 Claude Code
 Model Context Protocol (MCP)
 Resources
-Release Notes
 Release Notes
 Claude Developer Platform
 For release notes on Claude Apps, see the
@@ -34,6 +32,17 @@ complete CHANGELOG.md
 in the
 claude-code
 repository.
+​
+October 28, 2025
+We announced the deprecation of the Claude Sonnet 3.7 model. Read more in
+our documentation
+.
+We’ve retired the Claude Sonnet 3.5 models. All requests to these models will now return an error.
+We’ve expanded context editing with thinking block clearing (
+clear_thinking_20251015
+), enabling automatic management of thinking blocks. Learn more in our
+context editing documentation
+.
 ​
 October 16, 2025
 We’ve launched
@@ -180,7 +189,7 @@ We announced the deprecation of the Claude Sonnet 3.5 models (
 claude-3-5-sonnet-20240620
 and
 claude-3-5-sonnet-20241022
-). These models will be retired on October 22, 2025. We recommend migrating to Claude Sonnet 4.5 (
+). These models will be retired on October 28, 2025. We recommend migrating to Claude Sonnet 4.5 (
 claude-sonnet-4-5-20250929
 ) for improved performance and capabilities. Read more in the
 Model deprecations documentation

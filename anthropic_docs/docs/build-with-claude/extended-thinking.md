@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/extended-thinking
-Last fetched: 2025-10-28T13:13:45.234186
+Last fetched: 2025-10-29T12:05:56.791630
 
 ---
 
@@ -44,7 +44,7 @@ Extended thinking is supported in the following models:
 
 * Claude Sonnet 4.5 (`claude-sonnet-4-5-20250929`)
 * Claude Sonnet 4 (`claude-sonnet-4-20250514`)
-* Claude Sonnet 3.7 (`claude-3-7-sonnet-20250219`)
+* Claude Sonnet 3.7 (`claude-3-7-sonnet-20250219`) ([deprecated](/en/docs/about-claude/model-deprecations))
 * Claude Haiku 4.5 (`claude-haiku-4-5-20251001`)
 * Claude Opus 4.1 (`claude-opus-4-1-20250805`)
 * Claude Opus 4 (`claude-opus-4-20250514`)
@@ -450,6 +450,71 @@ When using extended thinking with tool use, be aware of the following limitation
 
 2. **Preserving thinking blocks**: During tool use, you must pass `thinking` blocks back to the API for the last assistant message. Include the complete unmodified block back to the API to maintain reasoning continuity.
 
+### Toggling thinking modes in conversations
+
+You cannot toggle thinking in the middle of an assistant turn, including during tool use loops. The entire assistant turn must operate in a single thinking mode:
+
+* **If thinking is enabled**, the final assistant turn must start with a thinking block.
+* **If thinking is disabled**, the final assistant turn must not contain any thinking blocks
+
+From the model's perspective, **tool use loops are part of the assistant turn**. An assistant turn doesn't complete until Claude finishes its full response, which may include multiple tool calls and results.
+
+For example, this sequence is all part of a **single assistant turn**:
+
+```
+User: "What's the weather in Paris?"
+Assistant: [thinking] + [tool_use: get_weather]
+User: [tool_result: "20°C, sunny"]
+Assistant: [text: "The weather in Paris is 20°C and sunny"]
+```
+
+Even though there are multiple API messages, the tool use loop is conceptually part of one continuous assistant response.
+
+#### Common error scenarios
+
+You might encounter this error:
+
+```
+Expected `thinking` or `redacted_thinking`, but found `tool_use`.
+When `thinking` is enabled, a final `assistant` message must start
+with a thinking block (preceding the lastmost set of `tool_use` and
+`tool_result` blocks).
+```
+
+This typically occurs when:
+
+1. You had thinking **disabled** during a tool use sequence
+2. You want to enable thinking again
+3. Your last assistant message contains tool use blocks but no thinking block
+
+#### Practical guidance
+
+**✗ Invalid: Toggling thinking immediately after tool use**
+
+```
+User: "What's the weather?"
+Assistant: [tool_use] (thinking disabled)
+User: [tool_result]
+// Cannot enable thinking here - still in the same assistant turn
+```
+
+**✓ Valid: Complete the assistant turn first**
+
+```
+User: "What's the weather?"
+Assistant: [tool_use] (thinking disabled)
+User: [tool_result]
+Assistant: [text: "It's sunny"] 
+User: "What about tomorrow?" (thinking disabled)
+Assistant: [thinking] + [text: "..."] (thinking enabled - new turn)
+```
+
+**Best practice**: Plan your thinking strategy at the start of each turn rather than trying to toggle mid-turn.
+
+<Note>
+  Toggling thinking modes also invalidates prompt caching for message history. For more details, see the [Extended thinking with prompt caching](#extended-thinking-with-prompt-caching) section.
+</Note>
+
 <AccordionGroup>
   <Accordion title="Example: Passing thinking blocks with tool results">
     Here's a practical example showing how to preserve thinking blocks when providing tool results:
@@ -767,7 +832,7 @@ When using extended thinking with tool use, be aware of the following limitation
 
 ### Preserving thinking blocks
 
-During tool use, you must pass `thinking` blocks back to the API, and you must include the complete unmodified block back to the API.  This is critical for maintaining the model's reasoning flow and conversation integrity.
+During tool use, you must pass `thinking` blocks back to the API, and you must include the complete unmodified block back to the API. This is critical for maintaining the model's reasoning flow and conversation integrity.
 
 <Tip>
   While you can omit `thinking` blocks from prior `assistant` role turns, we suggest always passing back all thinking blocks to the API for any multi-turn conversation. The API will:
@@ -776,6 +841,10 @@ During tool use, you must pass `thinking` blocks back to the API, and you must i
   * Use the relevant thinking blocks necessary to preserve the model's reasoning
   * Only bill for the input tokens for the blocks shown to Claude
 </Tip>
+
+<Note>
+  When toggling thinking modes during a conversation, remember that the entire assistant turn (including tool use loops) must operate in a single thinking mode. For more details, see [Toggling thinking modes in conversations](#toggling-thinking-modes-in-conversations).
+</Note>
 
 When Claude invokes tools, it is pausing its construction of a response to await external information. When tool results are returned, Claude will continue building that existing response. This necessitates preserving thinking blocks during tool use, for a couple of reasons:
 
@@ -2443,7 +2512,7 @@ When passing `thinking` and `redacted_thinking` blocks back to the API in a mult
 
       # Using a special prompt that triggers redacted thinking (for demonstration purposes only)
       response = client.messages.create(
-          model="claude-3-7-sonnet-20250219",
+          model="claude-sonnet-4-5-20250929",
           max_tokens=16000,
           thinking={
               "type": "enabled",
@@ -2484,7 +2553,7 @@ When passing `thinking` and `redacted_thinking` blocks back to the API in a mult
 
       // Using a special prompt that triggers redacted thinking (for demonstration purposes only)
       const response = await client.messages.create({
-        model: "claude-3-7-sonnet-20250219",
+        model: "claude-sonnet-4-5-20250929",
         max_tokens: 16000,
         thinking: {
           type: "enabled",
@@ -2538,7 +2607,7 @@ When passing `thinking` and `redacted_thinking` blocks back to the API in a mult
               // Using a special prompt that triggers redacted thinking (for demonstration purposes only)
               BetaMessage response = client.beta().messages().create(
                       MessageCreateParams.builder()
-                              .model(Model.CLAUDE_3_7_SONNET_20250219)
+                              .model(Model.CLAUDE_SONNET_4_5)
                               .maxTokens(16000)
                               .thinking(BetaThinkingConfigEnabled.builder().budgetTokens(10000).build())
                               .addUserMessage("ANTHROPIC_MAGIC_STRING_TRIGGER_REDACTED_THINKING_46C9A13E193C177646C7398A98432ECCCE4C1253D5E2D82641AC0E52CC2876CB")

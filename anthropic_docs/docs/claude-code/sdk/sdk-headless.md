@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/sdk/sdk-headless
-Last fetched: 2025-10-28T13:14:18.909731
+Last fetched: 2025-10-29T12:05:41.902419
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

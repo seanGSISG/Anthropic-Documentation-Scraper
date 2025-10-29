@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/sdk
-Last fetched: 2025-10-28T13:13:33.400711
+Last fetched: 2025-10-29T12:05:24.084567
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -27,7 +27,6 @@ Release Notes
 First steps
 Intro to Claude
 Quickstart
-Features overview
 Models & pricing
 Models overview
 Choosing a model
@@ -35,8 +34,11 @@ What's new in Claude 4.5
 Migrating to Claude 4.5
 Model deprecations
 Pricing
-Capabilities
+Build with Claude
+Features overview
 Context windows
+Prompting best practices
+Capabilities
 Prompt caching
 Context editing
 Extended thinking
@@ -81,7 +83,6 @@ Amazon Bedrock
 Vertex AI
 Prompt engineering
 Overview
-Claude 4 best practices
 Prompt generator
 Use prompt templates
 Prompt improver

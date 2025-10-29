@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/ide-integrations
-Last fetched: 2025-10-28T13:14:40.154357
+Last fetched: 2025-10-29T12:04:34.999139
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -176,7 +176,7 @@ GCP project ID for Vertex AI
 ANTHROPIC_MODEL
 Override primary model
 Override model ID
-"us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+"us.anthropic.claude-sonnet-4-5-20250929-v1:0"
 ANTHROPIC_SMALL_FAST_MODEL
 Override small/fast model
 Optional
