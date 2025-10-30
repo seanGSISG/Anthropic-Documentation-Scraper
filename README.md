@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 143 |
 | **Total Size** | 2.46 MB |
-| **Last Updated** | 2025-10-30 12:06:07 UTC |
+| **Last Updated** | 2025-10-30 13:15:17 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/prompt-engineering/prompt-generator.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-generator)** - 2025-10-30
-- **[docs/claude-code/skills.md](https://docs.claude.com/en/docs/claude-code/skills)** - 2025-10-30
-- **[docs/claude-code/sdk.md](https://docs.claude.com/en/docs/claude-code/sdk)** - 2025-10-30
-- **[docs/agents-and-tools/remote-mcp-servers.md](https://docs.claude.com/en/docs/agents-and-tools/remote-mcp-servers)** - 2025-10-30
-- **[docs/claude-code/ide-integrations.md](https://docs.claude.com/en/docs/claude-code/ide-integrations)** - 2025-10-30
-- **[docs/claude-code/gitlab-ci-cd.md](https://docs.claude.com/en/docs/claude-code/gitlab-ci-cd)** - 2025-10-30
+- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-10-30
+- **[docs/claude-code/sdk/migration-guide.md](https://docs.claude.com/en/docs/claude-code/sdk/migration-guide)** - 2025-10-30
+- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-10-30
+- **[docs/claude-code/statusline.md](https://docs.claude.com/en/docs/claude-code/statusline)** - 2025-10-30
+- **[docs/agents-and-tools/tool-use/token-efficient-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/token-efficient-tool-use)** - 2025-10-30
 - **[docs/build-with-claude/prompt-engineering/chain-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)** - 2025-10-30
-- **[docs/build-with-claude/prompt-engineering/chain-of-thought.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)** - 2025-10-30
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-10-30
-- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-10-30
+- **[docs/claude-code/claude.ai/settings/data-privacy-controls.md](https://docs.claude.com/en/docs/claude-code/claude.ai/settings/data-privacy-controls)** - 2025-10-30
+- **[docs/about-claude/use-case-guides/overview.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/overview)** - 2025-10-30
+- **[docs/agents-and-tools/remote-mcp-servers.md](https://docs.claude.com/en/docs/agents-and-tools/remote-mcp-servers)** - 2025-10-30
+- **[docs/about-claude/use-case-guides/legal-summarization.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/legal-summarization)** - 2025-10-30
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-30 12:06:08 UTC
+**Last Generated**: 2025-10-30 13:15:18 UTC

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/skills
-Last fetched: 2025-10-30T12:06:06.488742
+Last fetched: 2025-10-30T13:14:16.302703
 
 ---
 
