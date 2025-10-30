@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering
-Last fetched: 2025-10-29T13:15:38.118118
+Last fetched: 2025-10-30T12:05:14.206070
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

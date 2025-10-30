@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-143-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--10--29-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--10--30-green)
 
 ---
 
@@ -13,8 +13,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total Documents** | 143 |
-| **Total Size** | 2.45 MB |
-| **Last Updated** | 2025-10-29 13:16:45 UTC |
+| **Total Size** | 2.46 MB |
+| **Last Updated** | 2025-10-30 12:06:07 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/develop-tests.md](https://docs.claude.com/en/docs/build-with-claude/develop-tests)** - 2025-10-29
-- **[docs/claude-code/common-workflows.md](https://docs.claude.com/en/docs/claude-code/common-workflows)** - 2025-10-29
-- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-10-29
-- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-10-29
-- **[docs/build-with-claude/computer-use.md](https://docs.claude.com/en/docs/build-with-claude/computer-use)** - 2025-10-29
-- **[docs/about-claude/models/choosing-a-model.md](https://docs.claude.com/en/docs/about-claude/models/choosing-a-model)** - 2025-10-29
-- **[docs/claude-code/plugins.md](https://docs.claude.com/en/docs/claude-code/plugins)** - 2025-10-29
-- **[docs/claude-code/hooks.md](https://docs.claude.com/en/docs/claude-code/hooks)** - 2025-10-29
-- **[docs/claude-code/llm-gateway.md](https://docs.claude.com/en/docs/claude-code/llm-gateway)** - 2025-10-29
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-10-29
+- **[docs/build-with-claude/prompt-engineering/prompt-generator.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-generator)** - 2025-10-30
+- **[docs/claude-code/skills.md](https://docs.claude.com/en/docs/claude-code/skills)** - 2025-10-30
+- **[docs/claude-code/sdk.md](https://docs.claude.com/en/docs/claude-code/sdk)** - 2025-10-30
+- **[docs/agents-and-tools/remote-mcp-servers.md](https://docs.claude.com/en/docs/agents-and-tools/remote-mcp-servers)** - 2025-10-30
+- **[docs/claude-code/ide-integrations.md](https://docs.claude.com/en/docs/claude-code/ide-integrations)** - 2025-10-30
+- **[docs/claude-code/gitlab-ci-cd.md](https://docs.claude.com/en/docs/claude-code/gitlab-ci-cd)** - 2025-10-30
+- **[docs/build-with-claude/prompt-engineering/chain-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)** - 2025-10-30
+- **[docs/build-with-claude/prompt-engineering/chain-of-thought.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)** - 2025-10-30
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-10-30
+- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-10-30
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-29 13:16:45 UTC
+**Last Generated**: 2025-10-30 12:06:08 UTC

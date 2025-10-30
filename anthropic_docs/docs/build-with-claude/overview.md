@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/overview
-Last fetched: 2025-10-29T13:16:09.645239
+Last fetched: 2025-10-30T12:04:45.241937
 
 ---
 
@@ -60,4 +60,4 @@ These features enable Claude to interact with external systems, execute code, an
 | [Memory](/en/docs/agents-and-tools/tool-use/memory-tool)                                      | Enable Claude to store and retrieve information across conversations. Build knowledge bases over time, maintain project context, and learn from past interactions. | <PlatformAvailability claudeApiBeta bedrockBeta vertexAiBeta /> |
 | [Text editor](/en/docs/agents-and-tools/tool-use/text-editor-tool)                            | Create and edit text files with a built-in text editor interface for file manipulation tasks.                                                                      | <PlatformAvailability claudeApi bedrock vertexAi />             |
 | [Web fetch](/en/docs/agents-and-tools/tool-use/web-fetch-tool)                                | Retrieve full content from specified web pages and PDF documents for in-depth analysis.                                                                            | <PlatformAvailability claudeApiBeta />                          |
-| [Web search](/en/docs/agents-and-tools/tool-use/web-search-tool)                              | Augment Claude's comprehensive knowledge with current, real-world data from across the web.                                                                        | <PlatformAvailability claudeApi />                              |
+| [Web search](/en/docs/agents-and-tools/tool-use/web-search-tool)                              | Augment Claude's comprehensive knowledge with current, real-world data from across the web.                                                                        | <PlatformAvailability claudeApi vertexAi />                     |
