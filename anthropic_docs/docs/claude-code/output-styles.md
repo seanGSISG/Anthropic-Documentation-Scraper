@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/output-styles
-Last fetched: 2025-10-30T13:13:56.027045
+Last fetched: 2025-10-31T12:04:32.750317
 
 ---
 

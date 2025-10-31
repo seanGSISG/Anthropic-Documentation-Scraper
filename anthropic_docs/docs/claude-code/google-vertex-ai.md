@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/google-vertex-ai
-Last fetched: 2025-10-30T13:14:28.222502
+Last fetched: 2025-10-31T12:06:09.473659
 
 ---
 

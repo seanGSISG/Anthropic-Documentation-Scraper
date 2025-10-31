@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/get-started
-Last fetched: 2025-10-30T13:14:43.919516
+Last fetched: 2025-10-31T12:04:42.782795
 
 ---
 
@@ -310,6 +310,10 @@ Last fetched: 2025-10-30T13:14:43.919516
 Now that you have made your first Claude API request, it's time to explore what else is possible:
 
 <CardGroup cols={3}>
+  <Card title="Working with Messages" icon="messages" href="/en/docs/build-with-claude/working-with-messages">
+    Learn common patterns for the Messages API.
+  </Card>
+
   <Card title="Features Overview" icon="brain-circuit" href="/en/docs/build-with-claude/overview">
     Explore Claude's advanced features and capabilities.
   </Card>

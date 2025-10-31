@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response
-Last fetched: 2025-10-30T13:15:08.973805
+Last fetched: 2025-10-31T12:04:58.852274
 
 ---
 
@@ -86,6 +86,10 @@ response = client.messages.create(
 ***
 
 <CardGroup cols={3}>
+  <Card title="Working with Messages" icon="messages" href="/en/docs/build-with-claude/working-with-messages">
+    See more examples of prefill and other Messages API patterns.
+  </Card>
+
   <Card title="Prompt library" icon="link" href="/en/resources/prompt-library/library">
     Get inspired by a curated selection of prompts for various tasks and use cases.
   </Card>

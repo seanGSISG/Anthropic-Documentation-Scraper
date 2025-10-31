@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99
-Last fetched: 2025-10-30T13:14:59.701668
+Last fetched: 2025-10-31T12:04:46.792415
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -35,6 +35,7 @@ Model deprecations
 Pricing
 Build with Claude
 Features overview
+Working with the Messages API
 Context windows
 Prompting best practices
 Capabilities
@@ -68,6 +69,7 @@ Agent Skills
 Overview
 Quickstart
 Best practices
+Using Skills
 Agent SDK
 Migrate to Claude Agent SDK
 Overview
@@ -106,6 +108,10 @@ Mitigate jailbreaks
 Streaming refusals
 Reduce prompt leak
 Keep Claude in character
+Administration and monitoring
+Admin API overview
+Usage and Cost API
+Claude Code Analytics API
 404
 Page Not Found
 We couldn't find the page you were looking for

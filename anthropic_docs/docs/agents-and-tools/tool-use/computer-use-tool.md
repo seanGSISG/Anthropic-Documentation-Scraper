@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool
-Last fetched: 2025-10-30T13:14:32.433091
+Last fetched: 2025-10-31T12:05:54.498140
 
 ---
 
