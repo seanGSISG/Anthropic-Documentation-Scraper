@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/ide-integrations
-Last fetched: 2025-10-31T12:05:47.428841
+Last fetched: 2025-10-31T13:14:00.678944
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

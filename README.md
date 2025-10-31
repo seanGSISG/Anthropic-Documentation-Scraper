@@ -13,8 +13,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total Documents** | 144 |
-| **Total Size** | 2.47 MB |
-| **Last Updated** | 2025-10-31 12:06:14 UTC |
+| **Total Size** | 2.48 MB |
+| **Last Updated** | 2025-10-31 13:14:20 UTC |
 | **New This Week** | 144 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/develop-tests.md](https://docs.claude.com/en/docs/build-with-claude/develop-tests)** - 2025-10-31
-- **[docs/agents-and-tools/agent-skills/api.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/api)** - 2025-10-31
-- **[docs/build-with-claude/prompt-engineering/prompt-generator.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-generator)** - 2025-10-31
-- **[docs/claude-code/google-vertex-ai.md](https://docs.claude.com/en/docs/claude-code/google-vertex-ai)** - 2025-10-31
+- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-10-31
+- **[docs/test-and-evaluate/overview.md](https://docs.claude.com/en/docs/test-and-evaluate/overview)** - 2025-10-31
 - **[docs/claude-code/troubleshooting.md](https://docs.claude.com/en/docs/claude-code/troubleshooting)** - 2025-10-31
-- **[docs/claude-code/setup.md](https://docs.claude.com/en/docs/claude-code/setup)** - 2025-10-31
-- **[docs/claude-code/claude.ai/settings/data-privacy-controls.md](https://docs.claude.com/en/docs/claude-code/claude.ai/settings/data-privacy-controls)** - 2025-10-31
-- **[docs/build-with-claude/prompt-engineering/use-xml-tags.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags)** - 2025-10-31
-- **[docs/claude-code/sandboxing.md](https://docs.claude.com/en/docs/claude-code/sandboxing)** - 2025-10-31
-- **[docs/claude-code/devcontainer.md](https://docs.claude.com/en/docs/claude-code/devcontainer)** - 2025-10-31
+- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-10-31
+- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-10-31
+- **[release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx.md](https://docs.claude.com/en/release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx)** - 2025-10-31
+- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-10-31
+- **[docs/claude-code/legal-and-compliance.md](https://docs.claude.com/en/docs/claude-code/legal-and-compliance)** - 2025-10-31
+- **[docs/claude-code/plugins-reference.md](https://docs.claude.com/en/docs/claude-code/plugins-reference)** - 2025-10-31
+- **[docs/claude-code/monitoring-usage.md](https://docs.claude.com/en/docs/claude-code/monitoring-usage)** - 2025-10-31
 
 _...and 134 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-31 12:06:15 UTC
+**Last Generated**: 2025-10-31 13:14:21 UTC

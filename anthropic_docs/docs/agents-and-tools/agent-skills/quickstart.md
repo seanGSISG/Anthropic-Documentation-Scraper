@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart
-Last fetched: 2025-10-31T12:06:01.538902
+Last fetched: 2025-10-31T13:13:54.218654
 
 ---
 

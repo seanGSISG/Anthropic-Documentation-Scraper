@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/plugins
-Last fetched: 2025-10-31T12:05:00.820459
+Last fetched: 2025-10-31T13:13:06.548690
 
 ---
 
