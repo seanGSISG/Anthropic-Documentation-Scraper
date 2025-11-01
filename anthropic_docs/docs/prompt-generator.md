@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/prompt-generator
-Last fetched: 2025-10-31T13:12:54.188669
+Last fetched: 2025-11-01T12:04:16.378622
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -36,6 +36,7 @@ Model deprecations
 Pricing
 Build with Claude
 Features overview
+Working with the Messages API
 Context windows
 Prompting best practices
 Capabilities
@@ -69,6 +70,7 @@ Agent Skills
 Overview
 Quickstart
 Best practices
+Using Skills
 Agent SDK
 Migrate to Claude Agent SDK
 Overview
@@ -107,6 +109,10 @@ Mitigate jailbreaks
 Streaming refusals
 Reduce prompt leak
 Keep Claude in character
+Administration and monitoring
+Admin API overview
+Usage and Cost API
+Claude Code Analytics API
 On this page
 Next steps
 Our prompt generator is compatible with all Claude models, including those with extended thinking capabilities. For prompting tips specific to extended thinking models, see

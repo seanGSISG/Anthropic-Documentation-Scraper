@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-144-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--10--31-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--01-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.48 MB |
-| **Last Updated** | 2025-10-31 13:14:20 UTC |
+| **Last Updated** | 2025-11-01 12:05:40 UTC |
 | **New This Week** | 144 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-10-31
-- **[docs/test-and-evaluate/overview.md](https://docs.claude.com/en/docs/test-and-evaluate/overview)** - 2025-10-31
-- **[docs/claude-code/troubleshooting.md](https://docs.claude.com/en/docs/claude-code/troubleshooting)** - 2025-10-31
-- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-10-31
-- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-10-31
-- **[release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx.md](https://docs.claude.com/en/release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx)** - 2025-10-31
-- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-10-31
-- **[docs/claude-code/legal-and-compliance.md](https://docs.claude.com/en/docs/claude-code/legal-and-compliance)** - 2025-10-31
-- **[docs/claude-code/plugins-reference.md](https://docs.claude.com/en/docs/claude-code/plugins-reference)** - 2025-10-31
-- **[docs/claude-code/monitoring-usage.md](https://docs.claude.com/en/docs/claude-code/monitoring-usage)** - 2025-10-31
+- **[docs/about-claude/model-deprecations.md](https://docs.claude.com/en/docs/about-claude/model-deprecations)** - 2025-11-01
+- **[release-notes/system-prompts.md](https://docs.claude.com/en/release-notes/system-prompts)** - 2025-11-01
+- **[docs/claude-code/iam.md](https://docs.claude.com/en/docs/claude-code/iam)** - 2025-11-01
+- **[docs/claude-code/github-actions.md](https://docs.claude.com/en/docs/claude-code/github-actions)** - 2025-11-01
+- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-11-01
+- **[docs/claude-code/llm-gateway.md](https://docs.claude.com/en/docs/claude-code/llm-gateway)** - 2025-11-01
+- **[docs/claude-code/skills.md](https://docs.claude.com/en/docs/claude-code/skills)** - 2025-11-01
+- **[docs/claude-code/costs.md](https://docs.claude.com/en/docs/claude-code/costs)** - 2025-11-01
+- **[docs/build-with-claude/prompt-engineering/system-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts)** - 2025-11-01
+- **[docs/about-claude/use-case-guides/legal-summarization.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/legal-summarization)** - 2025-11-01
 
 _...and 134 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-10-31 13:14:21 UTC
+**Last Generated**: 2025-11-01 12:05:41 UTC

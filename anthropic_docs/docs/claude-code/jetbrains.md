@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/jetbrains
-Last fetched: 2025-10-31T13:13:46.309266
+Last fetched: 2025-11-01T12:04:52.353136
 
 ---
 

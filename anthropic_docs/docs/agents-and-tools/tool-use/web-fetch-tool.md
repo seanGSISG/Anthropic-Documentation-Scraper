@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool
-Last fetched: 2025-10-31T13:13:17.536869
+Last fetched: 2025-11-01T12:04:53.384948
 
 ---
 

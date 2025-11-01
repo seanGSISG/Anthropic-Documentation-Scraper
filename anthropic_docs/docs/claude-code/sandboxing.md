@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/sandboxing
-Last fetched: 2025-10-31T13:13:32.235188
+Last fetched: 2025-11-01T12:05:15.169423
 
 ---
 
