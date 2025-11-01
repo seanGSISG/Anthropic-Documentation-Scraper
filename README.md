@@ -14,8 +14,8 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.48 MB |
-| **Last Updated** | 2025-11-01 12:05:40 UTC |
-| **New This Week** | 144 |
+| **Last Updated** | 2025-11-01 13:10:37 UTC |
+| **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
 ---
@@ -36,18 +36,18 @@
 
 ### New Documents
 
-- **[docs/about-claude/model-deprecations.md](https://docs.claude.com/en/docs/about-claude/model-deprecations)** - 2025-11-01
-- **[release-notes/system-prompts.md](https://docs.claude.com/en/release-notes/system-prompts)** - 2025-11-01
-- **[docs/claude-code/iam.md](https://docs.claude.com/en/docs/claude-code/iam)** - 2025-11-01
+- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-11-01
+- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-11-01
+- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-01
+- **[docs/claude-code/memory.md](https://docs.claude.com/en/docs/claude-code/memory)** - 2025-11-01
+- **[docs/build-with-claude/prompt-engineering/chain-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)** - 2025-11-01
+- **[docs/claude-code/amazon-bedrock.md](https://docs.claude.com/en/docs/claude-code/amazon-bedrock)** - 2025-11-01
 - **[docs/claude-code/github-actions.md](https://docs.claude.com/en/docs/claude-code/github-actions)** - 2025-11-01
-- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-11-01
-- **[docs/claude-code/llm-gateway.md](https://docs.claude.com/en/docs/claude-code/llm-gateway)** - 2025-11-01
-- **[docs/claude-code/skills.md](https://docs.claude.com/en/docs/claude-code/skills)** - 2025-11-01
-- **[docs/claude-code/costs.md](https://docs.claude.com/en/docs/claude-code/costs)** - 2025-11-01
-- **[docs/build-with-claude/prompt-engineering/system-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts)** - 2025-11-01
-- **[docs/about-claude/use-case-guides/legal-summarization.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/legal-summarization)** - 2025-11-01
+- **[docs/agents-and-tools/tool-use/overview.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/overview)** - 2025-11-01
+- **[docs/claude-code/terminal-config.md](https://docs.claude.com/en/docs/claude-code/terminal-config)** - 2025-11-01
+- **[docs/claude-code/data-usage.md](https://docs.claude.com/en/docs/claude-code/data-usage)** - 2025-11-01
 
-_...and 134 more new documents_
+_...and 133 more new documents_
 
 
 ---
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-01 12:05:41 UTC
+**Last Generated**: 2025-11-01 13:10:38 UTC

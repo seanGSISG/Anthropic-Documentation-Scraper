@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/amazon-bedrock
-Last fetched: 2025-11-01T12:04:35.658979
+Last fetched: 2025-11-01T13:10:34.506210
 
 ---
 

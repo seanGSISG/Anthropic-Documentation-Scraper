@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/plugin-marketplaces
-Last fetched: 2025-11-01T12:05:00.125932
+Last fetched: 2025-11-01T13:09:16.075706
 
 ---
 

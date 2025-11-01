@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/slash-commands
-Last fetched: 2025-11-01T12:05:25.731331
+Last fetched: 2025-11-01T13:09:50.773438
 
 ---
 
