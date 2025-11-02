@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/devcontainer
-Last fetched: 2025-11-01T13:09:15.007606
+Last fetched: 2025-11-02T12:04:18.506599
 
 ---
 

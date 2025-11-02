@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/analytics
-Last fetched: 2025-11-01T13:08:59.468246
+Last fetched: 2025-11-02T12:05:02.368181
 
 ---
 

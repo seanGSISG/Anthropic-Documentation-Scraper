@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides/customer-support-chat
-Last fetched: 2025-11-01T13:09:59.385279
+Last fetched: 2025-11-02T12:05:36.294380
 
 ---
 

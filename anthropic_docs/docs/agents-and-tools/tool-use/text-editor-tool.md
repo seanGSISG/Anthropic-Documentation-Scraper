@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/text-editor-tool
-Last fetched: 2025-11-01T13:09:51.895188
+Last fetched: 2025-11-02T12:04:19.072848
 
 ---
 

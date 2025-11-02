@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing
-Last fetched: 2025-11-01T13:09:27.792863
+Last fetched: 2025-11-02T12:05:26.450165
 
 ---
 

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/security
-Last fetched: 2025-11-01T13:09:49.713873
+Last fetched: 2025-11-02T12:05:30.157064
 
 ---
 
