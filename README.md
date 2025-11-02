@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.49 MB |
-| **Last Updated** | 2025-11-02 12:05:37 UTC |
+| **Last Updated** | 2025-11-02 13:10:21 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-latency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-latency)** - 2025-11-02
-- **[docs/agents-and-tools/tool-use/fine-grained-tool-streaming.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/fine-grained-tool-streaming)** - 2025-11-02
-- **[docs/about-claude/use-case-guides/customer-support-chat.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/customer-support-chat)** - 2025-11-02
-- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-02
-- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-11-02
-- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-11-02
-- **[docs/claude-code/headless.md](https://docs.claude.com/en/docs/claude-code/headless)** - 2025-11-02
-- **[docs/build-with-claude/prompt-engineering/prompt-improver.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-improver)** - 2025-11-02
-- **[docs/claude-code/mcp.md](https://docs.claude.com/en/docs/claude-code/mcp)** - 2025-11-02
-- **[docs/agents-and-tools/agent-skills/api.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/api)** - 2025-11-02
+- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-02
+- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-02
+- **[docs/about-claude/models/overview.md](https://docs.claude.com/en/docs/about-claude/models/overview)** - 2025-11-02
+- **[docs/claude-code/jetbrains.md](https://docs.claude.com/en/docs/claude-code/jetbrains)** - 2025-11-02
+- **[docs/claude-code/sandboxing.md](https://docs.claude.com/en/docs/claude-code/sandboxing)** - 2025-11-02
+- **[docs/claude-code/quickstart.md](https://docs.claude.com/en/docs/claude-code/quickstart)** - 2025-11-02
+- **[docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks)** - 2025-11-02
+- **[docs/claude-code/devcontainer.md](https://docs.claude.com/en/docs/claude-code/devcontainer)** - 2025-11-02
+- **[docs/agents-and-tools/tool-use/computer-use-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool)** - 2025-11-02
+- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-11-02
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-02 12:05:38 UTC
+**Last Generated**: 2025-11-02 13:10:22 UTC

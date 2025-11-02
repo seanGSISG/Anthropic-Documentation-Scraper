@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool
-Last fetched: 2025-11-02T12:05:15.756531
+Last fetched: 2025-11-02T13:09:43.756057
 
 ---
 

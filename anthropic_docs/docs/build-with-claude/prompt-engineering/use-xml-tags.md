@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags
-Last fetched: 2025-11-02T12:04:56.417171
+Last fetched: 2025-11-02T13:09:58.527442
 
 ---
 
