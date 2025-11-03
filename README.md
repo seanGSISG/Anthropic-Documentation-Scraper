@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.49 MB |
-| **Last Updated** | 2025-11-03 12:06:04 UTC |
+| **Last Updated** | 2025-11-03 13:15:26 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-11-03
-- **[docs/claude-code/sandboxing.md](https://docs.claude.com/en/docs/claude-code/sandboxing)** - 2025-11-03
-- **[docs/build-with-claude/prompt-engineering/overview.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview)** - 2025-11-03
-- **[docs/claude-code/sdk.md](https://docs.claude.com/en/docs/claude-code/sdk)** - 2025-11-03
-- **[docs/claude-code/monitoring-usage.md](https://docs.claude.com/en/docs/claude-code/monitoring-usage)** - 2025-11-03
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-03
-- **[docs/claude-code/interactive-mode.md](https://docs.claude.com/en/docs/claude-code/interactive-mode)** - 2025-11-03
-- **[docs/test-and-evaluate/develop-tests.md](https://docs.claude.com/en/docs/test-and-evaluate/develop-tests)** - 2025-11-03
-- **[docs/claude-code/analytics.md](https://docs.claude.com/en/docs/claude-code/analytics)** - 2025-11-03
+- **[docs/claude-code/plugin-marketplaces.md](https://docs.claude.com/en/docs/claude-code/plugin-marketplaces)** - 2025-11-03
 - **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-11-03
+- **[docs/build-with-claude/develop-tests.md](https://docs.claude.com/en/docs/build-with-claude/develop-tests)** - 2025-11-03
+- **[docs/claude-code/checkpointing.md](https://docs.claude.com/en/docs/claude-code/checkpointing)** - 2025-11-03
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-03
+- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-03
+- **[docs/build-with-claude/token-counting.md](https://docs.claude.com/en/docs/build-with-claude/token-counting)** - 2025-11-03
+- **[docs/claude-code/iam.md](https://docs.claude.com/en/docs/claude-code/iam)** - 2025-11-03
+- **[docs/claude-code/quickstart.md](https://docs.claude.com/en/docs/claude-code/quickstart)** - 2025-11-03
+- **[docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character)** - 2025-11-03
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-03 12:06:05 UTC
+**Last Generated**: 2025-11-03 13:15:27 UTC

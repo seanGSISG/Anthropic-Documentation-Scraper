@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/mcp-connector
-Last fetched: 2025-11-03T12:04:42.388975
+Last fetched: 2025-11-03T13:15:00.844824
 
 ---
 

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables
-Last fetched: 2025-11-03T12:04:41.332465
+Last fetched: 2025-11-03T13:14:35.960214
 
 ---
 

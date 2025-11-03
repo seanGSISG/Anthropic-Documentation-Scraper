@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/hooks-guide
-Last fetched: 2025-11-03T12:05:32.065989
+Last fetched: 2025-11-03T13:15:01.369764
 
 ---
 

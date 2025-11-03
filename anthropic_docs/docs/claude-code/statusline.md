@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/statusline
-Last fetched: 2025-11-03T12:04:45.842806
+Last fetched: 2025-11-03T13:14:30.920427
 
 ---
 

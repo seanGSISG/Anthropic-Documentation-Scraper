@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/setup
-Last fetched: 2025-11-03T12:04:33.981134
+Last fetched: 2025-11-03T13:14:39.648079
 
 ---
 
