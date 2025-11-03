@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-144-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--02-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--03-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.49 MB |
-| **Last Updated** | 2025-11-02 13:10:21 UTC |
+| **Last Updated** | 2025-11-03 12:06:04 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-02
-- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-02
-- **[docs/about-claude/models/overview.md](https://docs.claude.com/en/docs/about-claude/models/overview)** - 2025-11-02
-- **[docs/claude-code/jetbrains.md](https://docs.claude.com/en/docs/claude-code/jetbrains)** - 2025-11-02
-- **[docs/claude-code/sandboxing.md](https://docs.claude.com/en/docs/claude-code/sandboxing)** - 2025-11-02
-- **[docs/claude-code/quickstart.md](https://docs.claude.com/en/docs/claude-code/quickstart)** - 2025-11-02
-- **[docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks)** - 2025-11-02
-- **[docs/claude-code/devcontainer.md](https://docs.claude.com/en/docs/claude-code/devcontainer)** - 2025-11-02
-- **[docs/agents-and-tools/tool-use/computer-use-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool)** - 2025-11-02
-- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-11-02
+- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-11-03
+- **[docs/claude-code/sandboxing.md](https://docs.claude.com/en/docs/claude-code/sandboxing)** - 2025-11-03
+- **[docs/build-with-claude/prompt-engineering/overview.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview)** - 2025-11-03
+- **[docs/claude-code/sdk.md](https://docs.claude.com/en/docs/claude-code/sdk)** - 2025-11-03
+- **[docs/claude-code/monitoring-usage.md](https://docs.claude.com/en/docs/claude-code/monitoring-usage)** - 2025-11-03
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-03
+- **[docs/claude-code/interactive-mode.md](https://docs.claude.com/en/docs/claude-code/interactive-mode)** - 2025-11-03
+- **[docs/test-and-evaluate/develop-tests.md](https://docs.claude.com/en/docs/test-and-evaluate/develop-tests)** - 2025-11-03
+- **[docs/claude-code/analytics.md](https://docs.claude.com/en/docs/claude-code/analytics)** - 2025-11-03
+- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-11-03
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-02 13:10:22 UTC
+**Last Generated**: 2025-11-03 12:06:05 UTC
