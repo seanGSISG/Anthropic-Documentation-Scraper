@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-144-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--03-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--04-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.49 MB |
-| **Last Updated** | 2025-11-03 13:15:26 UTC |
+| **Last Updated** | 2025-11-04 12:06:12 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/claude-code/plugin-marketplaces.md](https://docs.claude.com/en/docs/claude-code/plugin-marketplaces)** - 2025-11-03
-- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-11-03
-- **[docs/build-with-claude/develop-tests.md](https://docs.claude.com/en/docs/build-with-claude/develop-tests)** - 2025-11-03
-- **[docs/claude-code/checkpointing.md](https://docs.claude.com/en/docs/claude-code/checkpointing)** - 2025-11-03
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-03
-- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-03
-- **[docs/build-with-claude/token-counting.md](https://docs.claude.com/en/docs/build-with-claude/token-counting)** - 2025-11-03
-- **[docs/claude-code/iam.md](https://docs.claude.com/en/docs/claude-code/iam)** - 2025-11-03
-- **[docs/claude-code/quickstart.md](https://docs.claude.com/en/docs/claude-code/quickstart)** - 2025-11-03
-- **[docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character)** - 2025-11-03
+- **[docs/claude-code/iam.md](https://docs.claude.com/en/docs/claude-code/iam)** - 2025-11-04
+- **[docs/claude-code/sub-agents.md](https://docs.claude.com/en/docs/claude-code/sub-agents)** - 2025-11-04
+- **[docs/claude-code/ide-integrations.md](https://docs.claude.com/en/docs/claude-code/ide-integrations)** - 2025-11-04
+- **[docs/claude-code/third-party-integrations.md](https://docs.claude.com/en/docs/claude-code/third-party-integrations)** - 2025-11-04
+- **[docs/claude-code/model-config.md](https://docs.claude.com/en/docs/claude-code/model-config)** - 2025-11-04
+- **[docs/build-with-claude/citations.md](https://docs.claude.com/en/docs/build-with-claude/citations)** - 2025-11-04
+- **[docs/agents-and-tools/tool-use/computer-use-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool)** - 2025-11-04
+- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-11-04
+- **[docs/claude-code/checkpointing.md](https://docs.claude.com/en/docs/claude-code/checkpointing)** - 2025-11-04
+- **[docs/claude-code/skills.md](https://docs.claude.com/en/docs/claude-code/skills)** - 2025-11-04
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-03 13:15:27 UTC
+**Last Generated**: 2025-11-04 12:06:13 UTC

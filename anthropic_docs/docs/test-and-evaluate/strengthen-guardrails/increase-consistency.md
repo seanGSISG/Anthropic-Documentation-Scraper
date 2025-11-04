@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency
-Last fetched: 2025-11-03T13:14:12.520363
+Last fetched: 2025-11-04T12:04:58.135668
 
 ---
 

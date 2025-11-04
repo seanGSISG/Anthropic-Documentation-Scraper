@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models
-Last fetched: 2025-11-03T13:15:24.154909
+Last fetched: 2025-11-04T12:05:43.363463
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
