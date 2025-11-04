@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-latency
-Last fetched: 2025-11-04T12:04:55.430507
+Last fetched: 2025-11-04T13:16:39.439160
 
 ---
 

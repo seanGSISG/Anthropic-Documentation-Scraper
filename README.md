@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.49 MB |
-| **Last Updated** | 2025-11-04 12:06:12 UTC |
+| **Last Updated** | 2025-11-04 13:17:06 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/claude-code/iam.md](https://docs.claude.com/en/docs/claude-code/iam)** - 2025-11-04
+- **[docs/claude-code/legal-and-compliance.md](https://docs.claude.com/en/docs/claude-code/legal-and-compliance)** - 2025-11-04
+- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-11-04
+- **[docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character)** - 2025-11-04
+- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-04
+- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-04
+- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-11-04
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-04
+- **[release-notes/overview.md](https://docs.claude.com/en/release-notes/overview)** - 2025-11-04
 - **[docs/claude-code/sub-agents.md](https://docs.claude.com/en/docs/claude-code/sub-agents)** - 2025-11-04
-- **[docs/claude-code/ide-integrations.md](https://docs.claude.com/en/docs/claude-code/ide-integrations)** - 2025-11-04
-- **[docs/claude-code/third-party-integrations.md](https://docs.claude.com/en/docs/claude-code/third-party-integrations)** - 2025-11-04
-- **[docs/claude-code/model-config.md](https://docs.claude.com/en/docs/claude-code/model-config)** - 2025-11-04
-- **[docs/build-with-claude/citations.md](https://docs.claude.com/en/docs/build-with-claude/citations)** - 2025-11-04
-- **[docs/agents-and-tools/tool-use/computer-use-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool)** - 2025-11-04
-- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-11-04
-- **[docs/claude-code/checkpointing.md](https://docs.claude.com/en/docs/claude-code/checkpointing)** - 2025-11-04
-- **[docs/claude-code/skills.md](https://docs.claude.com/en/docs/claude-code/skills)** - 2025-11-04
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak)** - 2025-11-04
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-04 12:06:13 UTC
+**Last Generated**: 2025-11-04 13:17:06 UTC

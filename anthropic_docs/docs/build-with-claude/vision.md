@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/vision
-Last fetched: 2025-11-04T12:05:36.095433
+Last fetched: 2025-11-04T13:16:26.936405
 
 ---
 

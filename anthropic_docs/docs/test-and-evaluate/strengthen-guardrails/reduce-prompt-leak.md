@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak
-Last fetched: 2025-11-04T12:05:43.909894
+Last fetched: 2025-11-04T13:17:00.132811
 
 ---
 

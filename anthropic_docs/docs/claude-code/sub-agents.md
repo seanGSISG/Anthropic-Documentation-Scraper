@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/sub-agents
-Last fetched: 2025-11-04T12:06:12.159722
+Last fetched: 2025-11-04T13:17:00.657225
 
 ---
 
