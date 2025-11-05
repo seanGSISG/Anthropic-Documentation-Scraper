@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/overview
-Last fetched: 2025-11-04T13:15:51.860373
+Last fetched: 2025-11-05T12:04:56.486308
 
 ---
 
@@ -97,6 +97,10 @@ You'll be prompted to log in on first use. That's it! [Continue with Quickstart 
 ## Additional resources
 
 <CardGroup>
+  <Card title="Build with the Agent SDK" icon="code-branch" href="/en/api/agent-sdk/overview">
+    Create custom AI agents with the Claude Agent SDK
+  </Card>
+
   <Card title="Host on AWS or GCP" icon="cloud" href="/en/docs/claude-code/third-party-integrations">
     Configure Claude Code with Amazon Bedrock or Google Vertex AI
   </Card>

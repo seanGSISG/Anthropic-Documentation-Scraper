@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides
-Last fetched: 2025-11-04T13:15:41.026802
+Last fetched: 2025-11-05T12:05:07.588730
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

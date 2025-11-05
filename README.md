@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-144-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--04-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--05-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.49 MB |
-| **Last Updated** | 2025-11-04 13:17:06 UTC |
+| **Last Updated** | 2025-11-05 12:05:50 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/claude-code/legal-and-compliance.md](https://docs.claude.com/en/docs/claude-code/legal-and-compliance)** - 2025-11-04
-- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-11-04
-- **[docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character)** - 2025-11-04
-- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-04
-- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-04
-- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-11-04
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-04
-- **[release-notes/overview.md](https://docs.claude.com/en/release-notes/overview)** - 2025-11-04
-- **[docs/claude-code/sub-agents.md](https://docs.claude.com/en/docs/claude-code/sub-agents)** - 2025-11-04
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak)** - 2025-11-04
+- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-11-05
+- **[docs/build-with-claude/embeddings.md](https://docs.claude.com/en/docs/build-with-claude/embeddings)** - 2025-11-05
+- **[docs/test-and-evaluate/define-success.md](https://docs.claude.com/en/docs/test-and-evaluate/define-success)** - 2025-11-05
+- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-11-05
+- **[docs/claude-code/sdk/migration-guide.md](https://docs.claude.com/en/docs/claude-code/sdk/migration-guide)** - 2025-11-05
+- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-05
+- **[docs/about-claude/use-case-guides/overview.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/overview)** - 2025-11-05
+- **[docs/build-with-claude/prompt-engineering/chain-of-thought.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)** - 2025-11-05
+- **[docs/build-with-claude/prompt-engineering/prompt-improver.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-improver)** - 2025-11-05
+- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-05
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-04 13:17:06 UTC
+**Last Generated**: 2025-11-05 12:05:51 UTC

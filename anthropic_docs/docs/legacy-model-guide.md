@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/legacy-model-guide
-Last fetched: 2025-11-04T13:16:20.675497
+Last fetched: 2025-11-05T12:05:27.159721
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
