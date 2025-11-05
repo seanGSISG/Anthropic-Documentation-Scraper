@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/monitoring-usage
-Last fetched: 2025-11-05T12:04:37.206347
+Last fetched: 2025-11-05T13:14:27.098638
 
 ---
 

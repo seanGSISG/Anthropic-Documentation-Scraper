@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 144 |
 | **Total Size** | 2.49 MB |
-| **Last Updated** | 2025-11-05 12:05:50 UTC |
+| **Last Updated** | 2025-11-05 13:15:37 UTC |
 | **New This Week** | 143 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-11-05
-- **[docs/build-with-claude/embeddings.md](https://docs.claude.com/en/docs/build-with-claude/embeddings)** - 2025-11-05
-- **[docs/test-and-evaluate/define-success.md](https://docs.claude.com/en/docs/test-and-evaluate/define-success)** - 2025-11-05
-- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-11-05
-- **[docs/claude-code/sdk/migration-guide.md](https://docs.claude.com/en/docs/claude-code/sdk/migration-guide)** - 2025-11-05
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-05
+- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-11-05
+- **[docs/about-claude/pricing.md](https://docs.claude.com/en/docs/about-claude/pricing)** - 2025-11-05
+- **[docs/agents-and-tools/tool-use/memory-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool)** - 2025-11-05
+- **[docs/agents-and-tools/tool-use/token-efficient-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/token-efficient-tool-use)** - 2025-11-05
+- **[docs/build-with-claude/context-windows.md](https://docs.claude.com/en/docs/build-with-claude/context-windows)** - 2025-11-05
+- **[docs/agents-and-tools/tool-use/code-execution-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/code-execution-tool)** - 2025-11-05
+- **[docs/build-with-claude/batch-processing.md](https://docs.claude.com/en/docs/build-with-claude/batch-processing)** - 2025-11-05
+- **[docs/agents-and-tools/mcp.md](https://docs.claude.com/en/docs/agents-and-tools/mcp)** - 2025-11-05
 - **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-05
-- **[docs/about-claude/use-case-guides/overview.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/overview)** - 2025-11-05
-- **[docs/build-with-claude/prompt-engineering/chain-of-thought.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)** - 2025-11-05
-- **[docs/build-with-claude/prompt-engineering/prompt-improver.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-improver)** - 2025-11-05
-- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-05
 
 _...and 133 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-05 12:05:51 UTC
+**Last Generated**: 2025-11-05 13:15:38 UTC

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-caching
-Last fetched: 2025-11-05T12:05:40.125436
+Last fetched: 2025-11-05T13:15:03.949302
 
 ---
 

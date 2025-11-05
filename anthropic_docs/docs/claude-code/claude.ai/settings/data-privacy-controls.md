@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/claude.ai/settings/data-privacy-controls
-Last fetched: 2025-11-05T12:04:33.005852
+Last fetched: 2025-11-05T13:14:39.044192
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

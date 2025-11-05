@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts
-Last fetched: 2025-11-05T12:05:37.003893
+Last fetched: 2025-11-05T13:14:23.442923
 
 ---
 
