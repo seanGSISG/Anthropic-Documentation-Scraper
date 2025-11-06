@@ -1,13 +1,11 @@
 Source: https://docs.claude.com/en/docs/claude-code
-Last fetched: 2025-11-05T13:15:14.408766
+Last fetched: 2025-11-06T12:06:11.260279
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
 
-Agent Skills are now available!
-Learn more about extending Claude's capabilities with Agent Skills
-.
-Claude Docs
+Skip to main content
+Claude Code Docs
 home page
 English
 Search...
@@ -15,104 +13,27 @@ Search...
 K
 Search...
 Navigation
-Agent SDK
+Build with Claude Code
 Migrate to Claude Agent SDK
-Home
-Developer Guide
-API Reference
-Claude Code
-Model Context Protocol (MCP)
+Getting started
+Build with Claude Code
+Deployment
+Administration
+Configuration
+Reference
 Resources
-Release Notes
-First steps
-Intro to Claude
-Quickstart
-Models & pricing
-Models overview
-Choosing a model
-What's new in Claude 4.5
-Migrating to Claude 4.5
-Model deprecations
-Pricing
-Build with Claude
-Features overview
-Working with the Messages API
-Context windows
-Prompting best practices
-Capabilities
-Prompt caching
-Context editing
-Extended thinking
-Streaming Messages
-Batch processing
-Citations
-Multilingual support
-Token counting
-Embeddings
-Vision
-PDF support
-Files API
-Search results
-Google Sheets add-on
-Tools
-Overview
-How to implement tool use
-Token-efficient tool use
-Fine-grained tool streaming
-Bash tool
-Code execution tool
-Computer use tool
-Text editor tool
-Web fetch tool
-Web search tool
-Memory tool
+Build with Claude Code
+Subagents
+Plugins
 Agent Skills
-Overview
-Quickstart
-Best practices
-Using Skills
-Agent SDK
+Output styles
+Hooks
+Headless mode
+GitHub Actions
+GitLab CI/CD
+Model Context Protocol (MCP)
 Migrate to Claude Agent SDK
-Overview
-TypeScript SDK
-Python SDK
-Guides
-MCP in the API
-MCP connector
-Remote MCP servers
-Claude on 3rd-party platforms
-Amazon Bedrock
-Vertex AI
-Prompt engineering
-Overview
-Prompt generator
-Use prompt templates
-Prompt improver
-Be clear and direct
-Use examples (multishot prompting)
-Let Claude think (CoT)
-Use XML tags
-Give Claude a role (system prompts)
-Prefill Claude's response
-Chain complex prompts
-Long context tips
-Extended thinking tips
-Test & evaluate
-Define success criteria
-Develop test cases
-Using the Evaluation Tool
-Reducing latency
-Strengthen guardrails
-Reduce hallucinations
-Increase output consistency
-Mitigate jailbreaks
-Streaming refusals
-Reduce prompt leak
-Keep Claude in character
-Administration and monitoring
-Admin API overview
-Usage and Cost API
-Claude Code Analytics API
+Troubleshooting
 On this page
 Overview
 What’s Changed
@@ -155,11 +76,13 @@ Migration Steps
 For TypeScript/JavaScript Projects
 1. Uninstall the old package:
 Copy
+Ask AI
 npm
 uninstall
 @anthropic-ai/claude-code
 2. Install the new package:
 Copy
+Ask AI
 npm
 install
 @anthropic-ai/claude-agent-sdk
@@ -170,6 +93,7 @@ to
 @anthropic-ai/claude-agent-sdk
 :
 Copy
+Ask AI
 // Before
 import
 {
@@ -200,6 +124,7 @@ If you have the package listed in your
 package.json
 , update it:
 Copy
+Ask AI
 // Before
 {
 "dependencies"
@@ -223,11 +148,13 @@ That’s it! No other code changes are required.
 For Python Projects
 1. Uninstall the old package:
 Copy
+Ask AI
 pip
 uninstall
 claude-code-sdk
 2. Install the new package:
 Copy
+Ask AI
 pip
 install
 claude-agent-sdk
@@ -238,6 +165,7 @@ to
 claude_agent_sdk
 :
 Copy
+Ask AI
 # Before
 from
 claude_code_sdk
@@ -255,6 +183,7 @@ to
 ClaudeAgentOptions
 :
 Copy
+Ask AI
 # Before
 from
 claude_agent_sdk
@@ -295,6 +224,7 @@ ClaudeAgentOptions
 .
 Migration:
 Copy
+Ask AI
 # BEFORE (v0.0.x)
 from
 claude_agent_sdk
@@ -337,6 +267,7 @@ Migration:
 TypeScript
 Python
 Copy
+Ask AI
 // BEFORE (v0.0.x) - Used Claude Code's system prompt by default
 const
 result
@@ -393,6 +324,7 @@ Migration:
 TypeScript
 Python
 Copy
+Ask AI
 // BEFORE (v0.0.x) - Loaded all settings automatically
 const
 result
@@ -503,10 +435,7 @@ Learn about
 Custom Tools
 and
 MCP Integration
-Was this page helpful?
-Yes
-No
-Using Skills
-Overview
-Assistant
-Responses are generated using AI and may contain mistakes.
+Model Context Protocol (MCP)
+Troubleshooting
+⌘
+I

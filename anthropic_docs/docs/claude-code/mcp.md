@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/mcp
-Last fetched: 2025-11-05T13:14:53.445582
+Last fetched: 2025-11-06T12:05:52.327996
 
 ---
 
@@ -734,7 +734,7 @@ claude mcp remove github
 
 ### Plugin-provided MCP servers
 
-[Plugins](/en/docs/claude-code/plugins) can bundle MCP servers, automatically providing tools and integrations when the plugin is enabled. Plugin MCP servers work identically to user-configured servers.
+[Plugins](/en/plugins) can bundle MCP servers, automatically providing tools and integrations when the plugin is enabled. Plugin MCP servers work identically to user-configured servers.
 
 **How plugin MCP servers work**:
 
@@ -795,7 +795,7 @@ Plugin servers appear in the list with indicators showing they come from plugins
 * **Automatic setup**: No manual MCP configuration needed
 * **Team consistency**: Everyone gets the same tools when plugin is installed
 
-See the [plugin components reference](/en/docs/claude-code/plugins-reference#mcp-servers) for details on bundling MCP servers with plugins.
+See the [plugin components reference](/en/plugins-reference#mcp-servers) for details on bundling MCP servers with plugins.
 
 ## MCP installation scopes
 
@@ -1076,6 +1076,33 @@ You can use this in Claude Desktop by adding this configuration to claude\_deskt
 }
 ```
 
+<Warning>
+  **Configuring the executable path**: The `command` field must reference the Claude Code executable. If the `claude` command is not in your system's PATH, you'll need to specify the full path to the executable.
+
+  To find the full path:
+
+  ```bash  theme={null}
+  which claude
+  ```
+
+  Then use the full path in your configuration:
+
+  ```json  theme={null}
+  {
+    "mcpServers": {
+      "claude-code": {
+        "type": "stdio",
+        "command": "/full/path/to/claude",
+        "args": ["mcp", "serve"],
+        "env": {}
+      }
+    }
+  }
+  ```
+
+  Without the correct executable path, you'll encounter errors like `spawn claude ENOENT`.
+</Warning>
+
 <Tip>
   Tips:
 
@@ -1270,5 +1297,5 @@ In addition to providing enterprise-managed servers, administrators can control 
 * **Denylist takes absolute precedence**: If a server appears in both lists, it will be blocked
 
 <Note>
-  **Enterprise configuration precedence**: The enterprise MCP configuration has the highest precedence and cannot be overridden by user, local, or project configurations when `useEnterpriseMcpConfigOnly` is enabled.
+  **Enterprise configuration precedence**: The enterprise MCP configuration has the highest precedence and cannot be overridden by user, local, or project configurations.
 </Note>

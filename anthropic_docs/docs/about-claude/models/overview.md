@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/overview
-Last fetched: 2025-11-05T13:14:55.459209
+Last fetched: 2025-11-06T12:04:56.673869
 
 ---
 
