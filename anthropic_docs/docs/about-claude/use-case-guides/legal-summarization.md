@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides/legal-summarization
-Last fetched: 2025-11-06T12:04:44.813083
+Last fetched: 2025-11-06T13:15:22.221918
 
 ---
 

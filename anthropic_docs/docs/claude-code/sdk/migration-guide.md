@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/sdk/migration-guide
-Last fetched: 2025-11-06T12:04:45.395804
+Last fetched: 2025-11-06T13:14:15.210215
 
 ---
 

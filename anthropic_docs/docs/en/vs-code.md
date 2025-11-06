@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/vs-code
-Last fetched: 2025-11-06T12:05:06.362702
+Last fetched: 2025-11-06T13:15:31.075806
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

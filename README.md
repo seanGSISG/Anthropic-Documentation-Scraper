@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 187 |
 | **Total Size** | 2.51 MB |
-| **Last Updated** | 2025-11-06 12:06:24 UTC |
+| **Last Updated** | 2025-11-06 13:15:50 UTC |
 | **New This Week** | 186 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/en/sdk/migration-guide.md](https://docs.claude.com/docs/en/sdk/migration-guide)** - 2025-11-06
-- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-11-06
+- **[docs/agents-and-tools/tool-use/memory-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool)** - 2025-11-06
+- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-06
+- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-11-06
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-06
+- **[docs/en/plugins.md](https://docs.claude.com/docs/en/plugins)** - 2025-11-06
+- **[docs/about-claude/models/whats-new-claude-4-5.md](https://docs.claude.com/en/docs/about-claude/models/whats-new-claude-4-5)** - 2025-11-06
+- **[docs/build-with-claude/develop-tests.md](https://docs.claude.com/en/docs/build-with-claude/develop-tests)** - 2025-11-06
+- **[docs/agents-and-tools/tool-use/web-search-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool)** - 2025-11-06
 - **[docs/build-with-claude/prompt-engineering/use-xml-tags.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags)** - 2025-11-06
-- **[docs/build-with-claude/embeddings.md](https://docs.claude.com/en/docs/build-with-claude/embeddings)** - 2025-11-06
-- **[docs/build-with-claude/prompt-engineering/chain-of-thought.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought)** - 2025-11-06
-- **[docs/build-with-claude/batch-processing.md](https://docs.claude.com/en/docs/build-with-claude/batch-processing)** - 2025-11-06
-- **[docs/build-with-claude/context-windows.md](https://docs.claude.com/en/docs/build-with-claude/context-windows)** - 2025-11-06
-- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-11-06
-- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-06
-- **[docs/en/github-actions.md](https://docs.claude.com/docs/en/github-actions)** - 2025-11-06
+- **[docs/en/hooks.md](https://docs.claude.com/docs/en/hooks)** - 2025-11-06
 
 _...and 176 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-06 12:06:25 UTC
+**Last Generated**: 2025-11-06 13:15:51 UTC

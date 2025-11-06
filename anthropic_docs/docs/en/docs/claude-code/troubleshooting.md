@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/docs/claude-code/troubleshooting
-Last fetched: 2025-11-06T12:06:03.105587
+Last fetched: 2025-11-06T13:14:19.957119
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

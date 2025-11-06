@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/headless
-Last fetched: 2025-11-06T12:04:54.552800
+Last fetched: 2025-11-06T13:14:30.847033
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
