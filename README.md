@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 187 |
 | **Total Size** | 2.51 MB |
-| **Last Updated** | 2025-11-07 12:05:42 UTC |
+| **Last Updated** | 2025-11-07 13:13:26 UTC |
 | **New This Week** | 186 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/en/claude-code-on-the-web.md](https://docs.claude.com/docs/en/claude-code-on-the-web)** - 2025-11-07
-- **[docs/build-with-claude/pdf-support.md](https://docs.claude.com/en/docs/build-with-claude/pdf-support)** - 2025-11-07
-- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-11-07
-- **[docs/claude-code/overview.md](https://docs.claude.com/en/docs/claude-code/overview)** - 2025-11-07
-- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-07
-- **[docs/agents-and-tools/agent-skills/quickstart.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart)** - 2025-11-07
-- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-07
-- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-07
-- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-11-07
-- **[docs/prompt-generator.md](https://docs.claude.com/en/docs/prompt-generator)** - 2025-11-07
+- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-07
+- **[docs/build-with-claude/citations.md](https://docs.claude.com/en/docs/build-with-claude/citations)** - 2025-11-07
+- **[docs/build-with-claude/context-editing.md](https://docs.claude.com/en/docs/build-with-claude/context-editing)** - 2025-11-07
+- **[docs/build-with-claude/working-with-messages.md](https://docs.claude.com/en/docs/build-with-claude/working-with-messages)** - 2025-11-07
+- **[docs/agents-and-tools/tool-use/computer-use-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool)** - 2025-11-07
+- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-11-07
+- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-07
+- **[release-notes/system-prompts.md](https://docs.claude.com/en/release-notes/system-prompts)** - 2025-11-07
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak)** - 2025-11-07
+- **[docs/en/third-party-integrations.md](https://docs.claude.com/docs/en/third-party-integrations)** - 2025-11-07
 
 _...and 176 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-07 12:05:43 UTC
+**Last Generated**: 2025-11-07 13:13:26 UTC

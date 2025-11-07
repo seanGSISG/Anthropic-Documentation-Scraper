@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool
-Last fetched: 2025-11-07T12:04:30.582805
+Last fetched: 2025-11-07T13:12:49.949541
 
 ---
 

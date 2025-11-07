@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/model-deprecations
-Last fetched: 2025-11-07T12:04:37.002442
+Last fetched: 2025-11-07T13:12:29.367377
 
 ---
 
