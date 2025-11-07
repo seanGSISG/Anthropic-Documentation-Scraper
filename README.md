@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-187-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--06-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--07-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 187 |
 | **Total Size** | 2.51 MB |
-| **Last Updated** | 2025-11-06 13:15:50 UTC |
+| **Last Updated** | 2025-11-07 12:05:42 UTC |
 | **New This Week** | 186 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agents-and-tools/tool-use/memory-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool)** - 2025-11-06
-- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-06
-- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-11-06
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-06
-- **[docs/en/plugins.md](https://docs.claude.com/docs/en/plugins)** - 2025-11-06
-- **[docs/about-claude/models/whats-new-claude-4-5.md](https://docs.claude.com/en/docs/about-claude/models/whats-new-claude-4-5)** - 2025-11-06
-- **[docs/build-with-claude/develop-tests.md](https://docs.claude.com/en/docs/build-with-claude/develop-tests)** - 2025-11-06
-- **[docs/agents-and-tools/tool-use/web-search-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool)** - 2025-11-06
-- **[docs/build-with-claude/prompt-engineering/use-xml-tags.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags)** - 2025-11-06
-- **[docs/en/hooks.md](https://docs.claude.com/docs/en/hooks)** - 2025-11-06
+- **[docs/en/claude-code-on-the-web.md](https://docs.claude.com/docs/en/claude-code-on-the-web)** - 2025-11-07
+- **[docs/build-with-claude/pdf-support.md](https://docs.claude.com/en/docs/build-with-claude/pdf-support)** - 2025-11-07
+- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-11-07
+- **[docs/claude-code/overview.md](https://docs.claude.com/en/docs/claude-code/overview)** - 2025-11-07
+- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-07
+- **[docs/agents-and-tools/agent-skills/quickstart.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart)** - 2025-11-07
+- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-07
+- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-07
+- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-11-07
+- **[docs/prompt-generator.md](https://docs.claude.com/en/docs/prompt-generator)** - 2025-11-07
 
 _...and 176 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-06 13:15:51 UTC
+**Last Generated**: 2025-11-07 12:05:43 UTC

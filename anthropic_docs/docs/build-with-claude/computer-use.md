@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/computer-use
-Last fetched: 2025-11-06T13:14:25.267169
+Last fetched: 2025-11-07T12:04:53.392508
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -20,7 +20,6 @@ Computer use tool
 Home
 Developer Guide
 API Reference
-Claude Code
 Model Context Protocol (MCP)
 Resources
 Release Notes
@@ -36,7 +35,7 @@ Model deprecations
 Pricing
 Build with Claude
 Features overview
-Working with the Messages API
+Using the Messages API
 Context windows
 Prompting best practices
 Capabilities
@@ -70,9 +69,8 @@ Agent Skills
 Overview
 Quickstart
 Best practices
-Using Skills
+Using Skills with the API
 Agent SDK
-Migrate to Claude Agent SDK
 Overview
 TypeScript SDK
 Python SDK

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/text-generation
-Last fetched: 2025-11-06T13:14:17.199329
+Last fetched: 2025-11-07T12:04:42.171891
 
 ---
 
@@ -52,7 +52,7 @@ From crafting the perfect prompt to understanding API details, we've got you cov
 
 <CardGroup cols={3}>
   <Card title="Prompt Engineering Guide" icon="pen" href="/en/docs/build-with-claude/prompt-engineering/overview">
-    Master the art of prompt crafting to get the most out of Claude. Especially useful for fine-tuning with [legacy models](/en/docs/legacy-model-guide).
+    Master the art of prompt crafting to get the most out of Claude.
   </Card>
 
   <Card title="Prompt Library" icon="books" href="/en/resources/prompt-library">

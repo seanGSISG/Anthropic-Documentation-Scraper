@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/mcp
-Last fetched: 2025-11-06T13:15:12.508933
+Last fetched: 2025-11-07T12:05:00.439502
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -19,7 +19,6 @@ Page Not Found
 Home
 Developer Guide
 API Reference
-Claude Code
 Model Context Protocol (MCP)
 Resources
 Release Notes

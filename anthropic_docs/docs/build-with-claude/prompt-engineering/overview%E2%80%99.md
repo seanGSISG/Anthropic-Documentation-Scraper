@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99
-Last fetched: 2025-11-06T13:14:16.157778
+Last fetched: 2025-11-07T12:05:08.573577
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -19,7 +19,6 @@ Page Not Found
 Home
 Developer Guide
 API Reference
-Claude Code
 Model Context Protocol (MCP)
 Resources
 Release Notes
@@ -35,7 +34,7 @@ Model deprecations
 Pricing
 Build with Claude
 Features overview
-Working with the Messages API
+Using the Messages API
 Context windows
 Prompting best practices
 Capabilities
@@ -69,9 +68,8 @@ Agent Skills
 Overview
 Quickstart
 Best practices
-Using Skills
+Using Skills with the API
 Agent SDK
-Migrate to Claude Agent SDK
 Overview
 TypeScript SDK
 Python SDK

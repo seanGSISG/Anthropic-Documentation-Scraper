@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart
-Last fetched: 2025-11-06T13:14:48.699919
+Last fetched: 2025-11-07T12:05:35.450246
 
 ---
 
@@ -534,7 +534,7 @@ Now that you've used pre-built Agent Skills, you can:
     Learn best practices for writing effective Skills
   </Card>
 
-  <Card title="Use Skills in Claude Code" icon="terminal" href="/en/docs/claude-code/skills">
+  <Card title="Use Skills in Claude Code" icon="terminal" href="https://code.claude.com/docs/skills">
     Learn about Skills in Claude Code
   </Card>
 

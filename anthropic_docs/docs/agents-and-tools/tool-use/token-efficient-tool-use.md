@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/token-efficient-tool-use
-Last fetched: 2025-11-06T13:14:26.826710
+Last fetched: 2025-11-07T12:04:55.613158
 
 ---
 
@@ -14,7 +14,7 @@ Starting with Claude Sonnet 3.7, Claude is capable of calling tools in a token-e
 </Info>
 
 <Warning>
-  Token-efficient tool use does not currently work with [`disable_parallel_tool_use`](/en/docs/build-with-claude/tool-use#disabling-parallel-tool-use).
+  Token-efficient tool use does not currently work with [`disable_parallel_tool_use`](/en/docs/agents-and-tools/tool-use/implement-tool-use).
 </Warning>
 
 Here's an example of how to use token-efficient tools with the API in Claude Sonnet 3.7:

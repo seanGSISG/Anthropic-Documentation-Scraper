@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides/customer-support-chat
-Last fetched: 2025-11-06T13:14:22.640482
+Last fetched: 2025-11-07T12:04:35.907313
 
 ---
 
@@ -96,7 +96,7 @@ Here are the key tasks associated with the example insurance interaction above:
 
 ### Establish success criteria
 
-Work with your support team to [define clear success criteria](/en/docs/build-with-claude/define-success) and write [detailed evaluations](/en/docs/build-with-claude/develop-tests) with measurable benchmarks and goals.
+Work with your support team to [define clear success criteria](/en/docs/test-and-evaluate/define-success) and write [detailed evaluations](/en/docs/test-and-evaluate/develop-tests) with measurable benchmarks and goals.
 
 Here are criteria and benchmarks that can be used to evaluate how successfully Claude performs the defined tasks:
 

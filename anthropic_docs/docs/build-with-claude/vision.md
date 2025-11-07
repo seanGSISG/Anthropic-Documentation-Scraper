@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/vision
-Last fetched: 2025-11-06T13:15:49.638441
+Last fetched: 2025-11-07T12:05:29.124410
 
 ---
 
@@ -914,7 +914,7 @@ See [Messages API examples](/en/api/messages) for more example code and paramete
     | User      | Image 1: \[Image 3] Image 2: \[Image 4] Are these images similar to the first two? |
     | Assistant | \[Claude's response]                                                               |
 
-    When using the API, simply insert new images into the array of Messages in the `user` role as part of any standard [multiturn conversation](/en/api/messages-examples#multiple-conversational-turns) structure.
+    When using the API, simply insert new images into the array of Messages in the `user` role as part of any standard [multiturn conversation](/en/api/messages) structure.
   </Accordion>
 </AccordionGroup>
 

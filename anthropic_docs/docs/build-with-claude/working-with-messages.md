@@ -1,9 +1,9 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/working-with-messages
-Last fetched: 2025-11-06T13:13:58.394438
+Last fetched: 2025-11-07T12:05:03.459604
 
 ---
 
-# Working with the Messages API
+# Using the Messages API
 
 > Practical patterns and examples for using the Messages API effectively
 

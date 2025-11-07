@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides
-Last fetched: 2025-11-06T13:14:58.364101
+Last fetched: 2025-11-07T12:05:33.862391
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -20,7 +20,6 @@ Guides to common use cases
 Home
 Developer Guide
 API Reference
-Claude Code
 Model Context Protocol (MCP)
 Resources
 Release Notes

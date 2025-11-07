@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/mcp
-Last fetched: 2025-11-06T13:15:33.712310
+Last fetched: 2025-11-07T12:05:34.380522
 
 ---
 
@@ -22,7 +22,7 @@ Think of MCP like a USB-C port for AI applications. Just as USB-C provides a sta
     Use the MCP connector in the Messages API to connect to MCP servers.
   </Card>
 
-  <Card title="MCP in Claude Code" icon="head-side-gear" href="/en/docs/claude-code/mcp">
+  <Card title="MCP in Claude Code" icon="head-side-gear" href="https://code.claude.com/docs/mcp">
     Add your MCP servers to Claude Code, or use Claude Code as a server.
   </Card>
 

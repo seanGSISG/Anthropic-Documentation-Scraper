@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/overview
-Last fetched: 2025-11-06T13:15:03.767053
+Last fetched: 2025-11-07T12:04:12.820944
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -19,7 +19,6 @@ Page Not Found
 Home
 Developer Guide
 API Reference
-Claude Code
 Model Context Protocol (MCP)
 Resources
 Release Notes
@@ -35,7 +34,7 @@ Model deprecations
 Pricing
 Build with Claude
 Features overview
-Working with the Messages API
+Using the Messages API
 Context windows
 Prompting best practices
 Capabilities
@@ -69,9 +68,8 @@ Agent Skills
 Overview
 Quickstart
 Best practices
-Using Skills
+Using Skills with the API
 Agent SDK
-Migrate to Claude Agent SDK
 Overview
 TypeScript SDK
 Python SDK
