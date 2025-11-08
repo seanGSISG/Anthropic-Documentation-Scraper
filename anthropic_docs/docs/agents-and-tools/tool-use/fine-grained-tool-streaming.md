@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/fine-grained-tool-streaming
-Last fetched: 2025-11-07T13:12:44.776520
+Last fetched: 2025-11-08T12:05:11.624159
 
 ---
 
@@ -167,7 +167,7 @@ In this example, fine-grained tool streaming enables Claude to stream the lines 
 
 <Warning>
   Because fine-grained streaming sends parameters without buffering or JSON validation, there is no guarantee that the resulting stream will complete in a valid JSON string.
-  Particularly, if the [stop reason](/en/api/handling-stop-reasons) `max_tokens` is reached, the stream may end midway through a parameter and may be incomplete. You will generally have to write specific support to handle when `max_tokens` is reached.
+  Particularly, if the [stop reason](/en/docs/build-with-claude/handling-stop-reasons) `max_tokens` is reached, the stream may end midway through a parameter and may be incomplete. You will generally have to write specific support to handle when `max_tokens` is reached.
 </Warning>
 
 ## Handling invalid JSON in tool responses

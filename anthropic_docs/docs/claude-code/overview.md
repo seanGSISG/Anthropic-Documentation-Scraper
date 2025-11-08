@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code/overview
-Last fetched: 2025-11-07T13:13:04.629096
+Last fetched: 2025-11-08T12:05:02.744657
 
 ---
 
@@ -97,7 +97,7 @@ You'll be prompted to log in on first use. That's it! [Continue with Quickstart 
 ## Additional resources
 
 <CardGroup>
-  <Card title="Build with the Agent SDK" icon="code-branch" href="https://docs.claude.com/enhttps://docs.claude.com/en/api/agent-sdk/overview">
+  <Card title="Build with the Agent SDK" icon="code-branch" href="https://docs.claude.com/en/docs/agent-sdk/overview">
     Create custom AI agents with the Claude Agent SDK
   </Card>
 

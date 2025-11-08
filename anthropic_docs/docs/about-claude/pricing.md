@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/pricing
-Last fetched: 2025-11-07T13:13:02.965688
+Last fetched: 2025-11-08T12:04:44.342197
 
 ---
 
@@ -39,7 +39,7 @@ The following table shows pricing for all Claude models across different usage t
 
 ## Third-party platform pricing
 
-Claude models are available on [AWS Bedrock](/en/api/claude-on-amazon-bedrock) and [Google Vertex AI](/en/api/claude-on-vertex-ai). For official pricing, visit:
+Claude models are available on [AWS Bedrock](/en/docs/build-with-claude/claude-on-amazon-bedrock) and [Google Vertex AI](/en/docs/build-with-claude/claude-on-vertex-ai). For official pricing, visit:
 
 * [AWS Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
 * [Google Vertex AI pricing](https://cloud.google.com/vertex-ai/generative-ai/pricing)
@@ -58,8 +58,8 @@ Claude models are available on [AWS Bedrock](/en/api/claude-on-amazon-bedrock) a
 
   For implementation details and code examples:
 
-  * [AWS Bedrock global vs regional endpoints](/en/api/claude-on-amazon-bedrock#global-vs-regional-endpoints)
-  * [Google Vertex AI global vs regional endpoints](/en/api/claude-on-vertex-ai#global-vs-regional-endpoints)
+  * [AWS Bedrock global vs regional endpoints](/en/docs/build-with-claude/claude-on-amazon-bedrock#global-vs-regional-endpoints)
+  * [Google Vertex AI global vs regional endpoints](/en/docs/build-with-claude/claude-on-vertex-ai#global-vs-regional-endpoints)
 </Note>
 
 ## Feature-specific pricing

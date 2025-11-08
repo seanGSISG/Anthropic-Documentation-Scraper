@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/get-started
-Last fetched: 2025-11-07T13:13:23.016590
+Last fetched: 2025-11-08T12:04:13.362022
 
 ---
 
@@ -314,7 +314,7 @@ Now that you have made your first Claude API request, it's time to explore what 
     Learn common patterns for the Messages API.
   </Card>
 
-  <Card title="Features Overview" icon="brain-circuit" href="/en/docs/build-with-claude/overview">
+  <Card title="Features Overview" icon="brain-circuit" href="/en/api/overview">
     Explore Claude's advanced features and capabilities.
   </Card>
 

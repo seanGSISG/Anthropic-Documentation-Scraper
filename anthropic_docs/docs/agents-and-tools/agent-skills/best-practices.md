@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices
-Last fetched: 2025-11-07T13:12:52.797522
+Last fetched: 2025-11-08T12:04:39.142954
 
 ---
 
@@ -1168,11 +1168,11 @@ Before sharing a Skill, verify:
     Create and manage Skills in Claude Code
   </Card>
 
-  <Card title="Use Skills in the Agent SDK" icon="cube" href="/en/api/agent-sdk/skills">
+  <Card title="Use Skills in the Agent SDK" icon="cube" href="/en/docs/agent-sdk/skills">
     Use Skills programmatically in TypeScript and Python
   </Card>
 
-  <Card title="Use Skills with the API" icon="code" href="/en/api/skills-guide">
+  <Card title="Use Skills with the API" icon="code" href="/en/docs/build-with-claude/skills-guide">
     Upload and use Skills programmatically
   </Card>
 </CardGroup>

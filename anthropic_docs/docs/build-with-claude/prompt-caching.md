@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-caching
-Last fetched: 2025-11-07T13:13:23.538449
+Last fetched: 2025-11-08T12:05:20.137074
 
 ---
 
@@ -167,7 +167,7 @@ This is especially useful for:
 By default, the cache has a 5-minute lifetime. The cache is refreshed for no additional cost each time the cached content is used.
 
 <Note>
-  If you find that 5 minutes is too short, Anthropic also offers a 1-hour cache duration [at additional cost](#pricing). The 1-hour cache is currently in beta.
+  If you find that 5 minutes is too short, Anthropic also offers a 1-hour cache duration [at additional cost](#pricing).
 
   For more information, see [1-hour cache duration](#1-hour-cache-duration).
 </Note>

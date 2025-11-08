@@ -3,8 +3,8 @@
 > Automatically updated mirror of [docs.claude.com](https://docs.claude.com) documentation
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
-![Total Docs](https://img.shields.io/badge/total_docs-187-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--07-green)
+![Total Docs](https://img.shields.io/badge/total_docs-209-blue)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--08-green)
 
 ---
 
@@ -12,23 +12,23 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Documents** | 187 |
-| **Total Size** | 2.51 MB |
-| **Last Updated** | 2025-11-07 13:13:26 UTC |
-| **New This Week** | 186 |
+| **Total Documents** | 209 |
+| **Total Size** | 2.87 MB |
+| **Last Updated** | 2025-11-08 12:05:32 UTC |
+| **New This Week** | 208 |
 | **Updated This Week** | 0 |
 
 ---
 
 ## 📂 Documentation Categories
 
-- **Claude Code**: 60 documents (32.1%)
-- **Other**: 37 documents (19.8%)
-- **Build with Claude**: 37 documents (19.8%)
-- **Agents & Tools**: 23 documents (12.3%)
-- **About Claude**: 16 documents (8.6%)
-- **Test & Evaluate**: 11 documents (5.9%)
-- **Release Notes**: 3 documents (1.6%)
+- **Claude Code**: 61 documents (29.2%)
+- **Other**: 53 documents (25.4%)
+- **Build with Claude**: 42 documents (20.1%)
+- **Agents & Tools**: 23 documents (11.0%)
+- **About Claude**: 16 documents (7.7%)
+- **Test & Evaluate**: 11 documents (5.3%)
+- **Release Notes**: 3 documents (1.4%)
 
 ---
 
@@ -36,18 +36,18 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-07
-- **[docs/build-with-claude/citations.md](https://docs.claude.com/en/docs/build-with-claude/citations)** - 2025-11-07
-- **[docs/build-with-claude/context-editing.md](https://docs.claude.com/en/docs/build-with-claude/context-editing)** - 2025-11-07
-- **[docs/build-with-claude/working-with-messages.md](https://docs.claude.com/en/docs/build-with-claude/working-with-messages)** - 2025-11-07
-- **[docs/agents-and-tools/tool-use/computer-use-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/computer-use-tool)** - 2025-11-07
-- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-11-07
-- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-07
-- **[release-notes/system-prompts.md](https://docs.claude.com/en/release-notes/system-prompts)** - 2025-11-07
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak)** - 2025-11-07
-- **[docs/en/third-party-integrations.md](https://docs.claude.com/docs/en/third-party-integrations)** - 2025-11-07
+- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-08
+- **[docs/build-with-claude/files.md](https://docs.claude.com/en/docs/build-with-claude/files)** - 2025-11-08
+- **[docs/agents-and-tools/tool-use/text-editor-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/text-editor-tool)** - 2025-11-08
+- **[docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character)** - 2025-11-08
+- **[docs/agents-and-tools/tool-use/code-execution-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/code-execution-tool)** - 2025-11-08
+- **[docs/en/troubleshooting.md](https://docs.claude.com/docs/en/troubleshooting)** - 2025-11-08
+- **[docs/en/legal-and-compliance.md](https://docs.claude.com/docs/en/legal-and-compliance)** - 2025-11-08
+- **[docs/agent-sdk/custom-tools.md](https://docs.claude.com/en/docs/agent-sdk/custom-tools)** - 2025-11-08
+- **[docs/agent-sdk/sessions.md](https://docs.claude.com/en/docs/agent-sdk/sessions)** - 2025-11-08
+- **[docs/about-claude/models/choosing-a-model.md](https://docs.claude.com/en/docs/about-claude/models/choosing-a-model)** - 2025-11-08
 
-_...and 176 more new documents_
+_...and 198 more new documents_
 
 
 ---
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-07 13:13:26 UTC
+**Last Generated**: 2025-11-08 12:05:33 UTC
