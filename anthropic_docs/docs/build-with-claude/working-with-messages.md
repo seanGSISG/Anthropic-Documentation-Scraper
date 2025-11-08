@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/working-with-messages
-Last fetched: 2025-11-08T12:05:15.329078
+Last fetched: 2025-11-08T13:10:25.403362
 
 ---
 

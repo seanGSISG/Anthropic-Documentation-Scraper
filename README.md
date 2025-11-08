@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-08 12:05:32 UTC |
+| **Last Updated** | 2025-11-08 13:10:43 UTC |
 | **New This Week** | 208 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-08
-- **[docs/build-with-claude/files.md](https://docs.claude.com/en/docs/build-with-claude/files)** - 2025-11-08
-- **[docs/agents-and-tools/tool-use/text-editor-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/text-editor-tool)** - 2025-11-08
-- **[docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/keep-claude-in-character)** - 2025-11-08
-- **[docs/agents-and-tools/tool-use/code-execution-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/code-execution-tool)** - 2025-11-08
-- **[docs/en/troubleshooting.md](https://docs.claude.com/docs/en/troubleshooting)** - 2025-11-08
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-08
 - **[docs/en/legal-and-compliance.md](https://docs.claude.com/docs/en/legal-and-compliance)** - 2025-11-08
-- **[docs/agent-sdk/custom-tools.md](https://docs.claude.com/en/docs/agent-sdk/custom-tools)** - 2025-11-08
-- **[docs/agent-sdk/sessions.md](https://docs.claude.com/en/docs/agent-sdk/sessions)** - 2025-11-08
-- **[docs/about-claude/models/choosing-a-model.md](https://docs.claude.com/en/docs/about-claude/models/choosing-a-model)** - 2025-11-08
+- **[docs/agent-sdk/streaming-vs-single-mode.md](https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode)** - 2025-11-08
+- **[docs/agents-and-tools/tool-use/web-search-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool)** - 2025-11-08
+- **[docs/agents-and-tools/tool-use/token-efficient-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/token-efficient-tool-use)** - 2025-11-08
+- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-08
+- **[docs/build-with-claude/skills-guide.md](https://docs.claude.com/en/docs/build-with-claude/skills-guide)** - 2025-11-08
+- **[release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx.md](https://docs.claude.com/en/release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx)** - 2025-11-08
+- **[docs/build-with-claude/claude-on-amazon-bedrock.md](https://docs.claude.com/en/docs/build-with-claude/claude-on-amazon-bedrock)** - 2025-11-08
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-08
 
 _...and 198 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-08 12:05:33 UTC
+**Last Generated**: 2025-11-08 13:10:43 UTC

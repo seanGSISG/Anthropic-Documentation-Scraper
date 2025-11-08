@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/sessions
-Last fetched: 2025-11-08T12:05:28.048240
+Last fetched: 2025-11-08T13:09:33.706501
 
 ---
 
