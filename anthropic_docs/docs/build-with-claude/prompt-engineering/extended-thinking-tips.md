@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips
-Last fetched: 2025-11-08T13:09:30.388395
+Last fetched: 2025-11-09T12:04:45.772124
 
 ---
 
