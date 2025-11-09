@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/skills-guide
-Last fetched: 2025-11-09T12:04:58.566942
+Last fetched: 2025-11-09T13:09:03.194968
 
 ---
 

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices
-Last fetched: 2025-11-09T12:04:15.706938
+Last fetched: 2025-11-09T13:09:24.285855
 
 ---
 
