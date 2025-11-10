@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/tool-use
-Last fetched: 2025-11-09T13:10:13.198931
+Last fetched: 2025-11-10T12:05:02.707833
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

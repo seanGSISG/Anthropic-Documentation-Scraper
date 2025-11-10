@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts
-Last fetched: 2025-11-09T13:09:15.577711
+Last fetched: 2025-11-10T12:05:28.894924
 
 ---
 

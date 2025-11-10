@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-209-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--09-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--10-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-09 13:10:21 UTC |
+| **Last Updated** | 2025-11-10 12:05:38 UTC |
 | **New This Week** | 208 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-09
-- **[docs/build-with-claude/prompt-engineering/prefill-claudes-response.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response)** - 2025-11-09
-- **[docs/agent-sdk/plugins.md](https://docs.claude.com/en/docs/agent-sdk/plugins)** - 2025-11-09
-- **[release-notes/overview.md](https://docs.claude.com/en/release-notes/overview)** - 2025-11-09
-- **[docs/build-with-claude/pdf-support.md](https://docs.claude.com/en/docs/build-with-claude/pdf-support)** - 2025-11-09
-- **[docs/build-with-claude/extended-thinking.md](https://docs.claude.com/en/docs/build-with-claude/extended-thinking)** - 2025-11-09
-- **[docs/agent-sdk/slash-commands.md](https://docs.claude.com/en/docs/agent-sdk/slash-commands)** - 2025-11-09
-- **[docs/agents-and-tools/mcp-connector.md](https://docs.claude.com/en/docs/agents-and-tools/mcp-connector)** - 2025-11-09
-- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-09
-- **[docs/en/legal-and-compliance.md](https://docs.claude.com/docs/en/legal-and-compliance)** - 2025-11-09
+- **[docs/en/mcp.md](https://docs.claude.com/docs/en/mcp)** - 2025-11-10
+- **[docs/en/quickstart.md](https://docs.claude.com/docs/en/quickstart)** - 2025-11-10
+- **[docs/agents-and-tools/mcp-connector.md](https://docs.claude.com/en/docs/agents-and-tools/mcp-connector)** - 2025-11-10
+- **[docs/build-with-claude/prompt-engineering/prompt-generator.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-generator)** - 2025-11-10
+- **[docs/build-with-claude/skills-guide.md](https://docs.claude.com/en/docs/build-with-claude/skills-guide)** - 2025-11-10
+- **[docs/build-with-claude/prompt-engineering/system-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts)** - 2025-11-10
+- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-10
+- **[docs/build-with-claude/extended-thinking.md](https://docs.claude.com/en/docs/build-with-claude/extended-thinking)** - 2025-11-10
+- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-10
+- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-10
 
 _...and 198 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-09 13:10:22 UTC
+**Last Generated**: 2025-11-10 12:05:38 UTC
