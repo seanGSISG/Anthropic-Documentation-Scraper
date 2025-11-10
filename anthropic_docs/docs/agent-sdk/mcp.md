@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/mcp
-Last fetched: 2025-11-10T12:05:13.211735
+Last fetched: 2025-11-10T13:14:15.993219
 
 ---
 

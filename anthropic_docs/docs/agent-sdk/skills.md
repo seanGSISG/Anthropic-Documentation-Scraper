@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/skills
-Last fetched: 2025-11-10T12:04:44.572971
+Last fetched: 2025-11-10T13:14:24.587490
 
 ---
 

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/plugins
-Last fetched: 2025-11-10T12:04:25.739834
+Last fetched: 2025-11-10T13:14:06.157348
 
 ---
 

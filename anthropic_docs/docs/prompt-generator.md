@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/prompt-generator
-Last fetched: 2025-11-10T12:04:22.635612
+Last fetched: 2025-11-10T13:14:12.288574
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

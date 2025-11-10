@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/claude-code-analytics-api
-Last fetched: 2025-11-10T12:04:51.336621
+Last fetched: 2025-11-10T13:13:45.393647
 
 ---
 

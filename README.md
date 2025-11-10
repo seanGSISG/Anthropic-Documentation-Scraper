@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-10 12:05:38 UTC |
+| **Last Updated** | 2025-11-10 13:15:03 UTC |
 | **New This Week** | 208 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/en/mcp.md](https://docs.claude.com/docs/en/mcp)** - 2025-11-10
-- **[docs/en/quickstart.md](https://docs.claude.com/docs/en/quickstart)** - 2025-11-10
-- **[docs/agents-and-tools/mcp-connector.md](https://docs.claude.com/en/docs/agents-and-tools/mcp-connector)** - 2025-11-10
-- **[docs/build-with-claude/prompt-engineering/prompt-generator.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-generator)** - 2025-11-10
-- **[docs/build-with-claude/skills-guide.md](https://docs.claude.com/en/docs/build-with-claude/skills-guide)** - 2025-11-10
-- **[docs/build-with-claude/prompt-engineering/system-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/system-prompts)** - 2025-11-10
-- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-10
 - **[docs/build-with-claude/extended-thinking.md](https://docs.claude.com/en/docs/build-with-claude/extended-thinking)** - 2025-11-10
-- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-10
-- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-10
+- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-11-10
+- **[docs/agents-and-tools/agent-skills/overview.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)** - 2025-11-10
+- **[docs/en/legal-and-compliance.md](https://docs.claude.com/docs/en/legal-and-compliance)** - 2025-11-10
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-10
+- **[docs/en/security.md](https://docs.claude.com/docs/en/security)** - 2025-11-10
+- **[docs/agent-sdk/hosting.md](https://docs.claude.com/en/docs/agent-sdk/hosting)** - 2025-11-10
+- **[docs/en/setup.md](https://docs.claude.com/docs/en/setup)** - 2025-11-10
+- **[docs/agent-sdk/python.md](https://docs.claude.com/en/docs/agent-sdk/python)** - 2025-11-10
+- **[docs/build-with-claude/prompt-engineering/be-clear-and-direct.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct)** - 2025-11-10
 
 _...and 198 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-10 12:05:38 UTC
+**Last Generated**: 2025-11-10 13:15:03 UTC

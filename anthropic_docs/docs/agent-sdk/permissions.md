@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/permissions
-Last fetched: 2025-11-10T12:04:58.600227
+Last fetched: 2025-11-10T13:13:49.074614
 
 ---
 

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/python
-Last fetched: 2025-11-10T12:05:13.730554
+Last fetched: 2025-11-10T13:14:57.884847
 
 ---
 
