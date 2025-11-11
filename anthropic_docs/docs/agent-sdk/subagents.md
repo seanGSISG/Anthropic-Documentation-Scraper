@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/subagents
-Last fetched: 2025-11-10T13:14:39.195765
+Last fetched: 2025-11-11T12:05:10.892952
 
 ---
 
@@ -139,7 +139,7 @@ Programmatically defined agents (via `agents` parameter) take precedence over fi
 
 ## Example Subagents
 
-For comprehensive examples of subagents including code reviewers, test runners, debuggers, and security auditors, see the [main Subagents guide](https://code.claude.com/docs/sub-agents#example-subagents). The guide includes detailed configurations and best practices for creating effective subagents.
+For comprehensive examples of subagents including code reviewers, test runners, debuggers, and security auditors, see the [main Subagents guide](https://code.claude.com/docs/en/sub-agents#example-subagents). The guide includes detailed configurations and best practices for creating effective subagents.
 
 ## SDK Integration Patterns
 
@@ -255,7 +255,7 @@ tools: ['Read', 'Edit', 'Write', 'Grep', 'Glob']
 
 ## Related Documentation
 
-* [Main Subagents Guide](https://code.claude.com/docs/sub-agents) - Comprehensive subagent documentation
+* [Main Subagents Guide](https://code.claude.com/docs/en/sub-agents) - Comprehensive subagent documentation
 * [SDK Overview](/en/docs/agent-sdk/overview) - Overview of Claude Agent SDK
-* [Settings](https://code.claude.com/docs/settings) - Configuration file reference
-* [Slash Commands](https://code.claude.com/docs/slash-commands) - Custom command creation
+* [Settings](https://code.claude.com/docs/en/settings) - Configuration file reference
+* [Slash Commands](https://code.claude.com/docs/en/slash-commands) - Custom command creation

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/permissions
-Last fetched: 2025-11-10T13:13:49.074614
+Last fetched: 2025-11-11T12:05:07.048306
 
 ---
 
@@ -30,16 +30,16 @@ Last fetched: 2025-11-10T13:13:49.074614
 
 The Claude Agent SDK provides powerful permission controls that allow you to manage how Claude uses tools in your application.
 
-This guide covers how to implement permission systems using the `canUseTool` callback, hooks, and settings.json permission rules. For complete API documentation, see the [TypeScript SDK reference](https://code.claude.com/docs/typescript).
+This guide covers how to implement permission systems using the `canUseTool` callback, hooks, and settings.json permission rules. For complete API documentation, see the [TypeScript SDK reference](/en/docs/agent-sdk/typescript).
 
 ## Overview
 
 The Claude Agent SDK provides four complementary ways to control tool usage:
 
 1. **[Permission Modes](#permission-modes)** - Global permission behavior settings that affect all tools
-2. **[canUseTool callback](https://code.claude.com/docs/typescript#canusetool)** - Runtime permission handler for cases not covered by other rules
-3. **[Hooks](https://code.claude.com/docs/typescript#hook-types)** - Fine-grained control over every tool execution with custom logic
-4. **[Permission rules (settings.json)](https://code.claude.com/docs/settings#permission-settings)** - Declarative allow/deny rules with integrated bash command parsing
+2. **[canUseTool callback](/en/docs/agent-sdk/typescript#canusetool)** - Runtime permission handler for cases not covered by other rules
+3. **[Hooks](/en/docs/agent-sdk/typescript#hook-types)** - Fine-grained control over every tool execution with custom logic
+4. **[Permission rules (settings.json)](https://code.claude.com/docs/en/settings#permission-settings)** - Declarative allow/deny rules with integrated bash command parsing
 
 Use cases for each approach:
 
@@ -402,5 +402,5 @@ Here's a complete example showing how to implement interactive tool approval:
 
 ## Related Resources
 
-* [Hooks Guide](https://code.claude.com/docs/hooks-guide) - Learn how to implement hooks for fine-grained control over tool execution
-* [Settings: Permission Rules](https://code.claude.com/docs/settings#permission-settings) - Configure declarative allow/deny rules with bash command parsing
+* [Hooks Guide](https://code.claude.com/docs/en/hooks-guide) - Learn how to implement hooks for fine-grained control over tool execution
+* [Settings: Permission Rules](https://code.claude.com/docs/en/settings#permission-settings) - Configure declarative allow/deny rules with bash command parsing

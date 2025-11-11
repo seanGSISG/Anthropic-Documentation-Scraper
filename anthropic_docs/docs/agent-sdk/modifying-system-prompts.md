@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts
-Last fetched: 2025-11-10T13:14:27.838375
+Last fetched: 2025-11-11T12:04:25.703628
 
 ---
 
@@ -478,6 +478,6 @@ You can combine these methods for maximum flexibility:
 
 ## See also
 
-* [Output styles](https://code.claude.com/docs/output-styles) - Complete output styles documentation
+* [Output styles](https://code.claude.com/docs/en/output-styles) - Complete output styles documentation
 * [TypeScript SDK guide](/en/docs/agent-sdk/typescript) - Complete SDK usage guide
-* [Configuration guide](https://code.claude.com/docs/settings) - General configuration options
+* [Configuration guide](https://code.claude.com/docs/en/settings) - General configuration options

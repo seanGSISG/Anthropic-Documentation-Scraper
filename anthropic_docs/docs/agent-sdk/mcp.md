@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/mcp
-Last fetched: 2025-11-10T13:14:15.993219
+Last fetched: 2025-11-11T12:04:36.825030
 
 ---
 
@@ -363,4 +363,4 @@ Handle MCP connection failures gracefully:
 * [TypeScript SDK Reference](/en/docs/agent-sdk/typescript)
 * [Python SDK Reference](/en/docs/agent-sdk/python)
 * [SDK Permissions](/en/docs/agent-sdk/permissions)
-* [Common Workflows](https://code.claude.com/docs/common-workflows)
+* [Common Workflows](https://code.claude.com/docs/en/common-workflows)

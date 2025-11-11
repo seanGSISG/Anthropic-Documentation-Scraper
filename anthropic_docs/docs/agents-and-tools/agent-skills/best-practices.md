@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices
-Last fetched: 2025-11-10T13:13:48.549200
+Last fetched: 2025-11-11T12:05:46.941456
 
 ---
 
@@ -1164,7 +1164,7 @@ Before sharing a Skill, verify:
     Create your first Skill
   </Card>
 
-  <Card title="Use Skills in Claude Code" icon="terminal" href="https://code.claude.com/docs/skills">
+  <Card title="Use Skills in Claude Code" icon="terminal" href="https://code.claude.com/docs/en/skills">
     Create and manage Skills in Claude Code
   </Card>
 

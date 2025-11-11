@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/custom-tools
-Last fetched: 2025-11-10T13:14:15.470306
+Last fetched: 2025-11-11T12:05:26.938017
 
 ---
 

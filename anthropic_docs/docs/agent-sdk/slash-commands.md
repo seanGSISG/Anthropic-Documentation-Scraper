@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/slash-commands
-Last fetched: 2025-11-10T13:14:50.777781
+Last fetched: 2025-11-11T12:04:39.357657
 
 ---
 
@@ -478,8 +478,8 @@ Use these commands through the SDK:
 
 ## See Also
 
-* [Slash Commands](https://code.claude.com/docs/slash-commands) - Complete slash command documentation
+* [Slash Commands](https://code.claude.com/docs/en/slash-commands) - Complete slash command documentation
 * [Subagents in the SDK](/en/docs/agent-sdk/subagents) - Similar filesystem-based configuration for subagents
-* [TypeScript SDK reference](https://code.claude.com/docs/typescript) - Complete API documentation
+* [TypeScript SDK reference](/en/docs/agent-sdk/typescript) - Complete API documentation
 * [SDK overview](/en/docs/agent-sdk/overview) - General SDK concepts
-* [CLI reference](https://code.claude.com/docs/cli-reference) - Command-line interface
+* [CLI reference](https://code.claude.com/docs/en/cli-reference) - Command-line interface

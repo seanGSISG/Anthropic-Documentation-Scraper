@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview
-Last fetched: 2025-11-10T13:15:02.129269
+Last fetched: 2025-11-11T12:05:27.470410
 
 ---
 
@@ -172,13 +172,13 @@ To learn more, see [Use Skills with the Claude API](/en/docs/build-with-claude/s
 
 ### Claude Code
 
-[Claude Code](https://code.claude.com/docs/overview) supports only Custom Skills.
+[Claude Code](https://code.claude.com/docs/en/overview) supports only Custom Skills.
 
 **Custom Skills**: Create Skills as directories with SKILL.md files. Claude discovers and uses them automatically.
 
 Custom Skills in Claude Code are filesystem-based and don't require API uploads.
 
-To learn more, see [Use Skills in Claude Code](https://code.claude.com/docs/skills).
+To learn more, see [Use Skills in Claude Code](https://code.claude.com/docs/en/skills).
 
 ### Claude Agent SDK
 
@@ -327,7 +327,7 @@ Plan your Skills to work within these constraints.
     Use Skills with the Claude API
   </Card>
 
-  <Card title="Use Skills in Claude Code" icon="terminal" href="https://code.claude.com/docs/skills">
+  <Card title="Use Skills in Claude Code" icon="terminal" href="https://code.claude.com/docs/en/skills">
     Create and manage custom Skills in Claude Code
   </Card>
 

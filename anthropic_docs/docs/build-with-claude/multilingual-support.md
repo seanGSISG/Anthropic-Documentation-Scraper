@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/multilingual-support
-Last fetched: 2025-11-10T13:13:59.087664
+Last fetched: 2025-11-11T12:05:18.321530
 
 ---
 

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/typescript
-Last fetched: 2025-11-10T13:14:01.176302
+Last fetched: 2025-11-11T12:05:29.549659
 
 ---
 
@@ -1798,5 +1798,5 @@ class AbortError extends Error {}
 
 * [SDK overview](/en/docs/agent-sdk/overview) - General SDK concepts
 * [Python SDK reference](/en/docs/agent-sdk/python) - Python SDK documentation
-* [CLI reference](https://code.claude.com/docs/cli-reference) - Command-line interface
-* [Common workflows](https://code.claude.com/docs/common-workflows) - Step-by-step guides
+* [CLI reference](https://code.claude.com/docs/en/cli-reference) - Command-line interface
+* [Common workflows](https://code.claude.com/docs/en/common-workflows) - Step-by-step guides
