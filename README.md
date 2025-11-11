@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-11 12:05:49 UTC |
+| **Last Updated** | 2025-11-11 13:14:59 UTC |
 | **New This Week** | 208 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agents-and-tools/tool-use/implement-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/implement-tool-use)** - 2025-11-11
-- **[docs/build-with-claude/prompt-engineering/long-context-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)** - 2025-11-11
-- **[docs/about-claude/overview.md](https://docs.claude.com/en/docs/about-claude/overview)** - 2025-11-11
-- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-11
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-11
-- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-11
-- **[docs/en/legal-and-compliance.md](https://docs.claude.com/docs/en/legal-and-compliance)** - 2025-11-11
-- **[docs/build-with-claude/citations.md](https://docs.claude.com/en/docs/build-with-claude/citations)** - 2025-11-11
-- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-11-11
-- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-11
+- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-11-11
+- **[docs/test-and-evaluate/define-success.md](https://docs.claude.com/en/docs/test-and-evaluate/define-success)** - 2025-11-11
+- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-11
+- **[docs/en/troubleshooting.md](https://docs.claude.com/docs/en/troubleshooting)** - 2025-11-11
+- **[docs/agent-sdk/streaming-vs-single-mode.md](https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode)** - 2025-11-11
+- **[docs/build-with-claude/computer-use.md](https://docs.claude.com/en/docs/build-with-claude/computer-use)** - 2025-11-11
+- **[docs/build-with-claude/extended-thinking.md](https://docs.claude.com/en/docs/build-with-claude/extended-thinking)** - 2025-11-11
+- **[release-notes/overview.md](https://docs.claude.com/en/release-notes/overview)** - 2025-11-11
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak)** - 2025-11-11
+- **[docs/agents-and-tools/remote-mcp-servers.md](https://docs.claude.com/en/docs/agents-and-tools/remote-mcp-servers)** - 2025-11-11
 
 _...and 198 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-11 12:05:49 UTC
+**Last Generated**: 2025-11-11 13:14:59 UTC
