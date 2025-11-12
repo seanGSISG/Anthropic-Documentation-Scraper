@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/system-prompts
-Last fetched: 2025-11-12T12:05:29.494024
+Last fetched: 2025-11-12T13:14:58.155221
 
 ---
 

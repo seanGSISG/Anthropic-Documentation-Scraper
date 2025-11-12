@@ -14,8 +14,8 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-12 12:05:46 UTC |
-| **New This Week** | 208 |
+| **Last Updated** | 2025-11-12 13:15:57 UTC |
+| **New This Week** | 163 |
 | **Updated This Week** | 0 |
 
 ---
@@ -36,18 +36,18 @@
 
 ### New Documents
 
-- **[docs/agent-sdk/streaming-vs-single-mode.md](https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode)** - 2025-11-12
-- **[docs/en/data-usage.md](https://docs.claude.com/docs/en/data-usage)** - 2025-11-12
-- **[docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals)** - 2025-11-12
-- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-11-12
-- **[docs/en/vs-code.md](https://docs.claude.com/docs/en/vs-code)** - 2025-11-12
-- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-11-12
+- **[docs/agent-sdk/custom-tools.md](https://docs.claude.com/en/docs/agent-sdk/custom-tools)** - 2025-11-12
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-12
+- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-12
+- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-12
 - **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-12
-- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-12
-- **[docs/agents-and-tools/agent-skills/overview.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)** - 2025-11-12
-- **[docs/en/common-workflows.md](https://docs.claude.com/docs/en/common-workflows)** - 2025-11-12
+- **[docs/build-with-claude/skills-guide.md](https://docs.claude.com/en/docs/build-with-claude/skills-guide)** - 2025-11-12
+- **[docs/build-with-claude/tool-use.md](https://docs.claude.com/en/docs/build-with-claude/tool-use)** - 2025-11-12
+- **[docs/agents-and-tools/agent-skills/quickstart.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart)** - 2025-11-12
+- **[docs/about-claude/models/overview.md](https://docs.claude.com/en/docs/about-claude/models/overview)** - 2025-11-12
+- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-12
 
-_...and 198 more new documents_
+_...and 153 more new documents_
 
 
 ---
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-12 12:05:46 UTC
+**Last Generated**: 2025-11-12 13:15:58 UTC
