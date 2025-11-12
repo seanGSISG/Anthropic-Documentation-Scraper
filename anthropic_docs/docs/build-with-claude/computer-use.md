@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/computer-use
-Last fetched: 2025-11-11T13:14:55.250321
+Last fetched: 2025-11-12T12:04:23.413261
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

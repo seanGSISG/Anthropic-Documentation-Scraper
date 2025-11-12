@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview
-Last fetched: 2025-11-11T13:13:58.742019
+Last fetched: 2025-11-12T12:05:40.410763
 
 ---
 
@@ -18,7 +18,7 @@ Skills are reusable, filesystem-based resources that provide Claude with domain-
 * **Compose capabilities**: Combine Skills to build complex workflows
 
 <Note>
-  For a deep dive into the architecture and real-world applications of Agent Skills, read our engineering blog: [Equipping agents for the real world with Agent Skills](https://https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills-skills).
+  For a deep dive into the architecture and real-world applications of Agent Skills, read our engineering blog: [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills).
 </Note>
 
 ## Using Skills

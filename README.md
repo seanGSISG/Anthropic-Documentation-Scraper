@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-209-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--11-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--12-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-11 13:14:59 UTC |
+| **Last Updated** | 2025-11-12 12:05:46 UTC |
 | **New This Week** | 208 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/about-claude/use-case-guides/ticket-routing.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/ticket-routing)** - 2025-11-11
-- **[docs/test-and-evaluate/define-success.md](https://docs.claude.com/en/docs/test-and-evaluate/define-success)** - 2025-11-11
-- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-11
-- **[docs/en/troubleshooting.md](https://docs.claude.com/docs/en/troubleshooting)** - 2025-11-11
-- **[docs/agent-sdk/streaming-vs-single-mode.md](https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode)** - 2025-11-11
-- **[docs/build-with-claude/computer-use.md](https://docs.claude.com/en/docs/build-with-claude/computer-use)** - 2025-11-11
-- **[docs/build-with-claude/extended-thinking.md](https://docs.claude.com/en/docs/build-with-claude/extended-thinking)** - 2025-11-11
-- **[release-notes/overview.md](https://docs.claude.com/en/release-notes/overview)** - 2025-11-11
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-prompt-leak)** - 2025-11-11
-- **[docs/agents-and-tools/remote-mcp-servers.md](https://docs.claude.com/en/docs/agents-and-tools/remote-mcp-servers)** - 2025-11-11
+- **[docs/agent-sdk/streaming-vs-single-mode.md](https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode)** - 2025-11-12
+- **[docs/en/data-usage.md](https://docs.claude.com/docs/en/data-usage)** - 2025-11-12
+- **[docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals)** - 2025-11-12
+- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-11-12
+- **[docs/en/vs-code.md](https://docs.claude.com/docs/en/vs-code)** - 2025-11-12
+- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-11-12
+- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-12
+- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-12
+- **[docs/agents-and-tools/agent-skills/overview.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)** - 2025-11-12
+- **[docs/en/common-workflows.md](https://docs.claude.com/docs/en/common-workflows)** - 2025-11-12
 
 _...and 198 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-11 13:14:59 UTC
+**Last Generated**: 2025-11-12 12:05:46 UTC
