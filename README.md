@@ -14,8 +14,8 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-13 12:05:43 UTC |
-| **New This Week** | 163 |
+| **Last Updated** | 2025-11-13 13:16:03 UTC |
+| **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
 ---
@@ -36,18 +36,18 @@
 
 ### New Documents
 
-- **[docs/agent-sdk/permissions.md](https://docs.claude.com/en/docs/agent-sdk/permissions)** - 2025-11-13
-- **[docs/build-with-claude/administration-api.md](https://docs.claude.com/en/docs/build-with-claude/administration-api)** - 2025-11-13
-- **[docs/en/settings.md](https://docs.claude.com/docs/en/settings)** - 2025-11-13
-- **[docs/agent-sdk/custom-tools.md](https://docs.claude.com/en/docs/agent-sdk/custom-tools)** - 2025-11-13
-- **[docs/agent-sdk/typescript.md](https://docs.claude.com/en/docs/agent-sdk/typescript)** - 2025-11-13
-- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-13
+- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-11-13
+- **[docs/%E2%80%99.md](https://docs.claude.com/en/docs/%E2%80%99)** - 2025-11-13
+- **[docs/about-claude/models/whats-new-claude-4-5.md](https://docs.claude.com/en/docs/about-claude/models/whats-new-claude-4-5)** - 2025-11-13
+- **[docs/build-with-claude/claude-code-analytics-api.md](https://docs.claude.com/en/docs/build-with-claude/claude-code-analytics-api)** - 2025-11-13
+- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-11-13
+- **[docs/agents-and-tools/mcp-connector.md](https://docs.claude.com/en/docs/agents-and-tools/mcp-connector)** - 2025-11-13
+- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-11-13
+- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-11-13
 - **[docs/en/claude-code-on-the-web.md](https://docs.claude.com/docs/en/claude-code-on-the-web)** - 2025-11-13
-- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-11-13
-- **[release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx.md](https://docs.claude.com/en/release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx)** - 2025-11-13
-- **[docs/build-with-claude/embeddings.md](https://docs.claude.com/en/docs/build-with-claude/embeddings)** - 2025-11-13
+- **[docs/agent-sdk/typescript.md](https://docs.claude.com/en/docs/agent-sdk/typescript)** - 2025-11-13
 
-_...and 153 more new documents_
+_...and 118 more new documents_
 
 
 ---
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-13 12:05:44 UTC
+**Last Generated**: 2025-11-13 13:16:03 UTC
