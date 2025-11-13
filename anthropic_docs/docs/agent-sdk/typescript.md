@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/typescript
-Last fetched: 2025-11-12T13:14:44.534935
+Last fetched: 2025-11-13T12:05:41.192283
 
 ---
 

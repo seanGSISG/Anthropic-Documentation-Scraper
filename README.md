@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-209-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--12-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--13-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-12 13:15:57 UTC |
+| **Last Updated** | 2025-11-13 12:05:43 UTC |
 | **New This Week** | 163 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agent-sdk/custom-tools.md](https://docs.claude.com/en/docs/agent-sdk/custom-tools)** - 2025-11-12
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-12
-- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-12
-- **[docs/mcp.md](https://docs.claude.com/en/docs/mcp)** - 2025-11-12
-- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-12
-- **[docs/build-with-claude/skills-guide.md](https://docs.claude.com/en/docs/build-with-claude/skills-guide)** - 2025-11-12
-- **[docs/build-with-claude/tool-use.md](https://docs.claude.com/en/docs/build-with-claude/tool-use)** - 2025-11-12
-- **[docs/agents-and-tools/agent-skills/quickstart.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/quickstart)** - 2025-11-12
-- **[docs/about-claude/models/overview.md](https://docs.claude.com/en/docs/about-claude/models/overview)** - 2025-11-12
-- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-12
+- **[docs/agent-sdk/permissions.md](https://docs.claude.com/en/docs/agent-sdk/permissions)** - 2025-11-13
+- **[docs/build-with-claude/administration-api.md](https://docs.claude.com/en/docs/build-with-claude/administration-api)** - 2025-11-13
+- **[docs/en/settings.md](https://docs.claude.com/docs/en/settings)** - 2025-11-13
+- **[docs/agent-sdk/custom-tools.md](https://docs.claude.com/en/docs/agent-sdk/custom-tools)** - 2025-11-13
+- **[docs/agent-sdk/typescript.md](https://docs.claude.com/en/docs/agent-sdk/typescript)** - 2025-11-13
+- **[docs/get-started.md](https://docs.claude.com/en/docs/get-started)** - 2025-11-13
+- **[docs/en/claude-code-on-the-web.md](https://docs.claude.com/docs/en/claude-code-on-the-web)** - 2025-11-13
+- **[docs/test-and-evaluate/strengthen-guardrails/increase-consistency.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency)** - 2025-11-13
+- **[release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx.md](https://docs.claude.com/en/release-notes/en/docs/agents-and-tools/tool-use/implement-tool-use.mdx)** - 2025-11-13
+- **[docs/build-with-claude/embeddings.md](https://docs.claude.com/en/docs/build-with-claude/embeddings)** - 2025-11-13
 
 _...and 153 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-12 13:15:58 UTC
+**Last Generated**: 2025-11-13 12:05:44 UTC

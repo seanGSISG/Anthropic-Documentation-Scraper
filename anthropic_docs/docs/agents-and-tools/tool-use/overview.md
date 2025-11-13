@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/overview
-Last fetched: 2025-11-12T13:15:00.247059
+Last fetched: 2025-11-13T12:05:15.734717
 
 ---
 

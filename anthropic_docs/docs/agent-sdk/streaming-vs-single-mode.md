@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode
-Last fetched: 2025-11-12T13:14:42.955223
+Last fetched: 2025-11-13T12:04:50.450995
 
 ---
 

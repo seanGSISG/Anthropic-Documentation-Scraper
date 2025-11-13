@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks
-Last fetched: 2025-11-12T13:15:34.308359
+Last fetched: 2025-11-13T12:04:30.129691
 
 ---
 

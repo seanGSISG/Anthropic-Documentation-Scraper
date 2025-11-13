@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices
-Last fetched: 2025-11-12T13:15:56.795533
+Last fetched: 2025-11-13T12:05:20.359305
 
 ---
 
