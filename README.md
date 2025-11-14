@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-209-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--13-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--14-green)
 
 ---
 
@@ -13,8 +13,8 @@
 | Metric | Value |
 |--------|-------|
 | **Total Documents** | 209 |
-| **Total Size** | 2.87 MB |
-| **Last Updated** | 2025-11-13 13:16:03 UTC |
+| **Total Size** | 2.88 MB |
+| **Last Updated** | 2025-11-14 12:05:47 UTC |
 | **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/prompt-engineering.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering)** - 2025-11-13
-- **[docs/%E2%80%99.md](https://docs.claude.com/en/docs/%E2%80%99)** - 2025-11-13
-- **[docs/about-claude/models/whats-new-claude-4-5.md](https://docs.claude.com/en/docs/about-claude/models/whats-new-claude-4-5)** - 2025-11-13
-- **[docs/build-with-claude/claude-code-analytics-api.md](https://docs.claude.com/en/docs/build-with-claude/claude-code-analytics-api)** - 2025-11-13
-- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-11-13
-- **[docs/agents-and-tools/mcp-connector.md](https://docs.claude.com/en/docs/agents-and-tools/mcp-connector)** - 2025-11-13
-- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-11-13
-- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-11-13
-- **[docs/en/claude-code-on-the-web.md](https://docs.claude.com/docs/en/claude-code-on-the-web)** - 2025-11-13
-- **[docs/agent-sdk/typescript.md](https://docs.claude.com/en/docs/agent-sdk/typescript)** - 2025-11-13
+- **[docs/build-with-claude/prompt-engineering/prompt-improver.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-improver)** - 2025-11-14
+- **[docs/%E2%80%99.md](https://docs.claude.com/en/docs/%E2%80%99)** - 2025-11-14
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-14
+- **[docs/build-with-claude/prompt-engineering/overview.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview)** - 2025-11-14
+- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-14
+- **[docs/about-claude/overview.md](https://docs.claude.com/en/docs/about-claude/overview)** - 2025-11-14
+- **[docs/agent-sdk/cost-tracking.md](https://docs.claude.com/en/docs/agent-sdk/cost-tracking)** - 2025-11-14
+- **[docs/en/mcp.md](https://docs.claude.com/docs/en/mcp)** - 2025-11-14
+- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-14
+- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-11-14
 
 _...and 118 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-13 13:16:03 UTC
+**Last Generated**: 2025-11-14 12:05:48 UTC

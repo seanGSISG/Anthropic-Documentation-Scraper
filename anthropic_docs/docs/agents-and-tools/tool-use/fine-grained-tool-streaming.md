@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/fine-grained-tool-streaming
-Last fetched: 2025-11-13T13:15:00.890763
+Last fetched: 2025-11-14T12:05:00.056353
 
 ---
 

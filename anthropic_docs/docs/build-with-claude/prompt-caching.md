@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-caching
-Last fetched: 2025-11-13T13:15:06.533235
+Last fetched: 2025-11-14T12:05:28.377276
 
 ---
 
@@ -230,7 +230,7 @@ Cache prefixes are created in the following order: `tools`, `system`, then `mess
 
 #### How automatic prefix checking works
 
-You can use just one cache breakpoint at the end of your static content, and the system will automatically find the longest matching prefix. Understanding how this works helps you optimize your caching strategy.
+You can use just one cache breakpoint at the end of your static content, and the system will automatically find the longest matching sequence of cached blocks. Understanding how this works helps you optimize your caching strategy.
 
 **Three core principles:**
 
@@ -1133,7 +1133,7 @@ Below, we've included several code snippets that showcase various prompt caching
 
     In this example, we demonstrate how to use prompt caching in a multi-turn conversation.
 
-    During each turn, we mark the final block of the final message with `cache_control` so the conversation can be incrementally cached. The system will automatically lookup and use the longest previously cached prefix for follow-up messages. That is, blocks that were previously marked with a `cache_control` block are later not marked with this, but they will still be considered a cache hit (and also a cache refresh!) if they are hit within 5 minutes.
+    During each turn, we mark the final block of the final message with `cache_control` so the conversation can be incrementally cached. The system will automatically lookup and use the longest previously cached sequence of blocks for follow-up messages. That is, blocks that were previously marked with a `cache_control` block are later not marked with this, but they will still be considered a cache hit (and also a cache refresh!) if they are hit within 5 minutes.
 
     In addition, note that the `cache_control` parameter is placed on the system message. This is to ensure that if this gets evicted from the cache (after not being used for more than 5 minutes), it will get added back to the cache on the next request.
 
@@ -1600,7 +1600,7 @@ Below, we've included several code snippets that showcase various prompt caching
 
 <AccordionGroup>
   <Accordion title="Do I need multiple cache breakpoints or is one at the end sufficient?">
-    **In most cases, a single cache breakpoint at the end of your static content is sufficient.** The system automatically checks for cache hits at all previous content block boundaries (up to 20 blocks before your breakpoint) and uses the longest matching prefix.
+    **In most cases, a single cache breakpoint at the end of your static content is sufficient.** The system automatically checks for cache hits at all previous content block boundaries (up to 20 blocks before your breakpoint) and uses the longest matching sequence of cached blocks.
 
     You only need multiple breakpoints if:
 
