@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/api
-Last fetched: 2025-11-14T12:04:42.832941
+Last fetched: 2025-11-14T13:13:44.586123
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

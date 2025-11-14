@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/batch-processing
-Last fetched: 2025-11-14T12:05:19.853787
+Last fetched: 2025-11-14T13:13:47.109679
 
 ---
 

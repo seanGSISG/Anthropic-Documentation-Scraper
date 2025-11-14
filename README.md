@@ -14,8 +14,8 @@
 |--------|-------|
 | **Total Documents** | 209 |
 | **Total Size** | 2.88 MB |
-| **Last Updated** | 2025-11-14 12:05:47 UTC |
-| **New This Week** | 128 |
+| **Last Updated** | 2025-11-14 13:14:30 UTC |
+| **New This Week** | 127 |
 | **Updated This Week** | 0 |
 
 ---
@@ -36,18 +36,18 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/prompt-engineering/prompt-improver.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-improver)** - 2025-11-14
-- **[docs/%E2%80%99.md](https://docs.claude.com/en/docs/%E2%80%99)** - 2025-11-14
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-14
+- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-14
+- **[docs/agent-sdk/skills.md](https://docs.claude.com/en/docs/agent-sdk/skills)** - 2025-11-14
+- **[docs/build-with-claude/prompt-engineering/claude-4-best-practices.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)** - 2025-11-14
+- **[docs/en/claude-code-on-the-web.md](https://docs.claude.com/docs/en/claude-code-on-the-web)** - 2025-11-14
+- **[docs/agent-sdk/permissions.md](https://docs.claude.com/en/docs/agent-sdk/permissions)** - 2025-11-14
+- **[docs/about-claude/use-case-guides/legal-summarization.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/legal-summarization)** - 2025-11-14
+- **[docs/en/security.md](https://docs.claude.com/docs/en/security)** - 2025-11-14
 - **[docs/build-with-claude/prompt-engineering/overview.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview)** - 2025-11-14
-- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-14
-- **[docs/about-claude/overview.md](https://docs.claude.com/en/docs/about-claude/overview)** - 2025-11-14
-- **[docs/agent-sdk/cost-tracking.md](https://docs.claude.com/en/docs/agent-sdk/cost-tracking)** - 2025-11-14
-- **[docs/en/mcp.md](https://docs.claude.com/docs/en/mcp)** - 2025-11-14
-- **[docs/agents-and-tools/agent-skills/best-practices.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/best-practices)** - 2025-11-14
-- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-11-14
+- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-14
+- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-11-14
 
-_...and 118 more new documents_
+_...and 117 more new documents_
 
 
 ---
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-14 12:05:48 UTC
+**Last Generated**: 2025-11-14 13:14:31 UTC
