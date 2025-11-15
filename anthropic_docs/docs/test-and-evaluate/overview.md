@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/overview
-Last fetched: 2025-11-14T13:13:09.404139
+Last fetched: 2025-11-15T12:04:47.624080
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -51,6 +51,7 @@ Vision
 PDF support
 Files API
 Search results
+Structured outputs
 Google Sheets add-on
 Tools
 Overview

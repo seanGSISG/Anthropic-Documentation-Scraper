@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/api
-Last fetched: 2025-11-14T13:13:44.586123
+Last fetched: 2025-11-15T12:03:58.684376
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -31,6 +31,13 @@ complete CHANGELOG.md
 in the
 claude-code
 repository.
+​
+November 14, 2025
+We’ve launched
+structured outputs
+in public beta, providing guaranteed schema conformance for Claude’s responses. Use JSON outputs for structured data responses or strict tool use for validated tool inputs. Available for Claude Sonnet 4.5 and Claude Opus 4.1. To enable, use the beta header
+structured-outputs-2025-11-13
+.
 ​
 October 28, 2025
 We announced the deprecation of the Claude Sonnet 3.7 model. Read more in

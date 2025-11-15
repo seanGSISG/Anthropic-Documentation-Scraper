@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/get-started
-Last fetched: 2025-11-14T13:13:50.287932
+Last fetched: 2025-11-15T12:05:11.993096
 
 ---
 
@@ -18,7 +18,7 @@ Last fetched: 2025-11-14T13:13:50.287932
   <Tab title="cURL">
     <Steps>
       <Step title="Set your API key">
-        Get your API key from the [Claude Console](https://console.anthropic.com/settings/keys) and set it as an environment variable:
+        Get your API key at the [Claude Console](https://console.anthropic.com/settings/keys) and set it as an environment variable:
 
         ```bash  theme={null}
         export ANTHROPIC_API_KEY='your-api-key-here'

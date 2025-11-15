@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models
-Last fetched: 2025-11-14T13:13:32.181735
+Last fetched: 2025-11-15T12:05:26.649616
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -52,6 +52,7 @@ Vision
 PDF support
 Files API
 Search results
+Structured outputs
 Google Sheets add-on
 Tools
 Overview

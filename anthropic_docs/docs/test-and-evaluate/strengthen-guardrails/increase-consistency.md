@@ -1,9 +1,17 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/increase-consistency
-Last fetched: 2025-11-14T13:14:21.004761
+Last fetched: 2025-11-15T12:05:12.563481
 
 ---
 
 # Increase output consistency (JSON mode)
+
+<Tip>
+  **For guaranteed JSON schema conformance**
+
+  If you need Claude to always output valid JSON that conforms to a specific schema, use [Structured Outputs](/en/docs/build-with-claude/structured-outputs) instead of the prompt engineering techniques below. Structured outputs provide guaranteed schema compliance and are specifically designed for this use case.
+
+  The techniques below are useful for general output consistency or when you need flexibility beyond strict JSON schemas.
+</Tip>
 
 Here's how to make Claude's responses more consistent:
 

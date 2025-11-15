@@ -3,8 +3,8 @@
 > Automatically updated mirror of [docs.claude.com](https://docs.claude.com) documentation
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
-![Total Docs](https://img.shields.io/badge/total_docs-209-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--14-green)
+![Total Docs](https://img.shields.io/badge/total_docs-210-blue)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--15-green)
 
 ---
 
@@ -12,22 +12,22 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Documents** | 209 |
-| **Total Size** | 2.88 MB |
-| **Last Updated** | 2025-11-14 13:14:30 UTC |
-| **New This Week** | 127 |
+| **Total Documents** | 210 |
+| **Total Size** | 2.91 MB |
+| **Last Updated** | 2025-11-15 12:05:27 UTC |
+| **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
 ---
 
 ## 📂 Documentation Categories
 
-- **Claude Code**: 61 documents (29.2%)
-- **Other**: 53 documents (25.4%)
-- **Build with Claude**: 42 documents (20.1%)
+- **Claude Code**: 61 documents (29.0%)
+- **Other**: 53 documents (25.2%)
+- **Build with Claude**: 43 documents (20.5%)
 - **Agents & Tools**: 23 documents (11.0%)
-- **About Claude**: 16 documents (7.7%)
-- **Test & Evaluate**: 11 documents (5.3%)
+- **About Claude**: 16 documents (7.6%)
+- **Test & Evaluate**: 11 documents (5.2%)
 - **Release Notes**: 3 documents (1.4%)
 
 ---
@@ -36,18 +36,18 @@
 
 ### New Documents
 
-- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-14
-- **[docs/agent-sdk/skills.md](https://docs.claude.com/en/docs/agent-sdk/skills)** - 2025-11-14
-- **[docs/build-with-claude/prompt-engineering/claude-4-best-practices.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)** - 2025-11-14
-- **[docs/en/claude-code-on-the-web.md](https://docs.claude.com/docs/en/claude-code-on-the-web)** - 2025-11-14
-- **[docs/agent-sdk/permissions.md](https://docs.claude.com/en/docs/agent-sdk/permissions)** - 2025-11-14
-- **[docs/about-claude/use-case-guides/legal-summarization.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/legal-summarization)** - 2025-11-14
-- **[docs/en/security.md](https://docs.claude.com/docs/en/security)** - 2025-11-14
-- **[docs/build-with-claude/prompt-engineering/overview.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview)** - 2025-11-14
-- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-14
-- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-11-14
+- **[docs/test-and-evaluate/eval-tool.md](https://docs.claude.com/en/docs/test-and-evaluate/eval-tool)** - 2025-11-15
+- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-15
+- **[docs/en/troubleshooting.md](https://docs.claude.com/docs/en/troubleshooting)** - 2025-11-15
+- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-15
+- **[docs/en/vs-code.md](https://docs.claude.com/docs/en/vs-code)** - 2025-11-15
+- **[docs/en/mcp.md](https://docs.claude.com/docs/en/mcp)** - 2025-11-15
+- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-11-15
+- **[docs/agents-and-tools/tool-use/code-execution-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/code-execution-tool)** - 2025-11-15
+- **[docs/build-with-claude/claude-code-analytics-api.md](https://docs.claude.com/en/docs/build-with-claude/claude-code-analytics-api)** - 2025-11-15
+- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-15
 
-_...and 117 more new documents_
+_...and 118 more new documents_
 
 
 ---
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-14 13:14:31 UTC
+**Last Generated**: 2025-11-15 12:05:27 UTC

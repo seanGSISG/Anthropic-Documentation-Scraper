@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/tool-use
-Last fetched: 2025-11-14T13:13:14.753119
+Last fetched: 2025-11-15T12:04:54.259095
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -52,6 +52,7 @@ Vision
 PDF support
 Files API
 Search results
+Structured outputs
 Google Sheets add-on
 Tools
 Overview
@@ -125,6 +126,13 @@ courses
 continue to share your ideas and suggestions using this
 form
 .
+Guarantee schema conformance with strict tool use
+Structured Outputs
+provides guaranteed schema validation for tool inputs. Add
+strict: true
+to your tool definitions to ensure Claude’s tool calls always match your schema exactly—no more type mismatches or missing fields.
+Perfect for production agents where invalid tool parameters would cause failures.
+Learn when to use strict tool use →
 Here’s an example of how to provide tools to Claude using the Messages API:
 Shell
 Python

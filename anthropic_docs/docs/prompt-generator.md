@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/prompt-generator
-Last fetched: 2025-11-14T13:14:05.710944
+Last fetched: 2025-11-15T12:04:09.506145
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -52,6 +52,7 @@ Vision
 PDF support
 Files API
 Search results
+Structured outputs
 Google Sheets add-on
 Tools
 Overview

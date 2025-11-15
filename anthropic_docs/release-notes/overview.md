@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/overview
-Last fetched: 2025-11-14T13:13:48.210962
+Last fetched: 2025-11-15T12:04:53.293650
 
 ---
 
@@ -12,6 +12,10 @@ Last fetched: 2025-11-14T13:13:48.210962
 
   For updates to Claude Code, see the [complete CHANGELOG.md](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) in the `claude-code` repository.
 </Tip>
+
+### November 14, 2025
+
+* We've launched [structured outputs](/en/docs/build-with-claude/structured-outputs) in public beta, providing guaranteed schema conformance for Claude's responses. Use JSON outputs for structured data responses or strict tool use for validated tool inputs. Available for Claude Sonnet 4.5 and Claude Opus 4.1. To enable, use the beta header `structured-outputs-2025-11-13`.
 
 #### October 28, 2025
 

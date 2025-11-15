@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99
-Last fetched: 2025-11-14T13:13:15.444134
+Last fetched: 2025-11-15T12:04:51.696389
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -51,6 +51,7 @@ Vision
 PDF support
 Files API
 Search results
+Structured outputs
 Google Sheets add-on
 Tools
 Overview

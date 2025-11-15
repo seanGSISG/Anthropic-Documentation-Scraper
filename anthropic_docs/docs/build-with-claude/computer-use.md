@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/computer-use
-Last fetched: 2025-11-14T13:13:12.044817
+Last fetched: 2025-11-15T12:04:29.433110
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -52,6 +52,7 @@ Vision
 PDF support
 Files API
 Search results
+Structured outputs
 Google Sheets add-on
 Tools
 Overview

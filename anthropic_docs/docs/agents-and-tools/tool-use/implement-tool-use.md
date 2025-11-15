@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/tool-use/implement-tool-use
-Last fetched: 2025-11-14T13:13:52.454256
+Last fetched: 2025-11-15T12:04:41.729105
 
 ---
 
@@ -577,6 +577,12 @@ Note that when you have `tool_choice` as `any` or `tool`, we will prefill the as
 </Note>
 
 Our testing has shown that this should not reduce performance. If you would like the model to provide natural language context or explanations while still requesting that the model use a specific tool, you can use `{"type": "auto"}` for `tool_choice` (the default) and add explicit instructions in a `user` message. For example: `What's the weather like in London? Use the get_weather tool in your response.`
+
+<Tip>
+  **Guaranteed tool calls with strict tools**
+
+  Combine `tool_choice: {"type": "any"}` with [strict tool use](/en/docs/build-with-claude/structured-outputs) to guarantee both that one of your tools will be called AND that the tool inputs strictly follow your schema. Set `strict: true` on your tool definitions to enable schema validation.
+</Tip>
 
 ### JSON output
 
@@ -1522,6 +1528,10 @@ There are a few different types of errors that can occur when using tools with C
     ```
 
     If a tool request is invalid or missing parameters, Claude will retry 2-3 times with corrections before apologizing to the user.
+
+    <Tip>
+      To eliminate invalid tool calls entirely, use [strict tool use](/en/docs/build-with-claude/structured-outputs) with `strict: true` on your tool definitions. This guarantees that tool inputs will always match your schema exactly, preventing missing parameters and type mismatches.
+    </Tip>
   </Accordion>
 
   <Accordion title="<search_quality_reflection> tags">
