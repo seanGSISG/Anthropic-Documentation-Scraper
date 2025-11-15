@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 210 |
 | **Total Size** | 2.91 MB |
-| **Last Updated** | 2025-11-15 12:05:27 UTC |
+| **Last Updated** | 2025-11-15 13:10:37 UTC |
 | **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/test-and-evaluate/eval-tool.md](https://docs.claude.com/en/docs/test-and-evaluate/eval-tool)** - 2025-11-15
-- **[docs/about-claude/models/extended-thinking-models.md](https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models)** - 2025-11-15
-- **[docs/en/troubleshooting.md](https://docs.claude.com/docs/en/troubleshooting)** - 2025-11-15
-- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-15
+- **[docs/agents-and-tools/tool-use/token-efficient-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/token-efficient-tool-use)** - 2025-11-15
+- **[docs/agent-sdk/cost-tracking.md](https://docs.claude.com/en/docs/agent-sdk/cost-tracking)** - 2025-11-15
+- **[docs/claude-code.md](https://docs.claude.com/en/docs/claude-code)** - 2025-11-15
+- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-15
+- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-11-15
+- **[docs/build-with-claude/tool-use.md](https://docs.claude.com/en/docs/build-with-claude/tool-use)** - 2025-11-15
+- **[docs/en/setup.md](https://docs.claude.com/docs/en/setup)** - 2025-11-15
 - **[docs/en/vs-code.md](https://docs.claude.com/docs/en/vs-code)** - 2025-11-15
-- **[docs/en/mcp.md](https://docs.claude.com/docs/en/mcp)** - 2025-11-15
-- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-11-15
-- **[docs/agents-and-tools/tool-use/code-execution-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/code-execution-tool)** - 2025-11-15
-- **[docs/build-with-claude/claude-code-analytics-api.md](https://docs.claude.com/en/docs/build-with-claude/claude-code-analytics-api)** - 2025-11-15
-- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-15
+- **[docs/build-with-claude/search-results.md](https://docs.claude.com/en/docs/build-with-claude/search-results)** - 2025-11-15
+- **[docs/agents-and-tools/agent-skills/overview.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)** - 2025-11-15
 
 _...and 118 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-15 12:05:27 UTC
+**Last Generated**: 2025-11-15 13:10:37 UTC

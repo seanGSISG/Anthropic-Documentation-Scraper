@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/structured-outputs
-Last fetched: 2025-11-15T12:04:18.309741
+Last fetched: 2025-11-15T13:10:16.199729
 
 ---
 

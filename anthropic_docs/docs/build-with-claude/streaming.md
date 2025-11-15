@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/streaming
-Last fetched: 2025-11-15T12:05:24.469422
+Last fetched: 2025-11-15T13:10:30.156476
 
 ---
 

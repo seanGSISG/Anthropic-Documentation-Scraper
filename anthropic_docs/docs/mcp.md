@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/mcp
-Last fetched: 2025-11-15T12:03:56.889876
+Last fetched: 2025-11-15T13:09:19.663325
 
 ---
 
