@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/token-counting
-Last fetched: 2025-11-15T13:09:20.699749
+Last fetched: 2025-11-16T12:05:04.690389
 
 ---
 

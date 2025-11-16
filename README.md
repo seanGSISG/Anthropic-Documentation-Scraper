@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-210-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--15-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--16-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 210 |
 | **Total Size** | 2.91 MB |
-| **Last Updated** | 2025-11-15 13:10:37 UTC |
+| **Last Updated** | 2025-11-16 12:05:15 UTC |
 | **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agents-and-tools/tool-use/token-efficient-tool-use.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/token-efficient-tool-use)** - 2025-11-15
-- **[docs/agent-sdk/cost-tracking.md](https://docs.claude.com/en/docs/agent-sdk/cost-tracking)** - 2025-11-15
-- **[docs/claude-code.md](https://docs.claude.com/en/docs/claude-code)** - 2025-11-15
-- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-15
-- **[docs/build-with-claude/prompt-engineering/prompt-templates-and-variables.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables)** - 2025-11-15
-- **[docs/build-with-claude/tool-use.md](https://docs.claude.com/en/docs/build-with-claude/tool-use)** - 2025-11-15
-- **[docs/en/setup.md](https://docs.claude.com/docs/en/setup)** - 2025-11-15
-- **[docs/en/vs-code.md](https://docs.claude.com/docs/en/vs-code)** - 2025-11-15
-- **[docs/build-with-claude/search-results.md](https://docs.claude.com/en/docs/build-with-claude/search-results)** - 2025-11-15
-- **[docs/agents-and-tools/agent-skills/overview.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)** - 2025-11-15
+- **[docs/agents-and-tools/tool-use/fine-grained-tool-streaming.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/fine-grained-tool-streaming)** - 2025-11-16
+- **[docs/agent-sdk/typescript.md](https://docs.claude.com/en/docs/agent-sdk/typescript)** - 2025-11-16
+- **[release-notes/system-prompts.md](https://docs.claude.com/en/release-notes/system-prompts)** - 2025-11-16
+- **[docs/agent-sdk/hosting.md](https://docs.claude.com/en/docs/agent-sdk/hosting)** - 2025-11-16
+- **[docs/about-claude/use-case-guides/content-moderation.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation)** - 2025-11-16
+- **[docs/build-with-claude/prompt-engineering/prefill-claudes-response.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response)** - 2025-11-16
+- **[docs/build-with-claude/files.md](https://docs.claude.com/en/docs/build-with-claude/files)** - 2025-11-16
+- **[docs/build-with-claude/prompt-engineering/extended-thinking-tips.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/extended-thinking-tips)** - 2025-11-16
+- **[docs/build-with-claude/administration-api.md](https://docs.claude.com/en/docs/build-with-claude/administration-api)** - 2025-11-16
+- **[docs/en/legal-and-compliance.md](https://docs.claude.com/docs/en/legal-and-compliance)** - 2025-11-16
 
 _...and 118 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-15 13:10:37 UTC
+**Last Generated**: 2025-11-16 12:05:16 UTC

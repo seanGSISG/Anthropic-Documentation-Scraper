@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations
-Last fetched: 2025-11-15T13:09:27.450931
+Last fetched: 2025-11-16T12:05:00.504202
 
 ---
 

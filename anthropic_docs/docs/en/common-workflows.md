@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/common-workflows
-Last fetched: 2025-11-15T13:09:51.449214
+Last fetched: 2025-11-16T12:04:37.340472
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
