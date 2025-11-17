@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response
-Last fetched: 2025-11-17T12:05:16.132128
+Last fetched: 2025-11-17T13:14:22.156490
 
 ---
 

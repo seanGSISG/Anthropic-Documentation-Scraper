@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 210 |
 | **Total Size** | 2.91 MB |
-| **Last Updated** | 2025-11-17 12:05:47 UTC |
+| **Last Updated** | 2025-11-17 13:15:15 UTC |
 | **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/prompt-engineering/overview%E2%80%99.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99)** - 2025-11-17
-- **[docs/en/setup.md](https://docs.claude.com/docs/en/setup)** - 2025-11-17
-- **[docs/test-and-evaluate/define-success.md](https://docs.claude.com/en/docs/test-and-evaluate/define-success)** - 2025-11-17
-- **[docs/build-with-claude/citations.md](https://docs.claude.com/en/docs/build-with-claude/citations)** - 2025-11-17
-- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-11-17
-- **[docs/en/third-party-integrations.md](https://docs.claude.com/docs/en/third-party-integrations)** - 2025-11-17
-- **[docs/build-with-claude/search-results.md](https://docs.claude.com/en/docs/build-with-claude/search-results)** - 2025-11-17
-- **[docs/%E2%80%99.md](https://docs.claude.com/en/docs/%E2%80%99)** - 2025-11-17
-- **[docs/agent-sdk/skills.md](https://docs.claude.com/en/docs/agent-sdk/skills)** - 2025-11-17
+- **[docs/agent-sdk/modifying-system-prompts.md](https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts)** - 2025-11-17
 - **[docs/en/quickstart.md](https://docs.claude.com/docs/en/quickstart)** - 2025-11-17
+- **[docs/en/settings.md](https://docs.claude.com/docs/en/settings)** - 2025-11-17
+- **[docs/en/vs-code.md](https://docs.claude.com/docs/en/vs-code)** - 2025-11-17
+- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-11-17
+- **[docs/build-with-claude/context-editing.md](https://docs.claude.com/en/docs/build-with-claude/context-editing)** - 2025-11-17
+- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-17
+- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-17
+- **[docs/en/setup.md](https://docs.claude.com/docs/en/setup)** - 2025-11-17
+- **[docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals)** - 2025-11-17
 
 _...and 118 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-17 12:05:47 UTC
+**Last Generated**: 2025-11-17 13:15:16 UTC

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/context-windows
-Last fetched: 2025-11-17T12:04:24.550174
+Last fetched: 2025-11-17T13:14:00.552973
 
 ---
 

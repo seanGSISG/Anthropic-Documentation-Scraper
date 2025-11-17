@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/data-usage
-Last fetched: 2025-11-17T12:04:54.415338
+Last fetched: 2025-11-17T13:14:19.198249
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
