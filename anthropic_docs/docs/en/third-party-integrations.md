@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/third-party-integrations
-Last fetched: 2025-11-16T13:10:42.967441
+Last fetched: 2025-11-17T12:05:43.820155
 Note: Extracted from HTML (no .md endpoint available)
 
 ---

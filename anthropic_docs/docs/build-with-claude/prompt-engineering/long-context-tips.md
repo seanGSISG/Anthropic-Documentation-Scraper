@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/long-context-tips
-Last fetched: 2025-11-16T13:09:38.626497
+Last fetched: 2025-11-17T12:04:37.576406
 
 ---
 
