@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agents-and-tools/remote-mcp-servers
-Last fetched: 2025-11-17T13:14:04.854436
+Last fetched: 2025-11-18T12:05:08.395061
 
 ---
 

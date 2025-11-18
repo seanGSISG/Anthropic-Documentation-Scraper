@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/slash-commands
-Last fetched: 2025-11-17T13:14:12.846663
+Last fetched: 2025-11-18T12:04:44.142133
 
 ---
 

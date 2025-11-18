@@ -4,7 +4,7 @@
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
 ![Total Docs](https://img.shields.io/badge/total_docs-210-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--17-green)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--18-green)
 
 ---
 
@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 210 |
 | **Total Size** | 2.91 MB |
-| **Last Updated** | 2025-11-17 13:15:15 UTC |
+| **Last Updated** | 2025-11-18 12:05:26 UTC |
 | **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agent-sdk/modifying-system-prompts.md](https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts)** - 2025-11-17
-- **[docs/en/quickstart.md](https://docs.claude.com/docs/en/quickstart)** - 2025-11-17
-- **[docs/en/settings.md](https://docs.claude.com/docs/en/settings)** - 2025-11-17
-- **[docs/en/vs-code.md](https://docs.claude.com/docs/en/vs-code)** - 2025-11-17
-- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-11-17
-- **[docs/build-with-claude/context-editing.md](https://docs.claude.com/en/docs/build-with-claude/context-editing)** - 2025-11-17
-- **[docs/build-with-claude/streaming.md](https://docs.claude.com/en/docs/build-with-claude/streaming)** - 2025-11-17
-- **[docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/reduce-hallucinations)** - 2025-11-17
-- **[docs/en/setup.md](https://docs.claude.com/docs/en/setup)** - 2025-11-17
-- **[docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals.md](https://docs.claude.com/en/docs/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals)** - 2025-11-17
+- **[docs/build-with-claude/search-results.md](https://docs.claude.com/en/docs/build-with-claude/search-results)** - 2025-11-18
+- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-18
+- **[docs/agents-and-tools/tool-use/web-search-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool)** - 2025-11-18
+- **[docs/build-with-claude/prompt-engineering/prefill-claudes-response.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response)** - 2025-11-18
+- **[docs/agent-sdk/hosting.md](https://docs.claude.com/en/docs/agent-sdk/hosting)** - 2025-11-18
+- **[docs/build-with-claude/claude-on-vertex-ai.md](https://docs.claude.com/en/docs/build-with-claude/claude-on-vertex-ai)** - 2025-11-18
+- **[docs/build-with-claude/overview.md](https://docs.claude.com/en/docs/build-with-claude/overview)** - 2025-11-18
+- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-18
+- **[release-notes/system-prompts.md](https://docs.claude.com/en/release-notes/system-prompts)** - 2025-11-18
+- **[docs/agent-sdk/modifying-system-prompts.md](https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts)** - 2025-11-18
 
 _...and 118 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-17 13:15:16 UTC
+**Last Generated**: 2025-11-18 12:05:27 UTC

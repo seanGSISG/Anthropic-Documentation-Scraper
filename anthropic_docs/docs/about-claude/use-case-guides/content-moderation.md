@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/use-case-guides/content-moderation
-Last fetched: 2025-11-17T13:15:04.044285
+Last fetched: 2025-11-18T12:04:21.022931
 
 ---
 

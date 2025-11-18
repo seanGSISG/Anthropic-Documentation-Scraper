@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/claude-on-vertex-ai
-Last fetched: 2025-11-17T13:14:06.979701
+Last fetched: 2025-11-18T12:05:24.105027
 
 ---
 
