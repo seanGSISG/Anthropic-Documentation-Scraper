@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/choosing-a-model
-Last fetched: 2025-11-18T12:04:17.786233
+Last fetched: 2025-11-18T13:14:05.210076
 
 ---
 

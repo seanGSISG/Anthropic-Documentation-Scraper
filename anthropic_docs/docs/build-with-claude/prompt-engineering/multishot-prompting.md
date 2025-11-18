@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting
-Last fetched: 2025-11-18T12:05:17.413656
+Last fetched: 2025-11-18T13:14:41.941464
 
 ---
 

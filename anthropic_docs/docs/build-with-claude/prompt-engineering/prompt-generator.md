@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prompt-generator
-Last fetched: 2025-11-18T12:05:06.707726
+Last fetched: 2025-11-18T13:13:58.766517
 
 ---
 

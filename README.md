@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 210 |
 | **Total Size** | 2.91 MB |
-| **Last Updated** | 2025-11-18 12:05:26 UTC |
+| **Last Updated** | 2025-11-18 13:14:44 UTC |
 | **New This Week** | 128 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/build-with-claude/search-results.md](https://docs.claude.com/en/docs/build-with-claude/search-results)** - 2025-11-18
-- **[docs/intro.md](https://docs.claude.com/en/docs/intro)** - 2025-11-18
-- **[docs/agents-and-tools/tool-use/web-search-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-search-tool)** - 2025-11-18
-- **[docs/build-with-claude/prompt-engineering/prefill-claudes-response.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/prefill-claudes-response)** - 2025-11-18
-- **[docs/agent-sdk/hosting.md](https://docs.claude.com/en/docs/agent-sdk/hosting)** - 2025-11-18
-- **[docs/build-with-claude/claude-on-vertex-ai.md](https://docs.claude.com/en/docs/build-with-claude/claude-on-vertex-ai)** - 2025-11-18
-- **[docs/build-with-claude/overview.md](https://docs.claude.com/en/docs/build-with-claude/overview)** - 2025-11-18
-- **[docs/en/cli-reference.md](https://docs.claude.com/docs/en/cli-reference)** - 2025-11-18
-- **[release-notes/system-prompts.md](https://docs.claude.com/en/release-notes/system-prompts)** - 2025-11-18
-- **[docs/agent-sdk/modifying-system-prompts.md](https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts)** - 2025-11-18
+- **[docs/about-claude/model-deprecations.md](https://docs.claude.com/en/docs/about-claude/model-deprecations)** - 2025-11-18
+- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-11-18
+- **[docs/build-with-claude/claude-code-analytics-api.md](https://docs.claude.com/en/docs/build-with-claude/claude-code-analytics-api)** - 2025-11-18
+- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-11-18
+- **[docs/build-with-claude/prompt-engineering/multishot-prompting.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting)** - 2025-11-18
+- **[docs/agent-sdk/todo-tracking.md](https://docs.claude.com/en/docs/agent-sdk/todo-tracking)** - 2025-11-18
+- **[docs/build-with-claude/prompt-engineering/chain-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)** - 2025-11-18
+- **[docs/agents-and-tools/tool-use/memory-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool)** - 2025-11-18
+- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-11-18
+- **[docs/about-claude/use-case-guides/customer-support-chat.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/customer-support-chat)** - 2025-11-18
 
 _...and 118 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-18 12:05:27 UTC
+**Last Generated**: 2025-11-18 13:14:44 UTC

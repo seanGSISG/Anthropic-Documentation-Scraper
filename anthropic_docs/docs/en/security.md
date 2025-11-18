@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/security
-Last fetched: 2025-11-17T13:14:33.227076
+Last fetched: 2025-11-18T13:14:37.800976
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
