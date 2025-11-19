@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/text-generation
-Last fetched: 2025-11-19T12:05:03.788601
+Last fetched: 2025-11-19T13:15:06.028054
 
 ---
 

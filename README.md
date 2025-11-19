@@ -14,7 +14,7 @@
 |--------|-------|
 | **Total Documents** | 212 |
 | **Total Size** | 2.94 MB |
-| **Last Updated** | 2025-11-19 12:05:57 UTC |
+| **Last Updated** | 2025-11-19 13:15:47 UTC |
 | **New This Week** | 133 |
 | **Updated This Week** | 0 |
 
@@ -36,16 +36,16 @@
 
 ### New Documents
 
-- **[docs/agent-sdk/overview.md](https://docs.claude.com/en/docs/agent-sdk/overview)** - 2025-11-19
+- **[docs/prompt-generator.md](https://docs.claude.com/en/docs/prompt-generator)** - 2025-11-19
+- **[docs/build-with-claude/prompt-engineering/claude-4-best-practices.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices)** - 2025-11-19
+- **[docs/agents-and-tools/tool-use/web-fetch-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/web-fetch-tool)** - 2025-11-19
+- **[docs/en/quickstart.md](https://docs.claude.com/docs/en/quickstart)** - 2025-11-19
 - **[docs/agents-and-tools/agent-skills/overview.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)** - 2025-11-19
-- **[docs/build-with-claude/overview.md](https://docs.claude.com/en/docs/build-with-claude/overview)** - 2025-11-19
-- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-11-19
-- **[docs/agent-sdk/sessions.md](https://docs.claude.com/en/docs/agent-sdk/sessions)** - 2025-11-19
-- **[docs/agent-sdk/modifying-system-prompts.md](https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts)** - 2025-11-19
-- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-11-19
-- **[docs/build-with-claude/extended-thinking.md](https://docs.claude.com/en/docs/build-with-claude/extended-thinking)** - 2025-11-19
-- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-11-19
-- **[docs/agent-sdk/streaming-vs-single-mode.md](https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode)** - 2025-11-19
+- **[docs/build-with-claude/token-counting.md](https://docs.claude.com/en/docs/build-with-claude/token-counting)** - 2025-11-19
+- **[docs/build-with-claude/prompt-caching.md](https://docs.claude.com/en/docs/build-with-claude/prompt-caching)** - 2025-11-19
+- **[docs/agent-sdk/structured-outputs.md](https://docs.claude.com/en/docs/agent-sdk/structured-outputs)** - 2025-11-19
+- **[docs/claude-code/overview.md](https://docs.claude.com/en/docs/claude-code/overview)** - 2025-11-19
+- **[docs/agents-and-tools/tool-use/bash-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/bash-tool)** - 2025-11-19
 
 _...and 123 more new documents_
 
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-19 12:05:58 UTC
+**Last Generated**: 2025-11-19 13:15:48 UTC

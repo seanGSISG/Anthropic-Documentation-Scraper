@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/structured-outputs
-Last fetched: 2025-11-19T12:04:57.832760
+Last fetched: 2025-11-19T13:15:43.267311
 
 ---
 
