@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/pricing
-Last fetched: 2025-11-18T13:14:29.849416
+Last fetched: 2025-11-19T12:05:30.971310
 
 ---
 
@@ -39,10 +39,11 @@ The following table shows pricing for all Claude models across different usage t
 
 ## Third-party platform pricing
 
-Claude models are available on [AWS Bedrock](/en/docs/build-with-claude/claude-on-amazon-bedrock) and [Google Vertex AI](/en/docs/build-with-claude/claude-on-vertex-ai). For official pricing, visit:
+Claude models are available on [AWS Bedrock](/en/docs/build-with-claude/claude-on-amazon-bedrock), [Google Vertex AI](/en/docs/build-with-claude/claude-on-vertex-ai), and [Microsoft Foundry](/en/docs/build-with-claude/claude-in-microsoft-foundry). For official pricing, visit:
 
 * [AWS Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
 * [Google Vertex AI pricing](https://cloud.google.com/vertex-ai/generative-ai/pricing)
+* [Microsoft Foundry pricing](https://azure.microsoft.com/en-us/pricing/details/ai-foundry/#pricing)
 
 <Note>
   **Regional endpoint pricing for Claude 4.5 models and beyond**

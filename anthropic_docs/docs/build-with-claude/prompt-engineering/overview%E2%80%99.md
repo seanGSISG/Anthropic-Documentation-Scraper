@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview%E2%80%99
-Last fetched: 2025-11-17T13:13:59.516390
+Last fetched: 2025-11-19T12:05:25.603311
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -80,6 +80,7 @@ MCP connector
 Remote MCP servers
 Claude on 3rd-party platforms
 Amazon Bedrock
+Microsoft Foundry
 Vertex AI
 Prompt engineering
 Overview

@@ -3,8 +3,8 @@
 > Automatically updated mirror of [docs.claude.com](https://docs.claude.com) documentation
 
 [![Daily Docs Update](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml/badge.svg)](https://github.com/seanGSISG/claude_docs_scraper/actions/workflows/daily-scraper.yml)
-![Total Docs](https://img.shields.io/badge/total_docs-210-blue)
-![Last Update](https://img.shields.io/badge/last_update-2025--11--18-green)
+![Total Docs](https://img.shields.io/badge/total_docs-212-blue)
+![Last Update](https://img.shields.io/badge/last_update-2025--11--19-green)
 
 ---
 
@@ -12,21 +12,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Documents** | 210 |
-| **Total Size** | 2.91 MB |
-| **Last Updated** | 2025-11-18 13:14:44 UTC |
-| **New This Week** | 128 |
+| **Total Documents** | 212 |
+| **Total Size** | 2.94 MB |
+| **Last Updated** | 2025-11-19 12:05:57 UTC |
+| **New This Week** | 133 |
 | **Updated This Week** | 0 |
 
 ---
 
 ## 📂 Documentation Categories
 
-- **Claude Code**: 61 documents (29.0%)
-- **Other**: 53 documents (25.2%)
-- **Build with Claude**: 43 documents (20.5%)
-- **Agents & Tools**: 23 documents (11.0%)
-- **About Claude**: 16 documents (7.6%)
+- **Claude Code**: 61 documents (28.8%)
+- **Other**: 54 documents (25.5%)
+- **Build with Claude**: 44 documents (20.8%)
+- **Agents & Tools**: 23 documents (10.8%)
+- **About Claude**: 16 documents (7.5%)
 - **Test & Evaluate**: 11 documents (5.2%)
 - **Release Notes**: 3 documents (1.4%)
 
@@ -36,18 +36,18 @@
 
 ### New Documents
 
-- **[docs/about-claude/model-deprecations.md](https://docs.claude.com/en/docs/about-claude/model-deprecations)** - 2025-11-18
-- **[docs/build-with-claude/multilingual-support.md](https://docs.claude.com/en/docs/build-with-claude/multilingual-support)** - 2025-11-18
-- **[docs/build-with-claude/claude-code-analytics-api.md](https://docs.claude.com/en/docs/build-with-claude/claude-code-analytics-api)** - 2025-11-18
-- **[docs/build-with-claude/text-generation.md](https://docs.claude.com/en/docs/build-with-claude/text-generation)** - 2025-11-18
-- **[docs/build-with-claude/prompt-engineering/multishot-prompting.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting)** - 2025-11-18
-- **[docs/agent-sdk/todo-tracking.md](https://docs.claude.com/en/docs/agent-sdk/todo-tracking)** - 2025-11-18
-- **[docs/build-with-claude/prompt-engineering/chain-prompts.md](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)** - 2025-11-18
-- **[docs/agents-and-tools/tool-use/memory-tool.md](https://docs.claude.com/en/docs/agents-and-tools/tool-use/memory-tool)** - 2025-11-18
-- **[docs/build-with-claude/vision.md](https://docs.claude.com/en/docs/build-with-claude/vision)** - 2025-11-18
-- **[docs/about-claude/use-case-guides/customer-support-chat.md](https://docs.claude.com/en/docs/about-claude/use-case-guides/customer-support-chat)** - 2025-11-18
+- **[docs/agent-sdk/overview.md](https://docs.claude.com/en/docs/agent-sdk/overview)** - 2025-11-19
+- **[docs/agents-and-tools/agent-skills/overview.md](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)** - 2025-11-19
+- **[docs/build-with-claude/overview.md](https://docs.claude.com/en/docs/build-with-claude/overview)** - 2025-11-19
+- **[docs/about-claude/use-case-guides.md](https://docs.claude.com/en/docs/about-claude/use-case-guides)** - 2025-11-19
+- **[docs/agent-sdk/sessions.md](https://docs.claude.com/en/docs/agent-sdk/sessions)** - 2025-11-19
+- **[docs/agent-sdk/modifying-system-prompts.md](https://docs.claude.com/en/docs/agent-sdk/modifying-system-prompts)** - 2025-11-19
+- **[docs/about-claude/glossary.md](https://docs.claude.com/en/docs/about-claude/glossary)** - 2025-11-19
+- **[docs/build-with-claude/extended-thinking.md](https://docs.claude.com/en/docs/build-with-claude/extended-thinking)** - 2025-11-19
+- **[docs/about-claude/models.md](https://docs.claude.com/en/docs/about-claude/models)** - 2025-11-19
+- **[docs/agent-sdk/streaming-vs-single-mode.md](https://docs.claude.com/en/docs/agent-sdk/streaming-vs-single-mode)** - 2025-11-19
 
-_...and 118 more new documents_
+_...and 123 more new documents_
 
 
 ---
@@ -141,4 +141,4 @@ Documentation content © Anthropic - [docs.claude.com](https://docs.claude.com)
 
 ---
 
-**Last Generated**: 2025-11-18 13:14:44 UTC
+**Last Generated**: 2025-11-19 12:05:58 UTC

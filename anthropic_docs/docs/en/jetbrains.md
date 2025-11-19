@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/docs/en/jetbrains
-Last fetched: 2025-11-06T13:15:23.468399
+Last fetched: 2025-11-19T12:05:11.522239
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -19,7 +19,6 @@ Page Not Found
 Home
 Developer Guide
 API Reference
-Claude Code
 Model Context Protocol (MCP)
 Resources
 Release Notes

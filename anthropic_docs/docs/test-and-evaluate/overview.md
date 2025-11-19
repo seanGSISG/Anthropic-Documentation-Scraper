@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/test-and-evaluate/overview
-Last fetched: 2025-11-17T13:15:05.129908
+Last fetched: 2025-11-19T12:05:10.644231
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -80,6 +80,7 @@ MCP connector
 Remote MCP servers
 Claude on 3rd-party platforms
 Amazon Bedrock
+Microsoft Foundry
 Vertex AI
 Prompt engineering
 Overview

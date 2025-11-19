@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/about-claude/models/extended-thinking-models
-Last fetched: 2025-11-17T13:14:53.917101
+Last fetched: 2025-11-19T12:05:00.548015
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -81,6 +81,7 @@ MCP connector
 Remote MCP servers
 Claude on 3rd-party platforms
 Amazon Bedrock
+Microsoft Foundry
 Vertex AI
 Prompt engineering
 Overview

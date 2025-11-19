@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/hosting
-Last fetched: 2025-11-18T13:14:17.953921
+Last fetched: 2025-11-19T12:05:43.920606
 
 ---
 

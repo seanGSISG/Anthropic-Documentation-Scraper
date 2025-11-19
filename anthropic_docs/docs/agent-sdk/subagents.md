@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/agent-sdk/subagents
-Last fetched: 2025-11-18T13:13:32.212168
+Last fetched: 2025-11-19T12:04:43.886418
 
 ---
 

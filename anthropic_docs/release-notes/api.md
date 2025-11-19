@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/api
-Last fetched: 2025-11-18T13:14:11.722875
+Last fetched: 2025-11-19T12:04:37.286294
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -31,6 +31,13 @@ complete CHANGELOG.md
 in the
 claude-code
 repository.
+​
+November 18, 2025
+We’ve launched
+Claude in Microsoft Foundry
+, bringing Claude models to Azure customers with Azure billing and OAuth authentication. Access the full Messages API including extended thinking, prompt caching (5-minute and 1-hour), PDF support, Files API, Agent Skills, and tool use. Learn more in our
+Microsoft Foundry documentation
+.
 ​
 November 14, 2025
 We’ve launched

@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/release-notes/overview
-Last fetched: 2025-11-18T13:13:56.532756
+Last fetched: 2025-11-19T12:05:21.238734
 
 ---
 
@@ -12,6 +12,10 @@ Last fetched: 2025-11-18T13:13:56.532756
 
   For updates to Claude Code, see the [complete CHANGELOG.md](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) in the `claude-code` repository.
 </Tip>
+
+### November 18, 2025
+
+* We've launched **Claude in Microsoft Foundry**, bringing Claude models to Azure customers with Azure billing and OAuth authentication. Access the full Messages API including extended thinking, prompt caching (5-minute and 1-hour), PDF support, Files API, Agent Skills, and tool use. Learn more in our [Microsoft Foundry documentation](/en/docs/build-with-claude/claude-in-microsoft-foundry).
 
 ### November 14, 2025
 

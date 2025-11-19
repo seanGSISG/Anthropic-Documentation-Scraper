@@ -1,5 +1,5 @@
 Source: https://docs.claude.com/en/docs/claude-code
-Last fetched: 2025-11-17T13:14:40.548906
+Last fetched: 2025-11-19T12:05:24.677364
 Note: Extracted from HTML (no .md endpoint available)
 
 ---
@@ -26,7 +26,12 @@ Getting started
 Overview
 Quickstart
 Common workflows
+Outside of the terminal
 Claude Code on the web
+Visual Studio Code
+JetBrains IDEs
+GitHub Actions
+GitLab CI/CD
 On this page
 Get started in 30 seconds
 What Claude Code does for you
